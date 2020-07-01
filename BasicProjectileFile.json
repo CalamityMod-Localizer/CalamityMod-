@@ -1,0 +1,9148 @@
+{
+  "Projectiles": {
+    "AbyssBallVolley": {
+      "Name": {
+        "Origin": "Abyss Ball Volley",
+        "Translation": "深渊追魂弹"
+      }
+    },
+    "AbyssBallVolley2": {
+      "Name": {
+        "Origin": "Abyss Ball Volley",
+        "Translation": "深渊追魂弹"
+      }
+    },
+    "AbyssMine": {
+      "Name": {
+        "Origin": "Abyss Mine",
+        "Translation": "幽渊雷"
+      }
+    },
+    "AbyssMine2": {
+      "Name": {
+        "Origin": "Abyss Mine",
+        "Translation": "幽渊雷"
+      }
+    },
+    "AstralFlame": {
+      "Name": {
+        "Origin": "Astral Homing Flame",
+        "Translation": "星瀚逐影焰"
+      }
+    },
+    "AstralLaser": {
+      "Name": {
+        "Origin": "Astral Laser Volley",
+        "Translation": "星辉莫幻射线"
+      }
+    },
+    "AstralShot2": {
+      "Name": {
+        "Origin": "Astral Laser",
+        "Translation": "星辉莫幻光"
+      }
+    },
+    "BigFlare": {
+      "Name": {
+        "Origin": "Big Flare",
+        "Translation": "巨型耀斑"
+      }
+    },
+    "BigFlare2": {
+      "Name": {
+        "Origin": "Big Flare",
+        "Translation": "巨型耀斑"
+      }
+    },
+    "BloodClot": {
+      "Name": {
+        "Origin": "Blood Clot",
+        "Translation": "血凝块"
+      }
+    },
+    "BloodGeyser": {
+      "Name": {
+        "Origin": "Blood Geyser",
+        "Translation": "血涌泉"
+      }
+    },
+    "BrimstoneBall": {
+      "Name": {
+        "Origin": "Brimstone Fireball",
+        "Translation": "炼狱硫火球"
+      }
+    },
+    "BrimstoneBarrage": {
+      "Name": {
+        "Origin": "Brimstone Dart",
+        "Translation": "硫火飞弹"
+      }
+    },
+    "BrimstoneFire": {
+      "Name": {
+        "Origin": "Brimstone Fire",
+        "Translation": "炼狱硫火"
+      }
+    },
+    "BrimstoneFireblast": {
+      "Name": {
+        "Origin": "Brimstone Gigablast",
+        "Translation": "无际裂变"
+      }
+    },
+    "BrimstoneGigaBlast": {
+      "Name": {
+        "Origin": "Brimstone Fireblast",
+        "Translation": "深渊炙炎"
+      }
+    },
+    "BrimstoneHellblast": {
+      "Name": {
+        "Origin": "Brimstone Hellblast",
+        "Translation": "深渊亡魂"
+      }
+    },
+    "BrimstoneHellblast2": {
+      "Name": {
+        "Origin": "Brimstone Hellblast",
+        "Translation": "深渊亡魂"
+      }
+    },
+    "BrimstoneHellfireball": {
+      "Name": {
+        "Origin": "Brimstone Hellfireball",
+        "Translation": "炼狱硫火球"
+      }
+    },
+    "BrimstoneLaser": {
+      "Name": {
+        "Origin": "Brimstone Laser",
+        "Translation": "炼狱死光"
+      }
+    },
+    "BrimstoneLaserSplit": {
+      "Name": {
+        "Origin": "Brimstone Homing Laser",
+        "Translation": "狱火逐影射线"
+      }
+    },
+    "BrimstoneMonster": {
+      "Name": {
+        "Origin": "Brimstone Monster",
+        "Translation": "猩红圆月"
+      }
+    },
+    "BrimstoneRay": {
+      "Name": {
+        "Origin": "Brimstone Ray",
+        "Translation": "狱火永燃射线"
+      }
+    },
+    "BrimstoneTargetRay": {
+      "Name": {
+        "Origin": "Brimstone Target Ray",
+        "Translation": "狱火锁魂射线"
+      }
+    },
+    "BrimstoneWave": {
+      "Name": {
+        "Origin": "Brimstone Flame Skull",
+        "Translation": "深渊炙颅"
+      }
+    },
+    "CosmicFlameBurst": {
+      "Name": {
+        "Origin": "Cosmic Flame",
+        "Translation": "宙炎"
+      }
+    },
+    "DarkEnergyBall": {
+      "Name": {
+        "Origin": "Dark Energy",
+        "Translation": "暗能量"
+      }
+    },
+    "DarkEnergyBall2": {
+      "Name": {
+        "Origin": "Dark Energy",
+        "Translation": "暗能量"
+      }
+    },
+    "DestroyerHomingLaser": {
+      "Name": {
+        "Origin": "Homing Laser",
+        "Translation": "逐影激光"
+      }
+    },
+    "DeusMine": {
+      "Name": {
+        "Origin": "Astral Mine",
+        "Translation": "幻星雷"
+      }
+    },
+    "DoGBeam": {
+      "Name": {
+        "Origin": "Portal Laser",
+        "Translation": "传送门光束"
+      }
+    },
+    "DoGBeamPortal": {
+      "Name": {
+        "Origin": "Beam Portal",
+        "Translation": "传送门光束"
+      }
+    },
+    "DoGDeath": {
+      "Name": {
+        "Origin": "Death Beam",
+        "Translation": "死亡之光"
+      }
+    },
+    "DoGFire": {
+      "Name": {
+        "Origin": "Death Fire",
+        "Translation": "死亡之火"
+      }
+    },
+    "DoGNebulaShot": {
+      "Name": {
+        "Origin": "Death Laser",
+        "Translation": "破怀死光"
+      }
+    },
+    "EssenceDust": {
+      "Name": {
+        "Origin": "Cosmic Dust",
+        "Translation": "寰宇灵尘"
+      }
+    },
+    "Flare": {
+      "Name": {
+        "Origin": "Flare",
+        "Translation": "耀斑"
+      }
+    },
+    "FlareBomb": {
+      "Name": {
+        "Origin": "Flare Bomb",
+        "Translation": "炎爆弹"
+      }
+    },
+    "FlareDust": {
+      "Name": {
+        "Origin": "Flare Dust",
+        "Translation": "灼焱余烬"
+      }
+    },
+    "FlareDust2": {
+      "Name": {
+        "Origin": "Flare Bomb",
+        "Translation": "炎爆弹"
+      }
+    },
+    "Flarenado": {
+      "Name": {
+        "Origin": "Flarenado",
+        "Translation": "灼焱龙卷"
+      }
+    },
+    "FrostMist": {
+      "Name": {
+        "Origin": "Frost Mist",
+        "Translation": "霜雾"
+      }
+    },
+    "GreatSandBlast": {
+      "Name": {
+        "Origin": "Great Sand Blast",
+        "Translation": "大沙暴"
+      }
+    },
+    "HealOrbProv": {
+      "Name": {
+        "Origin": "Heal",
+        "Translation": "治愈球"
+      }
+    },
+    "HellfireExplosion": {
+      "Name": {
+        "Origin": "Brimstone Hellfire Explosion",
+        "Translation": "硫火焦炎爆"
+      }
+    },
+    "HiveBombGoliath": {
+      "Name": {
+        "Origin": "Hive Bomb",
+        "Translation": "腐脓爆裂"
+      }
+    },
+    "HolyBlast": {
+      "Name": {
+        "Origin": "Holy Blast",
+        "Translation": "圣之爆焱"
+      }
+    },
+    "HolyBomb": {
+      "Name": {
+        "Origin": "Holy Bomb",
+        "Translation": "闪耀之弹"
+      }
+    },
+    "HolyBurnOrb": {
+      "Name": {
+        "Origin": "Holy Orb",
+        "Translation": "神圣燃斑"
+      }
+    },
+    "HolyFire": {
+      "Name": {
+        "Origin": "Holy Fire",
+        "Translation": "神圣之火"
+      }
+    },
+    "HolyFire2": {
+      "Name": {
+        "Origin": "Holy Fire",
+        "Translation": "神圣之火"
+      }
+    },
+    "HolyFlare": {
+      "Name": {
+        "Origin": "Holy Flare",
+        "Translation": "圣之烁光"
+      }
+    },
+    "HolyLight": {
+      "Name": {
+        "Origin": "Holy Light",
+        "Translation": "神圣之光"
+      }
+    },
+    "HolyShot": {
+      "Name": {
+        "Origin": "Holy Spear",
+        "Translation": "神圣之矛"
+      }
+    },
+    "HolySpear": {
+      "Name": {
+        "Origin": "Holy Spear",
+        "Translation": "神圣之矛"
+      }
+    },
+    "IceBlast": {
+      "Name": {
+        "Origin": "Ice Blast",
+        "Translation": "冰霜爆"
+      }
+    },
+    "IceBomb": {
+      "Name": {
+        "Origin": "Ice Bomb",
+        "Translation": "冰锥"
+      }
+    },
+    "IceRain": {
+      "Name": {
+        "Origin": "Ice Rain",
+        "Translation": "冰晶雨"
+      }
+    },
+    "IchorShot": {
+      "Name": {
+        "Origin": "Ichor Shot",
+        "Translation": "灵液弹"
+      }
+    },
+    "Infernado": {
+      "Name": {
+        "Origin": "Infernado",
+        "Translation": "烈焰龙卷"
+      }
+    },
+    "Infernado2": {
+      "Name": {
+        "Origin": "Infernado",
+        "Translation": "烈焰龙卷"
+      }
+    },
+    "InfernadoRevenge": {
+      "Name": {
+        "Origin": "Infernado",
+        "Translation": "烈焰龙卷"
+      }
+    },
+    "LeviathanBomb": {
+      "Name": {
+        "Origin": "Meteor Vomit",
+        "Translation": "流陨倾泄"
+      }
+    },
+    "MoltenBlast": {
+      "Name": {
+        "Origin": "Molten Blast",
+        "Translation": "熔岩陨星"
+      }
+    },
+    "MoltenBlob": {
+      "Name": {
+        "Origin": "Molten Blob",
+        "Translation": "熔岩陨石"
+      }
+    },
+    "MushBomb": {
+      "Name": {
+        "Origin": "Mushroom Shot",
+        "Translation": "蘑菇弹"
+      }
+    },
+    "MushBombFall": {
+      "Name": {
+        "Origin": "Falling Mushroom",
+        "Translation": "飘落蘑菇孢子"
+      }
+    },
+    "Mushmash": {
+      "Name": {
+        "Origin": "Mushmash",
+        "Translation": "黏浆"
+      }
+    },
+    "PhantomBlast": {
+      "Name": {
+        "Origin": "Phantom Blast",
+        "Translation": "幻影冲击"
+      }
+    },
+    "PhantomBlast2": {
+      "Name": {
+        "Origin": "Potent Phantom Blast",
+        "Translation": "幽魂冲击"
+      }
+    },
+    "PhantomGhostShot": {
+      "Name": {
+        "Origin": "Potent Phantom Spirit Shot",
+        "Translation": "幻影灵弹"
+      }
+    },
+    "PhantomHookShot": {
+      "Name": {
+        "Origin": "Phantom Hook Shot",
+        "Translation": "幽魂飞弹"
+      }
+    },
+    "PhantomMine": {
+      "Name": {
+        "Origin": "Phantom Orb",
+        "Translation": "幻灵珠"
+      }
+    },
+    "PhantomShot": {
+      "Name": {
+        "Origin": "Phantom Shot",
+        "Translation": "幻空弹"
+      }
+    },
+    "PhantomShot2": {
+      "Name": {
+        "Origin": "Potent Phantom Shot",
+        "Translation": "幽魂飞弹"
+      }
+    },
+    "PlagueExplosion": {
+      "Name": {
+        "Origin": "Plague Stinger Explosion",
+        "Translation": "瘟疫导弹"
+      }
+    },
+    "PlagueStingerGoliath": {
+      "Name": {
+        "Origin": "Plague Homing Stinger",
+        "Translation": "制导瘟疫弹"
+      }
+    },
+    "PlagueStingerGoliathV2": {
+      "Name": {
+        "Origin": "Exploding Plague Stinger",
+        "Translation": "制导瘟疫弹V2"
+      }
+    },
+    "ProfanedSpear": {
+      "Name": {
+        "Origin": "Profaned Spear",
+        "Translation": "瘟疫长矛"
+      }
+    },
+    "ProvidenceCrystal": {
+      "Name": {
+        "Origin": "Holy Crystal",
+        "Translation": "圣洁水晶"
+      }
+    },
+    "ProvidenceCrystalShard": {
+      "Name": {
+        "Origin": "Holy Crystal Shard",
+        "Translation": "神圣碎晶片"
+      }
+    },
+    "ProvidenceHolyRay": {
+      "Name": {
+        "Origin": "Holy Ray",
+        "Translation": "圣之耀光"
+      }
+    },
+    "RavagerFlame": {
+      "Name": {
+        "Origin": "Blue Flame",
+        "Translation": "湛蓝火焰"
+      }
+    },
+    "RedLightningFeather": {
+      "Name": {
+        "Origin": "Lightning Feather",
+        "Translation": "闪耀红羽"
+      }
+    },
+    "SandBlast": {
+      "Name": {
+        "Origin": "Sand Blast",
+        "Translation": "沙尘暴"
+      }
+    },
+    "SandPoisonCloud": {
+      "Name": {
+        "Origin": "Toxic Cloud",
+        "Translation": "疫毒之云"
+      }
+    },
+    "SandTooth": {
+      "Name": {
+        "Origin": "Sand Tooth",
+        "Translation": "瀚漠之牙"
+      }
+    },
+    "ScavengerLaser": {
+      "Name": {
+        "Origin": "Homing Dart",
+        "Translation": "回旋镖"
+      }
+    },
+    "ScavengerNuke": {
+      "Name": {
+        "Origin": "Homing Nuke",
+        "Translation": "制导核导弹"
+      }
+    },
+    "ShadeNimbusHostile": {
+      "Name": {
+        "Origin": "Shade Nimbus",
+        "Translation": "乌云"
+      }
+    },
+    "ShaderainHostile": {
+      "Name": {
+        "Origin": "Cursed Rain",
+        "Translation": "诅咒之雨"
+      }
+    },
+    "ShadowflameFireball": {
+      "Name": {
+        "Origin": "Shadowflame Fireball",
+        "Translation": "暗影火球"
+      }
+    },
+    "Shadowflamethrower": {
+      "Name": {
+        "Origin": "Shadowflame Breath",
+        "Translation": "影炎之息"
+      }
+    },
+    "SignusScythe": {
+      "Name": {
+        "Origin": "Scythe",
+        "Translation": "西格纳斯鬼镰"
+      }
+    },
+    "SirenSong": {
+      "Name": {
+        "Origin": "Musical Note",
+        "Translation": "魅惑之音"
+      }
+    },
+    "SkyFlare": {
+      "Name": {
+        "Origin": "Sky Flare",
+        "Translation": "天界之火"
+      }
+    },
+    "SkyFlareRevenge": {
+      "Name": {
+        "Origin": "Sky Flare",
+        "Translation": "天界之火"
+      }
+    },
+    "SporeGasPlantera": {
+      "Name": {
+        "Origin": "Spore Gas",
+        "Translation": "毒气孢子"
+      }
+    },
+    "VileClot": {
+      "Name": {
+        "Origin": "Vile Clot",
+        "Translation": "恶毒瘤块"
+      }
+    },
+    "WaterSpear": {
+      "Name": {
+        "Origin": "Water Spear",
+        "Translation": "水之枪"
+      }
+    },
+    "YharonFireball": {
+      "Name": {
+        "Origin": "Dragon Fireball",
+        "Translation": "龙炎弹"
+      }
+    },
+    "YharonFireball2": {
+      "Name": {
+        "Origin": "Dragon Fireball",
+        "Translation": "龙炎弹"
+      }
+    },
+    "AstralShot": {
+      "Name": {
+        "Origin": "Laser",
+        "Translation": "星瀚辉光"
+      }
+    },
+    "CrimsonSpike": {
+      "Name": {
+        "Origin": "Spike",
+        "Translation": "猩红棘刺"
+      }
+    },
+    "EarthRockBig": {
+      "Name": {
+        "Origin": "Rock",
+        "Translation": "巨岩"
+      }
+    },
+    "EarthRockSmall": {
+      "Name": {
+        "Origin": "Rock",
+        "Translation": "岩块"
+      }
+    },
+    "FlameBurstHostile": {
+      "Name": {
+        "Origin": "Burst",
+        "Translation": "炙炎"
+      }
+    },
+    "HorsWaterBlast": {
+      "Name": {
+        "Origin": "Water",
+        "Translation": "水"
+      }
+    },
+    "InkBomb": {
+      "Name": {
+        "Origin": "Ink Bomb",
+        "Translation": "墨水爆弹"
+      }
+    },
+    "InkPoisonCloud": {
+      "Name": {
+        "Origin": "Cloud",
+        "Translation": "阴毒云"
+      }
+    },
+    "InkPoisonCloud2": {
+      "Name": {
+        "Origin": "Cloud",
+        "Translation": "阴毒云"
+      }
+    },
+    "InkPoisonCloud3": {
+      "Name": {
+        "Origin": "Cloud",
+        "Translation": "阴毒云"
+      }
+    },
+    "LavaChunk": {
+      "Name": {
+        "Origin": "Lava Chunk",
+        "Translation": "熔岩块"
+      }
+    },
+    "LightningMark": {
+      "Name": {
+        "Origin": "Lightning Mark",
+        "Translation": "烁光铭印"
+      }
+    },
+    "MantisRing": {
+      "Name": {
+        "Origin": "Mantis Ring",
+        "Translation": "幻星螳螂"
+      }
+    },
+    "PearlBurst": {
+      "Name": {
+        "Origin": "Pearl Burst",
+        "Translation": "爆裂珍珠"
+      }
+    },
+    "PearlRain": {
+      "Name": {
+        "Origin": "Pearl Rain",
+        "Translation": "珍珠雨"
+      }
+    },
+    "PufferExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "刺豚爆炸"
+      }
+    },
+    "StormMarkHostile": {
+      "Name": {
+        "Origin": "Mark",
+        "Translation": "暴风铭印"
+      }
+    },
+    "SulphuricAcidBubble": {
+      "Name": {
+        "Origin": "Acid Bubble",
+        "Translation": "酸性气泡"
+      }
+    },
+    "SulphuricAcidMist": {
+      "Name": {
+        "Origin": "Acid Mist",
+        "Translation": "酸雾"
+      }
+    },
+    "TornadoHostile": {
+      "Name": {
+        "Origin": "Tornado",
+        "Translation": "龙卷风"
+      }
+    },
+    "ToxicMinnowCloud": {
+      "Name": {
+        "Origin": "Cloud",
+        "Translation": "毒云"
+      }
+    },
+    "AtaxiaHealOrb": {
+      "Name": {
+        "Origin": "Ataxia Heal Orb",
+        "Translation": "禅心剑气"
+      }
+    },
+    "AuricOrb": {
+      "Name": {
+        "Origin": "Auric Orb",
+        "Translation": "艾瑞克珠"
+      }
+    },
+    "BurntSiennaProj": {
+      "Name": {
+        "Origin": "Sienna",
+        "Translation": "赛纳"
+      }
+    },
+    "CactusHealOrb": {
+      "Name": {
+        "Origin": "Heal",
+        "Translation": "治愈球"
+      }
+    },
+    "EarthHealOrb": {
+      "Name": {
+        "Origin": "Heal",
+        "Translation": "治愈球"
+      }
+    },
+    "EssenceFlame": {
+      "Name": {
+        "Origin": "Flame",
+        "Translation": "透髓之火"
+      }
+    },
+    "Exoheal": {
+      "Name": {
+        "Origin": "Heal",
+        "Translation": "治愈"
+      }
+    },
+    "FungalHeal": {
+      "Name": {
+        "Origin": "Heal",
+        "Translation": "治愈"
+      }
+    },
+    "GodSlayerHealOrb": {
+      "Name": {
+        "Origin": "God Slayer Heal Orb",
+        "Translation": "弑神者治愈球"
+      }
+    },
+    "PhoenixHeal": {
+      "Name": {
+        "Origin": "Heal",
+        "Translation": "治愈"
+      }
+    },
+    "RainHeal": {
+      "Name": {
+        "Origin": "Heal",
+        "Translation": "治愈"
+      }
+    },
+    "RoyalHeal": {
+      "Name": {
+        "Origin": "Heal",
+        "Translation": "治愈"
+      }
+    },
+    "ShinobiHealOrb": {
+      "Name": {
+        "Origin": "Blue Healing Orb",
+        "Translation": "蓝色治愈球"
+      }
+    },
+    "SilvaOrb": {
+      "Name": {
+        "Origin": "Silva Orb",
+        "Translation": "希尔瓦球"
+      }
+    },
+    "TerracottaProj": {
+      "Name": {
+        "Origin": "Terra",
+        "Translation": "圣护血珠"
+      }
+    },
+    "TransfusionTrail": {
+      "Name": {
+        "Origin": "Heal",
+        "Translation": "治愈"
+      }
+    },
+    "XerocHealOrb": {
+      "Name": {
+        "Origin": "Heal",
+        "Translation": "治愈球"
+      }
+    },
+    "AbyssBall": {
+      "Name": {
+        "Origin": "Abyss Ball",
+        "Translation": "深渊之掷"
+      }
+    },
+    "AetherBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "以太射线"
+      }
+    },
+    "Ancient": {
+      "Name": {
+        "Origin": "Ancient",
+        "Translation": "亘古"
+      }
+    },
+    "Ancient2": {
+      "Name": {
+        "Origin": "Ancient",
+        "Translation": "亘古"
+      }
+    },
+    "ApothChloro": {
+      "Name": {
+        "Origin": "Rays of Annihilation",
+        "Translation": "湮灭射线"
+      }
+    },
+    "ApothJaws": {
+      "Name": {
+        "Origin": "Jaws of Annihilation",
+        "Translation": "湮灭之爪"
+      }
+    },
+    "ApothMark": {
+      "Name": {
+        "Origin": "Jaws of Annihilation",
+        "Translation": "湮灭之爪"
+      }
+    },
+    "AquamarineBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "海耀"
+      }
+    },
+    "ArcticBearPawProj": {
+      "Name": {
+        "Origin": "Arctic Bear Paw",
+        "Translation": "北极熊爪"
+      }
+    },
+    "Asteroid": {
+      "Name": {
+        "Origin": "Asteroid",
+        "Translation": "小行星"
+      }
+    },
+    "AsteroidMolten": {
+      "Name": {
+        "Origin": "Asteroid",
+        "Translation": "小行星"
+      }
+    },
+    "AstralachneaFang": {
+      "Name": {
+        "Origin": "Fang",
+        "Translation": "獠牙"
+      }
+    },
+    "AstralCrystal": {
+      "Name": {
+        "Origin": "Crystal",
+        "Translation": "星幻凝晶"
+      }
+    },
+    "AstralCrystalInvisibleExplosion": {
+      "Name": {
+        "Origin": "Astral Crystal Invisible Explosion",
+        "Translation": "星体晶影爆"
+      }
+    },
+    "AstralStarMagic": {
+      "Name": {
+        "Origin": "Star",
+        "Translation": "寰星奥秘"
+      }
+    },
+    "AtlantisSpear": {
+      "Name": {
+        "Origin": "Atlantis Spear",
+        "Translation": "亚特兰蒂斯之枪"
+      }
+    },
+    "AtlantisSpear2": {
+      "Name": {
+        "Origin": "Atlantis Spear",
+        "Translation": "亚特兰蒂斯之枪"
+      }
+    },
+    "AuraRain": {
+      "Name": {
+        "Origin": "Aura Rain",
+        "Translation": "光环雨"
+      }
+    },
+    "BeamingBolt": {
+      "Name": {
+        "Origin": "Beaming Bolt",
+        "Translation": "光斑"
+      }
+    },
+    "BeamingBolt2": {
+      "Name": {
+        "Origin": "Beaming Bolt",
+        "Translation": "光斑"
+      }
+    },
+    "BeastScythe": {
+      "Name": {
+        "Origin": "Scythe",
+        "Translation": "狂野之镰"
+      }
+    },
+    "BigBeamofDeath": {
+      "Name": {
+        "Origin": "Big Beam of Death",
+        "Translation": "巨型死光束"
+      }
+    },
+    "BigBeamofDeath2": {
+      "Name": {
+        "Origin": "Big Beam of Death",
+        "Translation": "巨型死光束"
+      }
+    },
+    "BlackAnurianBubble": {
+      "Name": {
+        "Origin": "Bubble",
+        "Translation": "黑尿鱼泡泡"
+      }
+    },
+    "BlackAnurianPlankton": {
+      "Name": {
+        "Origin": "Plankton",
+        "Translation": "黑尿鱼"
+      }
+    },
+    "BloodBeam": {
+      "Name": {
+        "Origin": "Blood Beam",
+        "Translation": "猩红之光"
+      }
+    },
+    "BloodBlast": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "鲜血爆弹"
+      }
+    },
+    "BloodBolt": {
+      "Name": {
+        "Origin": "Blood Bolt",
+        "Translation": "血栓"
+      }
+    },
+    "BloodOrb": {
+      "Name": {
+        "Origin": "Blood Orb",
+        "Translation": "血块"
+      }
+    },
+    "BloodRay": {
+      "Name": {
+        "Origin": "Blood Ray",
+        "Translation": "猩红射线"
+      }
+    },
+    "BlueBubble": {
+      "Name": {
+        "Origin": "Bubble",
+        "Translation": "蓝泡泡"
+      }
+    },
+    "BlushieStaffProj": {
+      "Name": {
+        "Origin": "Staff of Blushie",
+        "Translation": "蓝炼魂法杖"
+      }
+    },
+    "BrimstoneBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "硫火光束"
+      }
+    },
+    "BrimstoneBeam2": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "硫火光束"
+      }
+    },
+    "BrimstoneBeam3": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "硫火光束"
+      }
+    },
+    "BrimstoneBeam4": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "硫火光束"
+      }
+    },
+    "BrimstoneBeam5": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "硫火光束"
+      }
+    },
+    "BrimstoneFireball": {
+      "Name": {
+        "Origin": "Fireball",
+        "Translation": "狱炎球"
+      }
+    },
+    "BrimstoneHellfireballFriendly": {
+      "Name": {
+        "Origin": "Hellfire",
+        "Translation": "地狱火"
+      }
+    },
+    "BrimstoneHellfireballFriendly2": {
+      "Name": {
+        "Origin": "Hellfire",
+        "Translation": "地狱火"
+      }
+    },
+    "BrimstoneHomer": {
+      "Name": {
+        "Origin": "Homer",
+        "Translation": "硫火追踪弹"
+      }
+    },
+    "BrimstoneTentacle": {
+      "Name": {
+        "Origin": "Tentacle",
+        "Translation": "诡触"
+      }
+    },
+    "ClamorNoctusStar": {
+      "Name": {
+        "Origin": "Star",
+        "Translation": "裂空之星"
+      }
+    },
+    "ClamorNoctusWyvern": {
+      "Name": {
+        "Origin": "Wyvern",
+        "Translation": "星龙"
+      }
+    },
+    "Climax2": {
+      "Name": {
+        "Origin": "Climax",
+        "Translation": "光伏磁球"
+      }
+    },
+    "ClimaxBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "光伏射线"
+      }
+    },
+    "ClimaxProj": {
+      "Name": {
+        "Origin": "Climax",
+        "Translation": "光伏磁球"
+      }
+    },
+    "CoralSpike": {
+      "Name": {
+        "Origin": "Coral Spike",
+        "Translation": "珊瑚刺"
+      }
+    },
+    "CosmicTentacle": {
+      "Name": {
+        "Origin": "Tentacle",
+        "Translation": "次元之触"
+      }
+    },
+    "Crescent": {
+      "Name": {
+        "Origin": "Crescent Cutter",
+        "Translation": "新月斩切波"
+      }
+    },
+    "CryoBlast": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "霜寒爆裂"
+      }
+    },
+    "DarkSparkBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "寂虚之光"
+      }
+    },
+    "DarkSparkPrism": {
+      "Name": {
+        "Origin": "Crystal",
+        "Translation": "寂虚之光"
+      }
+    },
+    "DemonicPitchforkProj": {
+      "Name": {
+        "Origin": "Pitchfork",
+        "Translation": "恶魔三叉戟"
+      }
+    },
+    "DivineRetributionSpear": {
+      "Name": {
+        "Origin": "Divine Retribution",
+        "Translation": "神罚"
+      }
+    },
+    "DustProjectile": {
+      "Name": {
+        "Origin": "Dust",
+        "Translation": "余烬"
+      }
+    },
+    "EidolicWailSoundwave": {
+      "Name": {
+        "Origin": "Wail",
+        "Translation": "哀怨之声"
+      }
+    },
+    "EldritchTentacle": {
+      "Name": {
+        "Origin": "Tentacle",
+        "Translation": "诡触"
+      }
+    },
+    "ElementalRayBeam": {
+      "Name": {
+        "Origin": "Ray",
+        "Translation": "元素射线"
+      }
+    },
+    "ElementBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "元素耀斑"
+      }
+    },
+    "ElementBolt2": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "元素耀斑"
+      }
+    },
+    "ElementOrb": {
+      "Name": {
+        "Origin": "Orb",
+        "Translation": "元素融合珠"
+      }
+    },
+    "ElementOrb2": {
+      "Name": {
+        "Origin": "Orb",
+        "Translation": "元素融合珠"
+      }
+    },
+    "ElementTentacle": {
+      "Name": {
+        "Origin": "Tentacle",
+        "Translation": "元素之须"
+      }
+    },
+    "EventHorizonBlackhole": {
+      "Name": {
+        "Origin": "Blackhole",
+        "Translation": "事件视界黑洞"
+      }
+    },
+    "EventHorizonStar": {
+      "Name": {
+        "Origin": "Event Horizon Star",
+        "Translation": "事件视界行星"
+      }
+    },
+    "EvergladeSprayProjectile": {
+      "Name": {
+        "Origin": "Spray",
+        "Translation": "常青之气"
+      }
+    },
+    "FabBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "原体斑"
+      }
+    },
+    "FabOrb": {
+      "Name": {
+        "Origin": "Orb",
+        "Translation": "原体块"
+      }
+    },
+    "FabRay": {
+      "Name": {
+        "Origin": "Ray",
+        "Translation": "原体射线"
+      }
+    },
+    "FatesRevealFlame": {
+      "Name": {
+        "Origin": "Fireball",
+        "Translation": "命运火球"
+      }
+    },
+    "FlameBeamTip": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "炙炎喷溅"
+      }
+    },
+    "FlameBeamTip2": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "炙炎喷溅"
+      }
+    },
+    "FlamingPumpkin": {
+      "Name": {
+        "Origin": "Pumpkin",
+        "Translation": "南瓜"
+      }
+    },
+    "FlareBoltProjectile": {
+      "Name": {
+        "Origin": "Flare Bolt",
+        "Translation": "耀斑"
+      }
+    },
+    "ForbiddenAxeBlade": {
+      "Name": {
+        "Origin": "Blade",
+        "Translation": "禁忌斧刃"
+      }
+    },
+    "ForbiddenSunburst": {
+      "Name": {
+        "Origin": "Sunburst",
+        "Translation": "禁忌阳炎爆"
+      }
+    },
+    "ForbiddenSunProjectile": {
+      "Name": {
+        "Origin": "Sun",
+        "Translation": "禁忌之阳"
+      }
+    },
+    "FrigidflashBoltProjectile": {
+      "Name": {
+        "Origin": "Frigidflash Bolt",
+        "Translation": "寒流"
+      }
+    },
+    "FrostBoltProjectile": {
+      "Name": {
+        "Origin": "Ball",
+        "Translation": "霜冻球"
+      }
+    },
+    "GammaLaser": {
+      "Name": {
+        "Origin": "Laser",
+        "Translation": "伽马射线"
+      }
+    },
+    "GhastlyBlast": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "惧爆"
+      }
+    },
+    "GhastlyExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "惊惧猛增"
+      }
+    },
+    "GhastlyExplosionShard": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "GhastlySubBlast": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "爆炸"
+      }
+    },
+    "GhastlyVisageProj": {
+      "Name": {
+        "Origin": "Visage",
+        "Translation": "惊恐面貌"
+      }
+    },
+    "GleamingBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "闪光箭"
+      }
+    },
+    "GleamingBolt2": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "闪光箭"
+      }
+    },
+    "GraniteEnergy": {
+      "Name": {
+        "Origin": "Granite Energy",
+        "Translation": "花岗岩能量"
+      }
+    },
+    "GranitePulse": {
+      "Name": {
+        "Origin": "Pulse",
+        "Translation": "花岗岩脉冲"
+      }
+    },
+    "HadopelagicEcho2": {
+      "Name": {
+        "Origin": "Echo",
+        "Translation": "冥渊回音"
+      }
+    },
+    "HadopelagicEchoSoundwave": {
+      "Name": {
+        "Origin": "Echo",
+        "Translation": "冥渊回音波"
+      }
+    },
+    "HeliumFlashBlast": {
+      "Name": {
+        "Origin": "Helium Flash",
+        "Translation": "氦闪"
+      }
+    },
+    "HellfireExplosionFriendly": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "狱火炎爆"
+      }
+    },
+    "HellfireExplosionFriendly2": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "狱火炎爆"
+      }
+    },
+    "HellwingPillar": {
+      "Name": {
+        "Origin": "Pillar",
+        "Translation": "狱岩之柱"
+      }
+    },
+    "HolyFlame": {
+      "Name": {
+        "Origin": "Flame",
+        "Translation": "圣火"
+      }
+    },
+    "HolyLaser": {
+      "Name": {
+        "Origin": "Laser",
+        "Translation": "圣光聚束"
+      }
+    },
+    "IceBarrageMain": {
+      "Name": {
+        "Origin": "Ice Barrage",
+        "Translation": "寒冰弹幕"
+      }
+    },
+    "IceBlock": {
+      "Name": {
+        "Origin": "Ice Barrage",
+        "Translation": "寒冰弹幕"
+      }
+    },
+    "IceBlockIcicle": {
+      "Name": {
+        "Origin": "Ice Barrage",
+        "Translation": "寒冰弹幕"
+      }
+    },
+    "IceCluster": {
+      "Name": {
+        "Origin": "Ice",
+        "Translation": "冰簇"
+      }
+    },
+    "IceSpike": {
+      "Name": {
+        "Origin": "Spike",
+        "Translation": "冰锥"
+      }
+    },
+    "Icicle": {
+      "Name": {
+        "Origin": "Icicle",
+        "Translation": "冰锥"
+      }
+    },
+    "IcicleStaffProj": {
+      "Name": {
+        "Origin": "Fury",
+        "Translation": "冰坠"
+      }
+    },
+    "InfernadoFriendly": {
+      "Name": {
+        "Origin": "Infernado",
+        "Translation": "烈焰龙卷"
+      }
+    },
+    "InfernadoMarkFriendly": {
+      "Name": {
+        "Origin": "Mark",
+        "Translation": "火龙卷标记"
+      }
+    },
+    "InfernalBlade": {
+      "Name": {
+        "Origin": "Blade",
+        "Translation": "烈刃龙卷"
+      }
+    },
+    "InfernalBlade2": {
+      "Name": {
+        "Origin": "Blade",
+        "Translation": "烈刃龙卷"
+      }
+    },
+    "IonBlast": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "离子爆破"
+      }
+    },
+    "KeelhaulBubble": {
+      "Name": {
+        "Origin": "Bubble",
+        "Translation": "泡泡"
+      }
+    },
+    "KeelhaulGeyserBottom": {
+      "Name": {
+        "Origin": "Geyser",
+        "Translation": "喷泉"
+      }
+    },
+    "KeelhaulGeyserTop": {
+      "Name": {
+        "Origin": "Geyser",
+        "Translation": "喷泉"
+      }
+    },
+    "LightBall": {
+      "Name": {
+        "Origin": "Light Ball",
+        "Translation": "奇光球"
+      }
+    },
+    "LightBallExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "闪光爆破"
+      }
+    },
+    "LightBead": {
+      "Name": {
+        "Origin": "Light Bead",
+        "Translation": "奇光球"
+      }
+    },
+    "LightBeadSplit": {
+      "Name": {
+        "Origin": "Light Bead",
+        "Translation": "奇光球"
+      }
+    },
+    "LightningArc": {
+      "Name": {
+        "Origin": "Lightning Arc",
+        "Translation": "闪电弧"
+      }
+    },
+    "LiquidBlade": {
+      "Name": {
+        "Origin": "Blade",
+        "Translation": "液态刀"
+      }
+    },
+    "LiquidBlade2": {
+      "Name": {
+        "Origin": "Blade",
+        "Translation": "液态刀"
+      }
+    },
+    "LuxorsGiftMagic": {
+      "Name": {
+        "Origin": "Gift",
+        "Translation": "卢克索之魔礼"
+      }
+    },
+    "MadAlchemistsCocktailAlt": {
+      "Name": {
+        "Origin": "Mad Alchemist's Cocktail",
+        "Translation": "疯狂炼金术士的鸡尾酒"
+      }
+    },
+    "MadAlchemistsCocktailBlue": {
+      "Name": {
+        "Origin": "Mad Alchemist's Cocktail Blue",
+        "Translation": "疯狂炼金术士的蓝色鸡尾酒"
+      }
+    },
+    "MadAlchemistsCocktailGasCloud": {
+      "Name": {
+        "Origin": "Mad Alchemist's Cocktail Gas Cloud",
+        "Translation": "疯狂炼金术士的毒云"
+      }
+    },
+    "MadAlchemistsCocktailGreen": {
+      "Name": {
+        "Origin": "Mad Alchemist's Cocktail Green",
+        "Translation": "疯狂炼金术士的绿色鸡尾酒"
+      }
+    },
+    "MadAlchemistsCocktailPurple": {
+      "Name": {
+        "Origin": "Mad Alchemist's Cocktail Purple",
+        "Translation": "疯狂炼金术士的紫色鸡尾酒"
+      }
+    },
+    "MadAlchemistsCocktailRed": {
+      "Name": {
+        "Origin": "Mad Alchemist's Cocktail Red",
+        "Translation": "疯狂炼金术士的红色鸡尾酒"
+      }
+    },
+    "MadAlchemistsCocktailShrapnel": {
+      "Name": {
+        "Origin": "Shrapnel",
+        "Translation": "疯狂炼金术士的弹片"
+      }
+    },
+    "MagicNebulaShot": {
+      "Name": {
+        "Origin": "Shot",
+        "Translation": "星云奥秘"
+      }
+    },
+    "MagnaBlast": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "麦格纳冲击波"
+      }
+    },
+    "MagneticBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "磁场"
+      }
+    },
+    "MagneticOrb": {
+      "Name": {
+        "Origin": "Magnetic Orb",
+        "Translation": "磁电球"
+      }
+    },
+    "MagnusBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "磁振子束"
+      }
+    },
+    "ManaBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "魔法飞弹"
+      }
+    },
+    "ManaBoltSmall": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "魔法小飞弹"
+      }
+    },
+    "ManaBoltSmall2": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "魔法小飞弹"
+      }
+    },
+    "MelterAmp": {
+      "Name": {
+        "Origin": "Melter Amp",
+        "Translation": "熔融电子"
+      }
+    },
+    "MelterNote1": {
+      "Name": {
+        "Origin": "Song",
+        "Translation": "歌声"
+      }
+    },
+    "MelterNote2": {
+      "Name": {
+        "Origin": "Song",
+        "Translation": "歌声"
+      }
+    },
+    "NightBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "夜明弹"
+      }
+    },
+    "NightOrb": {
+      "Name": {
+        "Origin": "Orb",
+        "Translation": "夜明块"
+      }
+    },
+    "NightsRayBeam": {
+      "Name": {
+        "Origin": "Ray",
+        "Translation": "夜光"
+      }
+    },
+    "NuclearFuryProjectile": {
+      "Name": {
+        "Origin": "Nuclear Fury",
+        "Translation": "原子暴怒"
+      }
+    },
+    "ParticleBeamofDoom": {
+      "Name": {
+        "Origin": "Doom",
+        "Translation": "毁灭粒子束"
+      }
+    },
+    "PendantProjectile1": {
+      "Name": {
+        "Origin": "Prism Shard",
+        "Translation": "棱镜碎片"
+      }
+    },
+    "PendantProjectile2": {
+      "Name": {
+        "Origin": "Prism Shard",
+        "Translation": "棱镜碎片"
+      }
+    },
+    "PendantProjectile3": {
+      "Name": {
+        "Origin": "Prism Shard",
+        "Translation": "棱镜碎片"
+      }
+    },
+    "PhantasmalFuryProj": {
+      "Name": {
+        "Origin": "Fury",
+        "Translation": "亡魂之怒"
+      }
+    },
+    "Phantom": {
+      "Name": {
+        "Origin": "Phantom",
+        "Translation": "幻魂"
+      }
+    },
+    "PlagueFang": {
+      "Name": {
+        "Origin": "Fang",
+        "Translation": "致疫毒牙"
+      }
+    },
+    "PlasmaBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "等离子弹"
+      }
+    },
+    "PlasmaRay": {
+      "Name": {
+        "Origin": "Ray",
+        "Translation": "等离子射线"
+      }
+    },
+    "PlasmaRay2": {
+      "Name": {
+        "Origin": "Ray",
+        "Translation": "等离子射线"
+      }
+    },
+    "PlasmaShot": {
+      "Name": {
+        "Origin": "Shot",
+        "Translation": "等离子喷丸"
+      }
+    },
+    "PoseidonTyphoon": {
+      "Name": {
+        "Origin": "Poseidon Typhoon",
+        "Translation": "海神之台风"
+      }
+    },
+    "PurgeLaser": {
+      "Name": {
+        "Origin": "Laser",
+        "Translation": "净化射线"
+      }
+    },
+    "PurgeProj": {
+      "Name": {
+        "Origin": "Purge",
+        "Translation": "肃清"
+      }
+    },
+    "RougeSlashLarge": {
+      "Name": {
+        "Origin": "Slash",
+        "Translation": "绯红利刃"
+      }
+    },
+    "RougeSlashMedium": {
+      "Name": {
+        "Origin": "Slash",
+        "Translation": "绯红利刃"
+      }
+    },
+    "RougeSlashSmall": {
+      "Name": {
+        "Origin": "Slash",
+        "Translation": "绯红利刃"
+      }
+    },
+    "SanguineFlareProj": {
+      "Name": {
+        "Origin": "Flare",
+        "Translation": "血斑"
+      }
+    },
+    "SeethingDischargeBrimstoneBarrage": {
+      "Name": {
+        "Origin": "Brimstone",
+        "Translation": "迸裂硫火"
+      }
+    },
+    "SeethingDischargeBrimstoneHellblast": {
+      "Name": {
+        "Origin": "Hellblast",
+        "Translation": "狱炎风暴"
+      }
+    },
+    "SerpentineBody": {
+      "Name": {
+        "Origin": "Serpentine",
+        "Translation": "海蟒之身"
+      }
+    },
+    "SerpentineHead": {
+      "Name": {
+        "Origin": "Serpentine",
+        "Translation": "海蟒之头"
+      }
+    },
+    "SerpentineTail": {
+      "Name": {
+        "Origin": "Serpentine",
+        "Translation": "海蟒之尾"
+      }
+    },
+    "ShadecrystalProjectile": {
+      "Name": {
+        "Origin": "Crystal",
+        "Translation": "暗影水晶"
+      }
+    },
+    "ShadeNimbus": {
+      "Name": {
+        "Origin": "Nimbus",
+        "Translation": "乌云"
+      }
+    },
+    "ShadeNimbusCloud": {
+      "Name": {
+        "Origin": "Nimbus",
+        "Translation": "乌云"
+      }
+    },
+    "Shaderain": {
+      "Name": {
+        "Origin": "Rain",
+        "Translation": "暗影之雨"
+      }
+    },
+    "Shadowbolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "幽影箭"
+      }
+    },
+    "ShiftingSandsProj": {
+      "Name": {
+        "Origin": "Shifting Sands",
+        "Translation": "流沙"
+      }
+    },
+    "SHPB": {
+      "Name": {
+        "Origin": "SHPB",
+        "Translation": "SHPB"
+      }
+    },
+    "SHPExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "冲击波"
+      }
+    },
+    "SHPL": {
+      "Name": {
+        "Origin": "Laser",
+        "Translation": "镭射"
+      }
+    },
+    "SirensSongNote": {
+      "Name": {
+        "Origin": "Song",
+        "Translation": "魅惑之音"
+      }
+    },
+    "Snowball": {
+      "Name": {
+        "Origin": "Snowball",
+        "Translation": "雪球"
+      }
+    },
+    "Snowflake": {
+      "Name": {
+        "Origin": "Snowflake",
+        "Translation": "雪花"
+      }
+    },
+    "SolarBeam2": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "阳炎光线"
+      }
+    },
+    "SoulPiercerBeam": {
+      "Name": {
+        "Origin": "Piercer",
+        "Translation": "灵魂穿刺"
+      }
+    },
+    "SoulPiercerBolt": {
+      "Name": {
+        "Origin": "Piercer",
+        "Translation": "灵魂穿刺"
+      }
+    },
+    "SparkInfernal": {
+      "Name": {
+        "Origin": "Spark",
+        "Translation": "火花"
+      }
+    },
+    "SparklingBeam": {
+      "Name": {
+        "Origin": "Sparkling Beam",
+        "Translation": "闪耀光"
+      }
+    },
+    "SpiritFlameCurse": {
+      "Name": {
+        "Origin": "Flame",
+        "Translation": "灵火"
+      }
+    },
+    "Starblast": {
+      "Name": {
+        "Origin": "Star",
+        "Translation": "星爆"
+      }
+    },
+    "StickyFeather": {
+      "Name": {
+        "Origin": "Feather",
+        "Translation": "粘性羽毛"
+      }
+    },
+    "StratusSphereProj": {
+      "Name": {
+        "Origin": "Stratus Sphere",
+        "Translation": "幻云天球"
+      }
+    },
+    "SupremeDustFlakProjectile": {
+      "Name": {
+        "Origin": "Dust",
+        "Translation": "至尊之尘"
+      }
+    },
+    "SupremeDustProjectile": {
+      "Name": {
+        "Origin": "Dust",
+        "Translation": "至尊之尘"
+      }
+    },
+    "T1000Laser": {
+      "Name": {
+        "Origin": "Laser",
+        "Translation": "镭射"
+      }
+    },
+    "T1000Proj": {
+      "Name": {
+        "Origin": "T1000",
+        "Translation": "T1000"
+      }
+    },
+    "TearsofHeavenProjectile": {
+      "Name": {
+        "Origin": "Tears of Heaven",
+        "Translation": "天堂之泪"
+      }
+    },
+    "TerraBeam": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "泰拉射线"
+      }
+    },
+    "TerraBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "泰拉飞弹"
+      }
+    },
+    "TerraBolt2": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "泰拉飞弹"
+      }
+    },
+    "TerraOrb": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "泰拉球"
+      }
+    },
+    "TerraOrb2": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "泰拉球"
+      }
+    },
+    "ThunderstormShot": {
+      "Name": {
+        "Origin": "Shot",
+        "Translation": "雷电风暴"
+      }
+    },
+    "ThunderstormShotSplit": {
+      "Name": {
+        "Origin": "Shot",
+        "Translation": "雷电风暴"
+      }
+    },
+    "TradewindsProjectile": {
+      "Name": {
+        "Origin": "Feather",
+        "Translation": "信风羽"
+      }
+    },
+    "TridentIcicle": {
+      "Name": {
+        "Origin": "Trident Icicle",
+        "Translation": "寒冰三叉戟"
+      }
+    },
+    "UberBubble": {
+      "Name": {
+        "Origin": "Bubble",
+        "Translation": "泡泡"
+      }
+    },
+    "UndinesRetributionSpear": {
+      "Name": {
+        "Origin": "Undine's Retribution",
+        "Translation": "深渊女神的复仇"
+      }
+    },
+    "Vehemence": {
+      "Name": {
+        "Origin": "Vehemence",
+        "Translation": "爆怒"
+      }
+    },
+    "VenusianBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "飞弹"
+      }
+    },
+    "VenusianExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "火焰"
+      }
+    },
+    "VenusianFlame": {
+      "Name": {
+        "Origin": "Venusian Cinder",
+        "Translation": "金耀余烬"
+      }
+    },
+    "VisceraBeam": {
+      "Name": {
+        "Origin": "Viscera",
+        "Translation": "内脏"
+      }
+    },
+    "VividBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "光束"
+      }
+    },
+    "VividBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "飞弹"
+      }
+    },
+    "VividClarityBeam": {
+      "Name": {
+        "Origin": "Ray",
+        "Translation": "光束"
+      }
+    },
+    "VividLaser2": {
+      "Name": {
+        "Origin": "Vivid Bolt",
+        "Translation": "耀界之光"
+      }
+    },
+    "VividOrb": {
+      "Name": {
+        "Origin": "Orb",
+        "Translation": "闪耀块"
+      }
+    },
+    "VolatileStarcore": {
+      "Name": {
+        "Origin": "Volatile Starcore",
+        "Translation": "挥发性星核"
+      }
+    },
+    "Vortex": {
+      "Name": {
+        "Origin": "Vortex",
+        "Translation": "漩涡"
+      }
+    },
+    "WaterStream": {
+      "Name": {
+        "Origin": "Stream",
+        "Translation": "水流"
+      }
+    },
+    "WaterStream2": {
+      "Name": {
+        "Origin": "Stream",
+        "Translation": "水流"
+      }
+    },
+    "WaywasherProj": {
+      "Name": {
+        "Origin": "Waywasher Blast",
+        "Translation": "清道夫弹幕"
+      }
+    },
+    "WhiteFlame": {
+      "Name": {
+        "Origin": "Flame",
+        "Translation": "苍白火焰"
+      }
+    },
+    "WhiteFlame2": {
+      "Name": {
+        "Origin": "Flame",
+        "Translation": "苍白火焰"
+      }
+    },
+    "WulfrumBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "钨钢杖飞弹"
+      }
+    },
+    "WyvernFeatherGreen": {
+      "Name": {
+        "Origin": "Feather",
+        "Translation": "绿色星龙羽"
+      }
+    },
+    "WyvernFeatherPink": {
+      "Name": {
+        "Origin": "Feather",
+        "Translation": "粉色星龙羽"
+      }
+    },
+    "WyvernFeatherPurple": {
+      "Name": {
+        "Origin": "Feather",
+        "Translation": "紫色星龙羽"
+      }
+    },
+    "WyvernProjectile": {
+      "Name": {
+        "Origin": "Wyvern",
+        "Translation": "星龙"
+      }
+    },
+    "YharimsCrystalBeam": {
+      "Name": {
+        "Origin": "Yharim's Beam",
+        "Translation": "暴君水晶聚焦射线"
+      }
+    },
+    "YharimsCrystalPrism": {
+      "Name": {
+        "Origin": "Yermes Christal",
+        "Translation": "爆菌水京"
+      }
+    },
+    "AccretionDisk2Melee": {
+      "Name": {
+        "Origin": "Accretion Disk",
+        "Translation": "元素飞盘"
+      }
+    },
+    "AccretionDiskMeleeProj": {
+      "Name": {
+        "Origin": "Accretion Disk",
+        "Translation": "元素飞盘"
+      }
+    },
+    "AegisBeam": {
+      "Name": {
+        "Origin": "Aegis Beam",
+        "Translation": "庇护之光"
+      }
+    },
+    "AegisBlast": {
+      "Name": {
+        "Origin": "Aegis Blast",
+        "Translation": "宙斯爆怒"
+      }
+    },
+    "AegisBlast2": {
+      "Name": {
+        "Origin": "Aegis Blast",
+        "Translation": "宙斯低语"
+      }
+    },
+    "AegisFlame": {
+      "Name": {
+        "Origin": "Aegis Flame",
+        "Translation": "宙斯怒火"
+      }
+    },
+    "AftershockRock": {
+      "Name": {
+        "Origin": "Rock",
+        "Translation": "余震岩"
+      }
+    },
+    "AmidiasWhirlpool": {
+      "Name": {
+        "Origin": "Whirlpool",
+        "Translation": "阿米迪亚斯漩涡"
+      }
+    },
+    "AquaStream": {
+      "Name": {
+        "Origin": "Aqua Stream",
+        "Translation": "澄净之水"
+      }
+    },
+    "AstralScytheProjectile": {
+      "Name": {
+        "Origin": "Astral Ring",
+        "Translation": "星耀戒"
+      }
+    },
+    "AtaraxiaHoming": {
+      "Name": {
+        "Origin": "Definitely Not Exoblade",
+        "Translation": "绝非凡刃"
+      }
+    },
+    "AtaraxiaMain": {
+      "Name": {
+        "Origin": "Not Exoblade",
+        "Translation": "非凡之刃"
+      }
+    },
+    "AtaraxiaSide": {
+      "Name": {
+        "Origin": "Also Not Exoblade",
+        "Translation": "并非凡刃"
+      }
+    },
+    "AtaraxiaSplit": {
+      "Name": {
+        "Origin": "Still Not Exoblade",
+        "Translation": "仍非凡刃"
+      }
+    },
+    "BalefulHarvesterProjectile": {
+      "Name": {
+        "Origin": "Pumpkin Skull",
+        "Translation": "南瓜头骨"
+      }
+    },
+    "BallOFuguProj": {
+      "Name": {
+        "Origin": "Ball O Fugu",
+        "Translation": "河豚链球"
+      }
+    },
+    "BansheeHookBoom": {
+      "Name": {
+        "Origin": "Boom",
+        "Translation": "爆炸"
+      }
+    },
+    "BansheeHookScythe": {
+      "Name": {
+        "Origin": "Scythe",
+        "Translation": "鬼爪"
+      }
+    },
+    "BiomeOrb": {
+      "Name": {
+        "Origin": "Biome Orb",
+        "Translation": "生物球"
+      }
+    },
+    "BlazingPhantomBlade": {
+      "Name": {
+        "Origin": "Blazing Phantom Blade",
+        "Translation": "炽炎幻影刃"
+      }
+    },
+    "Blood": {
+      "Name": {
+        "Origin": "Blood",
+        "Translation": "血"
+      }
+    },
+    "Blood2": {
+      "Name": {
+        "Origin": "Blood",
+        "Translation": "血"
+      }
+    },
+    "BloodBall": {
+      "Name": {
+        "Origin": "Blood Ball",
+        "Translation": "血球"
+      }
+    },
+    "BloodScythe": {
+      "Name": {
+        "Origin": "Blood Scythe",
+        "Translation": "鲜血之镰"
+      }
+    },
+    "BloodyBlade": {
+      "Name": {
+        "Origin": "Bloody Blade",
+        "Translation": "流血之刃"
+      }
+    },
+    "BlueAura": {
+      "Name": {
+        "Origin": "Blue Aura",
+        "Translation": "蓝色光环"
+      }
+    },
+    "Brimblast": {
+      "Name": {
+        "Origin": "Brimblast",
+        "Translation": "硫火爆焱"
+      }
+    },
+    "BrimlanceHellfireExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "硫狱炎爆"
+      }
+    },
+    "BrimlanceStandingFire": {
+      "Name": {
+        "Origin": "Flame",
+        "Translation": "硫火"
+      }
+    },
+    "Brimlash2": {
+      "Name": {
+        "Origin": "Brimlash",
+        "Translation": "硫火鞭挞"
+      }
+    },
+    "BrimlashProj": {
+      "Name": {
+        "Origin": "Brimlash",
+        "Translation": "硫火鞭挞"
+      }
+    },
+    "BrimstoneBoom": {
+      "Name": {
+        "Origin": "Boom",
+        "Translation": "硫火爆焱"
+      }
+    },
+    "BrimstoneLaserFriendly": {
+      "Name": {
+        "Origin": "Laser",
+        "Translation": "硫火死光"
+      }
+    },
+    "BrinySpout": {
+      "Name": {
+        "Origin": "Briny Spout",
+        "Translation": "盐水浴"
+      }
+    },
+    "BrinyTyphoonBubble": {
+      "Name": {
+        "Origin": "Bubble",
+        "Translation": "泡泡"
+      }
+    },
+    "BurningMeteor": {
+      "Name": {
+        "Origin": "Meteor",
+        "Translation": "流星"
+      }
+    },
+    "CalamityAura": {
+      "Name": {
+        "Origin": "Aura",
+        "Translation": "灾厄狱境"
+      }
+    },
+    "CalamityAuraType2": {
+      "Name": {
+        "Origin": "Aura",
+        "Translation": "灾厄狱境"
+      }
+    },
+    "CalamityAuraType3": {
+      "Name": {
+        "Origin": "Aura",
+        "Translation": "灾厄狱境"
+      }
+    },
+    "ChaosFlameLarge": {
+      "Name": {
+        "Origin": "Flame",
+        "Translation": "混沌之火"
+      }
+    },
+    "ChaosFlameMedium": {
+      "Name": {
+        "Origin": "Flame",
+        "Translation": "混沌之火"
+      }
+    },
+    "ChaosFlameSmall": {
+      "Name": {
+        "Origin": "Flame",
+        "Translation": "混沌之火"
+      }
+    },
+    "ClamCrusherFlail": {
+      "Name": {
+        "Origin": "Clam Crusher",
+        "Translation": "碎蛤者"
+      }
+    },
+    "CosmicBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "宙能箭"
+      }
+    },
+    "CosmicDischargeFlail": {
+      "Name": {
+        "Origin": "Cosmic Discharge",
+        "Translation": "寒宙弹刃"
+      }
+    },
+    "CosmicIceBurst": {
+      "Name": {
+        "Origin": "Cosmic Ice",
+        "Translation": "寒宙魔冰"
+      }
+    },
+    "CosmicOrb": {
+      "Name": {
+        "Origin": "Orb",
+        "Translation": "宙能块"
+      }
+    },
+    "CosmicShivBall": {
+      "Name": {
+        "Origin": "Cosmic Energy",
+        "Translation": "宇宙能量"
+      }
+    },
+    "CosmicShivBlade": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "宇宙射线"
+      }
+    },
+    "CosmicSpiritBomb1": {
+      "Name": {
+        "Origin": "Bomb",
+        "Translation": "宙能聚爆"
+      }
+    },
+    "CosmicSpiritBomb2": {
+      "Name": {
+        "Origin": "Bomb",
+        "Translation": "宙能聚爆"
+      }
+    },
+    "CosmicSpiritBomb3": {
+      "Name": {
+        "Origin": "Bomb",
+        "Translation": "宙能聚爆"
+      }
+    },
+    "CrescentMoonFlail": {
+      "Name": {
+        "Origin": "Crescent Moon",
+        "Translation": "新月"
+      }
+    },
+    "CrescentMoonProj": {
+      "Name": {
+        "Origin": "Crescent Moon",
+        "Translation": "新月"
+      }
+    },
+    "CrystalDust": {
+      "Name": {
+        "Origin": "Dust",
+        "Translation": "晶砂"
+      }
+    },
+    "CrystylCrusherRay": {
+      "Name": {
+        "Origin": "Crystyl Crusher Ray",
+        "Translation": "晶体碾碎射线"
+      }
+    },
+    "Cyclone": {
+      "Name": {
+        "Origin": "Cyclone",
+        "Translation": "旋风"
+      }
+    },
+    "Dark": {
+      "Name": {
+        "Origin": "Dark",
+        "Translation": "黑暗"
+      }
+    },
+    "DarkBall": {
+      "Name": {
+        "Origin": "Dark Ball",
+        "Translation": "暗影球"
+      }
+    },
+    "DarkBeam": {
+      "Name": {
+        "Origin": "Dark Beam",
+        "Translation": "暗影射线"
+      }
+    },
+    "DarkIceZero": {
+      "Name": {
+        "Origin": "Dark Ice",
+        "Translation": "暗冰"
+      }
+    },
+    "DemonBlast": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "恶魔震爆波"
+      }
+    },
+    "DemonBlastType2": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "恶魔震爆波"
+      }
+    },
+    "DemonBlastType3": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "恶魔震爆波"
+      }
+    },
+    "DepthOrb": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "深度球光"
+      }
+    },
+    "DepthOrb2": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "深度球光"
+      }
+    },
+    "DevilsSunriseCyclone": {
+      "Name": {
+        "Origin": "Devil's Sunrise",
+        "Translation": "邪锋黎明"
+      }
+    },
+    "DevilsSunriseProj": {
+      "Name": {
+        "Origin": "Devil's Sunrise",
+        "Translation": "邪锋黎明"
+      }
+    },
+    "DivineHatchetBoomerang": {
+      "Name": {
+        "Origin": "Scorching Seeker",
+        "Translation": "炽炎焚罪者"
+      }
+    },
+    "DNA": {
+      "Name": {
+        "Origin": "DNA",
+        "Translation": "卢克雷西亚剑气"
+      }
+    },
+    "DNA2": {
+      "Name": {
+        "Origin": "DNA",
+        "Translation": "卢克雷西亚剑气"
+      }
+    },
+    "DracoBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "天龙座射线"
+      }
+    },
+    "DracoBeam2": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "天龙座射线"
+      }
+    },
+    "DraconicSpark": {
+      "Name": {
+        "Origin": "Draconic Spark",
+        "Translation": "暴风灼焱"
+      }
+    },
+    "DragonPowFlail": {
+      "Name": {
+        "Origin": "Dragon Pow",
+        "Translation": "龙啸波"
+      }
+    },
+    "DragonRageProj": {
+      "Name": {
+        "Origin": "Rage",
+        "Translation": "暴龙狂怒"
+      }
+    },
+    "Earth2": {
+      "Name": {
+        "Origin": "Earth",
+        "Translation": "无限大地"
+      }
+    },
+    "Earth3": {
+      "Name": {
+        "Origin": "Earth",
+        "Translation": "无限大地"
+      }
+    },
+    "Earth4": {
+      "Name": {
+        "Origin": "Earth",
+        "Translation": "无限大地"
+      }
+    },
+    "EarthProj": {
+      "Name": {
+        "Origin": "Earth",
+        "Translation": "无限大地"
+      }
+    },
+    "ElementalExcaliburBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "元素圣剑"
+      }
+    },
+    "ElementBall": {
+      "Name": {
+        "Origin": "Ball",
+        "Translation": "元素球"
+      }
+    },
+    "ElementBallShiv": {
+      "Name": {
+        "Origin": "Shiv",
+        "Translation": "元素短剑"
+      }
+    },
+    "EonBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "电子束"
+      }
+    },
+    "EonBeamV2": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "电子束"
+      }
+    },
+    "EonBeamV3": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "电子束"
+      }
+    },
+    "EonBeamV4": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "电子束"
+      }
+    },
+    "EradicatorMeleeProjectile": {
+      "Name": {
+        "Origin": "Eradicator",
+        "Translation": "湮灭"
+      }
+    },
+    "EssenceBeam": {
+      "Name": {
+        "Origin": "Essence Beam",
+        "Translation": "精华光束"
+      }
+    },
+    "EssenceFireball": {
+      "Name": {
+        "Origin": "Fireball",
+        "Translation": "浓缩火球"
+      }
+    },
+    "EssenceFlame2": {
+      "Name": {
+        "Origin": "Flame",
+        "Translation": "火焰"
+      }
+    },
+    "EssenceScythe": {
+      "Name": {
+        "Origin": "Scythe",
+        "Translation": "镰刀"
+      }
+    },
+    "EutrophicScimitarProj": {
+      "Name": {
+        "Origin": "Scimitar Zap",
+        "Translation": "水华弯刀"
+      }
+    },
+    "EutrophicSpark": {
+      "Name": {
+        "Origin": "Eutrophic Spark",
+        "Translation": "电火星"
+      }
+    },
+    "ExcelsusBlue": {
+      "Name": {
+        "Origin": "Excelsus",
+        "Translation": "宙魔之纹"
+      }
+    },
+    "ExcelsusMain": {
+      "Name": {
+        "Origin": "Excelsus",
+        "Translation": "宙魔之纹"
+      }
+    },
+    "ExcelsusPink": {
+      "Name": {
+        "Origin": "Excelsus",
+        "Translation": "宙魔之纹"
+      }
+    },
+    "Exobeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "星流光束"
+      }
+    },
+    "Exoboom": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "星流聚爆"
+      }
+    },
+    "Exocomet": {
+      "Name": {
+        "Origin": "Comet",
+        "Translation": "星流"
+      }
+    },
+    "ExoGladComet": {
+      "Name": {
+        "Origin": "Comet",
+        "Translation": "星流"
+      }
+    },
+    "ExoGladiusBeam": {
+      "Name": {
+        "Origin": "Gladius Beam",
+        "Translation": "星流短剑剑气"
+      }
+    },
+    "ExoGladProj": {
+      "Name": {
+        "Origin": "Orb",
+        "Translation": "星流块"
+      }
+    },
+    "ExoGladSpears": {
+      "Name": {
+        "Origin": "Gladius Beam",
+        "Translation": "星流短剑剑气"
+      }
+    },
+    "Feather": {
+      "Name": {
+        "Origin": "Feather",
+        "Translation": "羽毛"
+      }
+    },
+    "FlameScytheProjectileMelee": {
+      "Name": {
+        "Origin": "Scythe",
+        "Translation": "烈火之镰"
+      }
+    },
+    "Flarefrost": {
+      "Name": {
+        "Origin": "Flarefrost",
+        "Translation": "霜炎"
+      }
+    },
+    "FossilSpike": {
+      "Name": {
+        "Origin": "Spike",
+        "Translation": "化石尖刺"
+      }
+    },
+    "GaelExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "盖尔震击"
+      }
+    },
+    "GaelSkull": {
+      "Name": {
+        "Origin": "Ark of the Cosmos' Superior Cousin",
+        "Translation": "盖尔鲜血头颅"
+      }
+    },
+    "GaelSkull2": {
+      "Name": {
+        "Origin": "Ark of the Cosmos' Superior Cousin",
+        "Translation": "盖尔鲜血头颅"
+      }
+    },
+    "GalacticaComet": {
+      "Name": {
+        "Origin": "Comet",
+        "Translation": "彗星"
+      }
+    },
+    "Galaxia": {
+      "Name": {
+        "Origin": "Orb",
+        "Translation": "银河"
+      }
+    },
+    "Galaxia2": {
+      "Name": {
+        "Origin": "Orb",
+        "Translation": "银河"
+      }
+    },
+    "GalaxyBlast": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "银河聚爆"
+      }
+    },
+    "GalaxyBlastType2": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "银河聚爆"
+      }
+    },
+    "GalaxyBlastType3": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "银河聚爆"
+      }
+    },
+    "GalaxyStar": {
+      "Name": {
+        "Origin": "Star",
+        "Translation": "陨星"
+      }
+    },
+    "GalileosMoon": {
+      "Name": {
+        "Origin": "Crescent Moon",
+        "Translation": "新月"
+      }
+    },
+    "GalileosPlanet": {
+      "Name": {
+        "Origin": "Planet",
+        "Translation": "伽利略行星"
+      }
+    },
+    "GelWave": {
+      "Name": {
+        "Origin": "Wave",
+        "Translation": "凝胶波"
+      }
+    },
+    "GhastlySoulLarge": {
+      "Name": {
+        "Origin": "Ghastly Soul",
+        "Translation": "惧魂"
+      }
+    },
+    "GhastlySoulMedium": {
+      "Name": {
+        "Origin": "Ghastly Soul",
+        "Translation": "惧魂"
+      }
+    },
+    "GhastlySoulSmall": {
+      "Name": {
+        "Origin": "Ghastly Soul",
+        "Translation": "惧魂"
+      }
+    },
+    "GreenBall": {
+      "Name": {
+        "Origin": "Green Bag",
+        "Translation": "绿包"
+      }
+    },
+    "GreenDust": {
+      "Name": {
+        "Origin": "Dust",
+        "Translation": "绿尘"
+      }
+    },
+    "GreenWater": {
+      "Name": {
+        "Origin": "Tooth",
+        "Translation": "毒牙"
+      }
+    },
+    "HellionSpike": {
+      "Name": {
+        "Origin": "Spike",
+        "Translation": "尖刺"
+      }
+    },
+    "HolyColliderHolyFire": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "集束焰火"
+      }
+    },
+    "HyperBlade": {
+      "Name": {
+        "Origin": "Blade",
+        "Translation": "至尊之刃"
+      }
+    },
+    "Iceberg": {
+      "Name": {
+        "Origin": "Iceberg",
+        "Translation": "冰川"
+      }
+    },
+    "IceBombFriendly": {
+      "Name": {
+        "Origin": "Bomb",
+        "Translation": "冰寒急冻"
+      }
+    },
+    "InsidiousHarpoon": {
+      "Name": {
+        "Origin": "Harpoon",
+        "Translation": "鱼叉"
+      }
+    },
+    "JudgementBlah": {
+      "Name": {
+        "Origin": "Blah Beam",
+        "Translation": "‘巴拉’光束"
+      }
+    },
+    "JudgementProj": {
+      "Name": {
+        "Origin": "Judgement",
+        "Translation": "裁决"
+      }
+    },
+    "LaserFountain": {
+      "Name": {
+        "Origin": "Fountain",
+        "Translation": "射线喷井"
+      }
+    },
+    "Leech": {
+      "Name": {
+        "Origin": "Leech",
+        "Translation": "汲血"
+      }
+    },
+    "LifeScythe": {
+      "Name": {
+        "Origin": "Scythe",
+        "Translation": "生命之镰"
+      }
+    },
+    "Light": {
+      "Name": {
+        "Origin": "Light",
+        "Translation": "光"
+      }
+    },
+    "LightBeam": {
+      "Name": {
+        "Origin": "Light Beam",
+        "Translation": "光束"
+      }
+    },
+    "LightningThing": {
+      "Name": {
+        "Origin": "Lightning",
+        "Translation": "电光"
+      }
+    },
+    "LuxorsGiftMelee": {
+      "Name": {
+        "Origin": "Gift",
+        "Translation": "卢克索的礼物"
+      }
+    },
+    "MangroveChakramProjectileMelee": {
+      "Name": {
+        "Origin": "Chakram",
+        "Translation": "红木环刃"
+      }
+    },
+    "MarianaProjectile": {
+      "Name": {
+        "Origin": "Mariana",
+        "Translation": "马里亚纳"
+      }
+    },
+    "MarniteObliteratorProj": {
+      "Name": {
+        "Origin": "Obliterator",
+        "Translation": "花岗石钻头"
+      }
+    },
+    "MicrowaveAura": {
+      "Name": {
+        "Origin": "Microwave Radiation",
+        "Translation": "微波辐照"
+      }
+    },
+    "MirrorBlast": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "爆炸"
+      }
+    },
+    "MourningSkull": {
+      "Name": {
+        "Origin": "Mourning Skull",
+        "Translation": "恐惧骷髅"
+      }
+    },
+    "MourningstarFlail": {
+      "Name": {
+        "Origin": "Mourningstar",
+        "Translation": "晨星链刃"
+      }
+    },
+    "MurasamaProj": {
+      "Name": {
+        "Origin": "Murasama",
+        "Translation": "鬼妖村正"
+      }
+    },
+    "Nebudust": {
+      "Name": {
+        "Origin": "Dust",
+        "Translation": "星云余烬"
+      }
+    },
+    "NebulashFlail": {
+      "Name": {
+        "Origin": "Nebulash",
+        "Translation": "星云鞭"
+      }
+    },
+    "NeptuneOrb": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "渊海三叉戟"
+      }
+    },
+    "NightStabber": {
+      "Name": {
+        "Origin": "Stabber",
+        "Translation": "永夜短刀"
+      }
+    },
+    "Oathblade": {
+      "Name": {
+        "Origin": "Oathblade",
+        "Translation": "禁忌之刃"
+      }
+    },
+    "OceanBeam": {
+      "Name": {
+        "Origin": "Spear",
+        "Translation": "海之长枪"
+      }
+    },
+    "OmegaBiomeOrb": {
+      "Name": {
+        "Origin": "Omega Biome Orb",
+        "Translation": "欧米茄环境剑气"
+      }
+    },
+    "OPHammerMelee": {
+      "Name": {
+        "Origin": "Hammer",
+        "Translation": "锤子"
+      }
+    },
+    "Orbacle": {
+      "Name": {
+        "Origin": "Auric Orb",
+        "Translation": "圣金源矿"
+      }
+    },
+    "PlagueBeeDust": {
+      "Name": {
+        "Origin": "Dust",
+        "Translation": "瘟疫毒蜂尘"
+      }
+    },
+    "PlagueDust": {
+      "Name": {
+        "Origin": "Dust",
+        "Translation": "瘟疫之尘"
+      }
+    },
+    "PlagueSeeker": {
+      "Name": {
+        "Origin": "Seeker",
+        "Translation": "瘟疫探寻者"
+      }
+    },
+    "PlasmaBall": {
+      "Name": {
+        "Origin": "Ball",
+        "Translation": "相位激光球"
+      }
+    },
+    "ProfanedSwordProj": {
+      "Name": {
+        "Origin": "Profaned Sword",
+        "Translation": "圣火之刃"
+      }
+    },
+    "PwnagehammerMeleeProj": {
+      "Name": {
+        "Origin": "Hammer",
+        "Translation": "锤子"
+      }
+    },
+    "RainBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "雨滴"
+      }
+    },
+    "RainbowBoom": {
+      "Name": {
+        "Origin": "Boom",
+        "Translation": "爆炸"
+      }
+    },
+    "Razorwind": {
+      "Name": {
+        "Origin": "Razorwind",
+        "Translation": "水刃龙卷"
+      }
+    },
+    "RedBall": {
+      "Name": {
+        "Origin": "Red Bag",
+        "Translation": "红色包"
+      }
+    },
+    "RedDust": {
+      "Name": {
+        "Origin": "Dust",
+        "Translation": "红尘"
+      }
+    },
+    "RedtideWhirlpool": {
+      "Name": {
+        "Origin": "Whirlpool",
+        "Translation": "归元漩涡"
+      }
+    },
+    "Rox1": {
+      "Name": {
+        "Origin": "Rox1",
+        "Translation": "石之约"
+      }
+    },
+    "RoxShockwave": {
+      "Name": {
+        "Origin": "Rox Shockwave",
+        "Translation": "石约之震荡"
+      }
+    },
+    "RoxSlam": {
+      "Name": {
+        "Origin": "Rox Slam",
+        "Translation": "石约之猛攻"
+      }
+    },
+    "RoyalKnifeMelee": {
+      "Name": {
+        "Origin": "Knife",
+        "Translation": "日耀短剑"
+      }
+    },
+    "RSSolarFlare": {
+      "Name": {
+        "Origin": "Flare",
+        "Translation": "灼烧"
+      }
+    },
+    "SandBlade": {
+      "Name": {
+        "Origin": "Blade",
+        "Translation": "瀚漠之刃"
+      }
+    },
+    "SandFire": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "瀚漠焦火"
+      }
+    },
+    "ScourgeoftheCosmosMini": {
+      "Name": {
+        "Origin": "Cosmic Scourge Mini",
+        "Translation": "宇宙劫难"
+      }
+    },
+    "ScourgeoftheCosmosProj": {
+      "Name": {
+        "Origin": "Cosmic Scourge",
+        "Translation": "宇宙灾祸"
+      }
+    },
+    "SeashellBoomerangProjectileMelee": {
+      "Name": {
+        "Origin": "Boomerang",
+        "Translation": "贝壳回旋镖"
+      }
+    },
+    "SeashineSwordProj": {
+      "Name": {
+        "Origin": "Seashine Sword Proj",
+        "Translation": "海耀剑气"
+      }
+    },
+    "SHIV": {
+      "Name": {
+        "Origin": "Shiv",
+        "Translation": "SHIV"
+      }
+    },
+    "ShortBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "短光束"
+      }
+    },
+    "ShortNightBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "永夜光束"
+      }
+    },
+    "ShortTerraBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "泰拉光束"
+      }
+    },
+    "SolsticeBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "近日点光束"
+      }
+    },
+    "SoulScythe": {
+      "Name": {
+        "Origin": "Scythe",
+        "Translation": "灵魂之镰"
+      }
+    },
+    "SoulScytheExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "影镰崩"
+      }
+    },
+    "Spark": {
+      "Name": {
+        "Origin": "Spark",
+        "Translation": "光"
+      }
+    },
+    "SpatialSpear": {
+      "Name": {
+        "Origin": "Spear",
+        "Translation": "长枪"
+      }
+    },
+    "SpatialSpear2": {
+      "Name": {
+        "Origin": "Spear",
+        "Translation": "长枪"
+      }
+    },
+    "SpatialSpear3": {
+      "Name": {
+        "Origin": "Spear",
+        "Translation": "长枪"
+      }
+    },
+    "SpatialSpear4": {
+      "Name": {
+        "Origin": "Spear",
+        "Translation": "长枪"
+      }
+    },
+    "AmidiasTridentProj": {
+      "Name": {
+        "Origin": "Trident",
+        "Translation": "阿米迪亚斯三叉戟"
+      }
+    },
+    "AstralPikeProj": {
+      "Name": {
+        "Origin": "Pike",
+        "Translation": "幻星矛"
+      }
+    },
+    "BansheeHookProj": {
+      "Name": {
+        "Origin": "Banshee Hook",
+        "Translation": "鬼爪"
+      }
+    },
+    "BrimlanceProj": {
+      "Name": {
+        "Origin": "Brimlance",
+        "Translation": "硫磺火矛"
+      }
+    },
+    "DiseasedPikeSpear": {
+      "Name": {
+        "Origin": "Pike",
+        "Translation": "瘟疫长枪"
+      }
+    },
+    "EarthenPikeSpear": {
+      "Name": {
+        "Origin": "Pike",
+        "Translation": "磐石地元叉"
+      }
+    },
+    "ExsanguinationLanceProjectile": {
+      "Name": {
+        "Origin": "Lance",
+        "Translation": "噬血之矛"
+      }
+    },
+    "FulgurationHalberdProj": {
+      "Name": {
+        "Origin": "Fulguration Halberd",
+        "Translation": "闪烁长戟"
+      }
+    },
+    "GildedProboscisProj": {
+      "Name": {
+        "Origin": "Proboscis",
+        "Translation": "镀金鸟喙"
+      }
+    },
+    "GoldplumeSpearProjectile": {
+      "Name": {
+        "Origin": "Spear",
+        "Translation": "金羽"
+      }
+    },
+    "HeartRapierProjectile": {
+      "Name": {
+        "Origin": "Rapier",
+        "Translation": "心之刺剑"
+      }
+    },
+    "HellionFlowerSpearProjectile": {
+      "Name": {
+        "Origin": "Spear",
+        "Translation": "狱火花矛"
+      }
+    },
+    "InsidiousImpalerProj": {
+      "Name": {
+        "Origin": "Insidious Impaler",
+        "Translation": "阴险穿刺者"
+      }
+    },
+    "MarniteSpearProjectile": {
+      "Name": {
+        "Origin": "Spear",
+        "Translation": "花岗石矛"
+      }
+    },
+    "NadirSpear": {
+      "Name": {
+        "Origin": "Nadir",
+        "Translation": "天底"
+      }
+    },
+    "SausageMakerSpear": {
+      "Name": {
+        "Origin": "Spear",
+        "Translation": "长枪"
+      }
+    },
+    "SpatialLanceProjectile": {
+      "Name": {
+        "Origin": "Lance",
+        "Translation": "长枪"
+      }
+    },
+    "StarnightLanceProjectile": {
+      "Name": {
+        "Origin": "Lance",
+        "Translation": "长枪"
+      }
+    },
+    "StreamGougeProj": {
+      "Name": {
+        "Origin": "Gouge",
+        "Translation": "血槽"
+      }
+    },
+    "TerraLanceProjectile": {
+      "Name": {
+        "Origin": "Lance",
+        "Translation": "长枪"
+      }
+    },
+    "UrchinSpearProjectile": {
+      "Name": {
+        "Origin": "Spear",
+        "Translation": "海胆长枪"
+      }
+    },
+    "YateveoBloomSpear": {
+      "Name": {
+        "Origin": "Yateveo Bloom",
+        "Translation": "玫瑰之盛放"
+      }
+    },
+    "StarnightBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "夜之星光"
+      }
+    },
+    "StormBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "死光"
+      }
+    },
+    "StormMark": {
+      "Name": {
+        "Origin": "Mark",
+        "Translation": "死亡标记"
+      }
+    },
+    "StormRulerProj": {
+      "Name": {
+        "Origin": "Ruler",
+        "Translation": "管束者"
+      }
+    },
+    "SunlightBlade": {
+      "Name": {
+        "Origin": "Blade",
+        "Translation": "日炎剑"
+      }
+    },
+    "TemporalFloeSwordProjectile": {
+      "Name": {
+        "Origin": "Floe",
+        "Translation": "岁月长剑"
+      }
+    },
+    "TerraBall": {
+      "Name": {
+        "Origin": "Terra Star",
+        "Translation": "泰拉之星"
+      }
+    },
+    "TerracottaExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "TerraEdgeBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "光束"
+      }
+    },
+    "TerraSpear": {
+      "Name": {
+        "Origin": "Spear",
+        "Translation": "泰拉之星"
+      }
+    },
+    "TerratomereProjectile": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "光束"
+      }
+    },
+    "TerrorBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "光束"
+      }
+    },
+    "TerrorBoom": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "TinyCrystal": {
+      "Name": {
+        "Origin": "Crystal",
+        "Translation": "小水晶"
+      }
+    },
+    "TinyFlare": {
+      "Name": {
+        "Origin": "Flare",
+        "Translation": "小耀斑"
+      }
+    },
+    "Tornado": {
+      "Name": {
+        "Origin": "Tornado",
+        "Translation": "飓风"
+      }
+    },
+    "TriactisOPHammerMelee": {
+      "Name": {
+        "Origin": "Hammer",
+        "Translation": "锤子"
+      }
+    },
+    "TrueBiomeOrb": {
+      "Name": {
+        "Origin": "True Biome Orb",
+        "Translation": "真生物球"
+      }
+    },
+    "TrueCausticEdgeProjectile": {
+      "Name": {
+        "Origin": "Edge",
+        "Translation": "真·绝望之刃"
+      }
+    },
+    "TumbleweedFlail": {
+      "Name": {
+        "Origin": "Tumbleweed",
+        "Translation": "风滚草"
+      }
+    },
+    "TumbleweedRolling": {
+      "Name": {
+        "Origin": "Tumbleweed",
+        "Translation": "风滚草"
+      }
+    },
+    "TyphonsGreedBubble": {
+      "Name": {
+        "Origin": "Typhon's Greed",
+        "Translation": "贪魂台风"
+      }
+    },
+    "TyphonsGreedStaff": {
+      "Name": {
+        "Origin": "Typhon's Greed",
+        "Translation": "贪魂台风"
+      }
+    },
+    "UltimusCleaverDust": {
+      "Name": {
+        "Origin": "Ultimus Flame",
+        "Translation": "终焉余焰"
+      }
+    },
+    "UrchinBall": {
+      "Name": {
+        "Origin": "UrchinBall",
+        "Translation": "海胆球"
+      }
+    },
+    "UrchinBallSpike": {
+      "Name": {
+        "Origin": "Spike",
+        "Translation": "海胆刺"
+      }
+    },
+    "UrchinSpikeFugu": {
+      "Name": {
+        "Origin": "Urchin Spike",
+        "Translation": "海胆刺"
+      }
+    },
+    "VoidEssence": {
+      "Name": {
+        "Origin": "Void Essence",
+        "Translation": "虚空精华"
+      }
+    },
+    "VoidTentacle": {
+      "Name": {
+        "Origin": "Void Tentacle",
+        "Translation": "虚空精华"
+      }
+    },
+    "Waterfall": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "光束"
+      }
+    },
+    "WhiteBoltAura": {
+      "Name": {
+        "Origin": "Aura",
+        "Translation": "光圈"
+      }
+    },
+    "WhiteBoltAuraBlah": {
+      "Name": {
+        "Origin": "Aura",
+        "Translation": "光圈"
+      }
+    },
+    "WhiteOrb": {
+      "Name": {
+        "Origin": "Orb",
+        "Translation": "苍白块"
+      }
+    },
+    "WhiteOrbBlah": {
+      "Name": {
+        "Origin": "Orb",
+        "Translation": "苍白块"
+      }
+    },
+    "Whiterain": {
+      "Name": {
+        "Origin": "Rain",
+        "Translation": "苍白雨"
+      }
+    },
+    "WhiterainBlah": {
+      "Name": {
+        "Origin": "Rain",
+        "Translation": "苍白之雨"
+      }
+    },
+    "YateveoBloomProj": {
+      "Name": {
+        "Origin": "Yateveo Bloom",
+        "Translation": "玫瑰之盛放"
+      }
+    },
+    "AirSpinnerYoyo": {
+      "Name": {
+        "Origin": "Air Spinner",
+        "Translation": "空旋"
+      }
+    },
+    "AortaYoyo": {
+      "Name": {
+        "Origin": "Aorta",
+        "Translation": "大动脉"
+      }
+    },
+    "AzathothYoyo": {
+      "Name": {
+        "Origin": "Azathoth",
+        "Translation": "阿撒托斯"
+      }
+    },
+    "ChaotrixYoyo": {
+      "Name": {
+        "Origin": "Fault",
+        "Translation": "混沌"
+      }
+    },
+    "CnidarianYoyo": {
+      "Name": {
+        "Origin": "Cnidarian",
+        "Translation": "珊瑚"
+      }
+    },
+    "GodsGambitYoyo": {
+      "Name": {
+        "Origin": "The God's Gambit",
+        "Translation": "神旨"
+      }
+    },
+    "LaceratorYoyo": {
+      "Name": {
+        "Origin": "Lacerator",
+        "Translation": "裂魔"
+      }
+    },
+    "MicrowaveYoyo": {
+      "Name": {
+        "Origin": "The Microwave",
+        "Translation": "微波"
+      }
+    },
+    "ObliteratorYoyo": {
+      "Name": {
+        "Origin": "The Obliterator",
+        "Translation": "泯灭"
+      }
+    },
+    "OblivionYoyo": {
+      "Name": {
+        "Origin": "Oblivion",
+        "Translation": "遗境"
+      }
+    },
+    "OracleYoyo": {
+      "Name": {
+        "Origin": "The Oracle",
+        "Translation": "先知"
+      }
+    },
+    "PandemicYoyo": {
+      "Name": {
+        "Origin": "Pandemic",
+        "Translation": "流感"
+      }
+    },
+    "QuagmireYoyo": {
+      "Name": {
+        "Origin": "Quagmire",
+        "Translation": "泥潭"
+      }
+    },
+    "RiptideYoyo": {
+      "Name": {
+        "Origin": "Riptide",
+        "Translation": "涡流"
+      }
+    },
+    "ShimmersparkYoyo": {
+      "Name": {
+        "Origin": "Shimmerspark",
+        "Translation": "烁光"
+      }
+    },
+    "SolarFlareYoyo": {
+      "Name": {
+        "Origin": "Solar Flare",
+        "Translation": "太阳耀斑"
+      }
+    },
+    "VerdantYoyo": {
+      "Name": {
+        "Origin": "Verdant",
+        "Translation": "葱茏"
+      }
+    },
+    "YinYoyo": {
+      "Name": {
+        "Origin": "Yin-Yo",
+        "Translation": "阴阳"
+      }
+    },
+    "Akato": {
+      "Name": {
+        "Origin": "Akato",
+        "Translation": "阿卡托"
+      }
+    },
+    "Astrophage": {
+      "Name": {
+        "Origin": "Astrophage",
+        "Translation": "噬星体"
+      }
+    },
+    "BabyGhostBell": {
+      "Name": {
+        "Origin": "Baby Ghost Bell",
+        "Translation": "小鬼铃水母"
+      }
+    },
+    "Bear": {
+      "Name": {
+        "Origin": "Bear",
+        "Translation": "小熊"
+      }
+    },
+    "BrimlingPet": {
+      "Name": {
+        "Origin": "Brimling",
+        "Translation": "小硫火灵"
+      }
+    },
+    "ChibiiDoggo": {
+      "Name": {
+        "Origin": "Chibii Devourer",
+        "Translation": "女装神长"
+      }
+    },
+    "ChibiiDoggoFly": {
+      "Name": {
+        "Origin": "Chibii Devourer (Flying)",
+        "Translation": "飞行中的女装神长"
+      }
+    },
+    "DannyDevitoPet": {
+      "Name": {
+        "Origin": "Danny Devito",
+        "Translation": "丹尼·德维托"
+      }
+    },
+    "FoxPet": {
+      "Name": {
+        "Origin": "Fox",
+        "Translation": "狐狸"
+      }
+    },
+    "KendraPet": {
+      "Name": {
+        "Origin": "Kendra",
+        "Translation": "肯德拉狗"
+      }
+    },
+    "LeviPet": {
+      "Name": {
+        "Origin": "Levi",
+        "Translation": "利维坦"
+      }
+    },
+    "PerforaMini": {
+      "Name": {
+        "Origin": "Perforamini",
+        "Translation": "小血肉宿主"
+      }
+    },
+    "RadiatorPet": {
+      "Name": {
+        "Origin": "Radiator",
+        "Translation": "辐射"
+      }
+    },
+    "RotomPet": {
+      "Name": {
+        "Origin": "Rotom",
+        "Translation": "电鬼洛托姆"
+      }
+    },
+    "SCalPet": {
+      "Name": {
+        "Origin": "Supreme Calamitas",
+        "Translation": "至尊灾厄眼"
+      }
+    },
+    "SirenYoung": {
+      "Name": {
+        "Origin": "Siren",
+        "Translation": "萝莉塞壬"
+      }
+    },
+    "ThirdSage": {
+      "Name": {
+        "Origin": "Third Sage",
+        "Translation": "第三贤者"
+      }
+    },
+    "AccelerationBulletProj": {
+      "Name": {
+        "Origin": "Acceleration Bullet",
+        "Translation": "加速弹"
+      }
+    },
+    "AcidBulletProj": {
+      "Name": {
+        "Origin": "Acid Bullet",
+        "Translation": "酸蚀弹"
+      }
+    },
+    "AMR2": {
+      "Name": {
+        "Origin": "AMR",
+        "Translation": "AMR"
+      }
+    },
+    "AMRShot": {
+      "Name": {
+        "Origin": "AMR",
+        "Translation": "AMR"
+      }
+    },
+    "AngelicBeam": {
+      "Name": {
+        "Origin": "Angelic Beam",
+        "Translation": "天使之光"
+      }
+    },
+    "AquaBlast": {
+      "Name": {
+        "Origin": "Aqua Blast",
+        "Translation": "澄净喷流"
+      }
+    },
+    "AquaBlastToxic": {
+      "Name": {
+        "Origin": "Aqua Blast Toxic",
+        "Translation": "剧毒喷流"
+      }
+    },
+    "Aquashard": {
+      "Name": {
+        "Origin": "Aquashard",
+        "Translation": "碎水弹"
+      }
+    },
+    "AquashardSplit": {
+      "Name": {
+        "Origin": "Aquashard",
+        "Translation": "碎水弹"
+      }
+    },
+    "ArcherfishShot": {
+      "Name": {
+        "Origin": "Water Round",
+        "Translation": "水之境"
+      }
+    },
+    "ArcticArrowProj": {
+      "Name": {
+        "Origin": "Arctic Arrow",
+        "Translation": "北极箭"
+      }
+    },
+    "AstralCannonProjectile": {
+      "Name": {
+        "Origin": "Astral Crystal",
+        "Translation": "星辉水晶"
+      }
+    },
+    "AstralRound": {
+      "Name": {
+        "Origin": "Astral Round",
+        "Translation": "星体环"
+      }
+    },
+    "AstralSandgun": {
+      "Name": {
+        "Origin": "Astral Sandgun",
+        "Translation": "星辉砂弹"
+      }
+    },
+    "AstrealArrow": {
+      "Name": {
+        "Origin": "Astreal Arrow",
+        "Translation": "彗星箭"
+      }
+    },
+    "AstrealFlame": {
+      "Name": {
+        "Origin": "Flame",
+        "Translation": "星辉病"
+      }
+    },
+    "BallistaGreatArrow": {
+      "Name": {
+        "Origin": "Ballista Great Arrow",
+        "Translation": "城弩巨箭"
+      }
+    },
+    "BeeRPG": {
+      "Name": {
+        "Origin": "Bee RPG",
+        "Translation": "蜜蜂火箭筒"
+      }
+    },
+    "BigCoral": {
+      "Name": {
+        "Origin": "Big Coral",
+        "Translation": "巨型珊瑚"
+      }
+    },
+    "BigNuke": {
+      "Name": {
+        "Origin": "Big Nuke",
+        "Translation": "大号核弹"
+      }
+    },
+    "BloodClotFriendly": {
+      "Name": {
+        "Origin": "Blood Clot",
+        "Translation": "血凝块"
+      }
+    },
+    "BloodfireArrowProj": {
+      "Name": {
+        "Origin": "Bloodfire Arrow",
+        "Translation": "血炎箭"
+      }
+    },
+    "BloodfireBullet": {
+      "Name": {
+        "Origin": "Bloodfire Bullet",
+        "Translation": "血炎弹"
+      }
+    },
+    "BloodflareSoul": {
+      "Name": {
+        "Origin": "Blood Soul",
+        "Translation": "血灵"
+      }
+    },
+    "BlueExoArrow": {
+      "Name": {
+        "Origin": "Arrow",
+        "Translation": "箭"
+      }
+    },
+    "BlueExoArrow2": {
+      "Name": {
+        "Origin": "Arrow",
+        "Translation": "箭"
+      }
+    },
+    "Bolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "箭"
+      }
+    },
+    "BoltArrow": {
+      "Name": {
+        "Origin": "Bolt Arrow",
+        "Translation": "闪电箭"
+      }
+    },
+    "BrimstoneBallFriendly": {
+      "Name": {
+        "Origin": "Ball",
+        "Translation": "硫火球"
+      }
+    },
+    "BrimstoneBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "硫火飞弹"
+      }
+    },
+    "BrimstoneFireFriendly": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "硫火"
+      }
+    },
+    "ButcherGun": {
+      "Name": {
+        "Origin": "Butcher",
+        "Translation": "屠夫猎枪"
+      }
+    },
+    "CardClub": {
+      "Name": {
+        "Origin": "Club",
+        "Translation": "梅花牌"
+      }
+    },
+    "CardClubSplit": {
+      "Name": {
+        "Origin": "Club",
+        "Translation": "分裂梅花牌"
+      }
+    },
+    "CardDiamond": {
+      "Name": {
+        "Origin": "Diamond",
+        "Translation": "方块牌"
+      }
+    },
+    "CardHeart": {
+      "Name": {
+        "Origin": "Heart",
+        "Translation": "红心牌"
+      }
+    },
+    "CardSpade": {
+      "Name": {
+        "Origin": "Spade",
+        "Translation": "黑桃牌"
+      }
+    },
+    "ChargedBlast": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "爆炸"
+      }
+    },
+    "ChargedBlast2": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "爆炸"
+      }
+    },
+    "ChargedBlast3": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "爆炸"
+      }
+    },
+    "ChargedDartExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "Chicken": {
+      "Name": {
+        "Origin": "Chicken",
+        "Translation": "小鸡"
+      }
+    },
+    "ChickenExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "ClamorRifleProj": {
+      "Name": {
+        "Origin": "Energy Bolt",
+        "Translation": "聚能弹"
+      }
+    },
+    "ClamorRifleProjSplit": {
+      "Name": {
+        "Origin": "Energy Bolt",
+        "Translation": "聚能弹"
+      }
+    },
+    "ContagionArrow": {
+      "Name": {
+        "Origin": "Contagion Arrow",
+        "Translation": "疫毒箭"
+      }
+    },
+    "ContagionBall": {
+      "Name": {
+        "Origin": "Contagion Ball",
+        "Translation": "疫病球"
+      }
+    },
+    "ContagionBow": {
+      "Name": {
+        "Origin": "Contagion",
+        "Translation": "疫毒"
+      }
+    },
+    "CorossiveFlames": {
+      "Name": {
+        "Origin": "Flames",
+        "Translation": "火焰"
+      }
+    },
+    "CosmicFire": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "宙炎"
+      }
+    },
+    "DaemonsFlameArrow": {
+      "Name": {
+        "Origin": "Arrow",
+        "Translation": "鬼炎箭"
+      }
+    },
+    "DaemonsFlameBow": {
+      "Name": {
+        "Origin": "Daemon's Flame",
+        "Translation": "鬼炎箭"
+      }
+    },
+    "DragonBurst": {
+      "Name": {
+        "Origin": "Burst",
+        "Translation": "龙炎爆"
+      }
+    },
+    "DrataliornusBow": {
+      "Name": {
+        "Origin": "Drataliornus",
+        "Translation": "赤陨霸龙弓"
+      }
+    },
+    "DrataliornusExoArrow": {
+      "Name": {
+        "Origin": "Drataliornus Arrow",
+        "Translation": "炎龙崩啸"
+      }
+    },
+    "DrataliornusFlame": {
+      "Name": {
+        "Origin": "Drataliornus Arrow",
+        "Translation": "赤陨霸龙弓"
+      }
+    },
+    "DrizzlefishFire": {
+      "Name": {
+        "Origin": "Drizzlefish Flames",
+        "Translation": "龙雨鱼之火"
+      }
+    },
+    "DrizzlefishFireball": {
+      "Name": {
+        "Origin": "Drizzlefish Fireball",
+        "Translation": "龙雨鱼炎弹"
+      }
+    },
+    "DrizzlefishFireSplit": {
+      "Name": {
+        "Origin": "Drizzlefish Flames",
+        "Translation": "龙雨鱼息"
+      }
+    },
+    "DWArrow": {
+      "Name": {
+        "Origin": "Death's Arrow",
+        "Translation": "死亡之箭"
+      }
+    },
+    "ElysianArrowProj": {
+      "Name": {
+        "Origin": "Arrow",
+        "Translation": "箭矢"
+      }
+    },
+    "EnhancedNanoRoundProj": {
+      "Name": {
+        "Origin": "Nano Round",
+        "Translation": "纳米光环"
+      }
+    },
+    "EssenceFire": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "火焰"
+      }
+    },
+    "ExoFire": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "火焰"
+      }
+    },
+    "ExoMark": {
+      "Name": {
+        "Origin": "Mark",
+        "Translation": "标记"
+      }
+    },
+    "ExoTornado": {
+      "Name": {
+        "Origin": "Tornado",
+        "Translation": "飓风"
+      }
+    },
+    "ExplodingStake": {
+      "Name": {
+        "Origin": "Stake",
+        "Translation": "爆炸桩"
+      }
+    },
+    "FallenStarProj": {
+      "Name": {
+        "Origin": "Fallen Star",
+        "Translation": "陨星"
+      }
+    },
+    "FeatherLarge": {
+      "Name": {
+        "Origin": "Feather",
+        "Translation": "羽毛"
+      }
+    },
+    "FishronRPG": {
+      "Name": {
+        "Origin": "RPG",
+        "Translation": "SDFMG水龙卷弹"
+      }
+    },
+    "FlakKraken": {
+      "Name": {
+        "Origin": "Kraken",
+        "Translation": "克拉肯"
+      }
+    },
+    "FlakKrakenGun": {
+      "Name": {
+        "Origin": "Flak Kraken",
+        "Translation": "高射水怪"
+      }
+    },
+    "FlamingStake": {
+      "Name": {
+        "Origin": "Stake",
+        "Translation": "桩子"
+      }
+    },
+    "FlareBat": {
+      "Name": {
+        "Origin": "Bat",
+        "Translation": "黑翼蝙蝠"
+      }
+    },
+    "Flash": {
+      "Name": {
+        "Origin": "Flash",
+        "Translation": "烁光"
+      }
+    },
+    "FlashBulletProj": {
+      "Name": {
+        "Origin": "Bullet",
+        "Translation": "闪光弹"
+      }
+    },
+    "FlurrystormCannonShooting": {
+      "Name": {
+        "Origin": "Flurrystorm Cannon",
+        "Translation": "雪球机关枪"
+      }
+    },
+    "FlurrystormIceChunk": {
+      "Name": {
+        "Origin": "Ice Chunk",
+        "Translation": "冰块"
+      }
+    },
+    "FlurrystormIceShard": {
+      "Name": {
+        "Origin": "Ice Shard",
+        "Translation": "碎冰"
+      }
+    },
+    "FossilShard": {
+      "Name": {
+        "Origin": "Shard",
+        "Translation": "化石碎片"
+      }
+    },
+    "FrostsparkBulletProj": {
+      "Name": {
+        "Origin": "Frostspark Bullet",
+        "Translation": "霜炎弹"
+      }
+    },
+    "FungiOrb": {
+      "Name": {
+        "Origin": "Orb",
+        "Translation": "真菌快"
+      }
+    },
+    "FungiOrb2": {
+      "Name": {
+        "Origin": "Orb",
+        "Translation": "真菌快"
+      }
+    },
+    "GoliathRocket": {
+      "Name": {
+        "Origin": "Rocket",
+        "Translation": "瘟疫导弹"
+      }
+    },
+    "GreenExoArrow": {
+      "Name": {
+        "Origin": "Arrow",
+        "Translation": "箭矢"
+      }
+    },
+    "HalleysComet": {
+      "Name": {
+        "Origin": "Halley's Comet",
+        "Translation": "哈雷彗星"
+      }
+    },
+    "HandheldTankShell": {
+      "Name": {
+        "Origin": "Tank Shell",
+        "Translation": "坚硬外壳"
+      }
+    },
+    "HiveBomb": {
+      "Name": {
+        "Origin": "Bomb",
+        "Translation": "爆炸"
+      }
+    },
+    "HiveMissile": {
+      "Name": {
+        "Origin": "Bomb",
+        "Translation": "爆炸"
+      }
+    },
+    "HolyFireBulletProj": {
+      "Name": {
+        "Origin": "Holy Fire Bullet",
+        "Translation": "圣火弹"
+      }
+    },
+    "HyperiusBulletProj": {
+      "Name": {
+        "Origin": "Hyperius Bullet",
+        "Translation": "猩红高速弹"
+      }
+    },
+    "HyperiusSplit": {
+      "Name": {
+        "Origin": "Hyperius Bad Time",
+        "Translation": "猩红的悲惨时光"
+      }
+    },
+    "IcicleArrowProj": {
+      "Name": {
+        "Origin": "Icicle Arrow",
+        "Translation": "冰坠箭"
+      }
+    },
+    "IcyBulletProj": {
+      "Name": {
+        "Origin": "Icy Bullet",
+        "Translation": "冰砾弹"
+      }
+    },
+    "IlluminatedBullet": {
+      "Name": {
+        "Origin": "Illuminated Bullet",
+        "Translation": "烁光弹"
+      }
+    },
+    "KarasawaShot": {
+      "Name": {
+        "Origin": "Karasawa Shot",
+        "Translation": "卡拉萨瓦炮弹"
+      }
+    },
+    "LeafArrow": {
+      "Name": {
+        "Origin": "Arrow",
+        "Translation": "死亡之箭"
+      }
+    },
+    "LunarBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "飞弹"
+      }
+    },
+    "LunarBolt2": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "飞弹"
+      }
+    },
+    "LuxorsGiftRanged": {
+      "Name": {
+        "Origin": "Gift",
+        "Translation": "卢克索的礼物"
+      }
+    },
+    "MagnaStrike": {
+      "Name": {
+        "Origin": "Strike",
+        "Translation": "麦格纳冲击波"
+      }
+    },
+    "MagnomalyAura": {
+      "Name": {
+        "Origin": "Magnomaly Aura",
+        "Translation": "磁暴"
+      }
+    },
+    "MagnomalyBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "光束"
+      }
+    },
+    "MagnomalyExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "MagnomalyRocket": {
+      "Name": {
+        "Origin": "Nuke",
+        "Translation": "核弹"
+      }
+    },
+    "MechanicalBarracuda": {
+      "Name": {
+        "Origin": "Barracuda",
+        "Translation": "梭鱼"
+      }
+    },
+    "MeowFire": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "火焰"
+      }
+    },
+    "MeowFire2": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "火焰"
+      }
+    },
+    "Minibirb": {
+      "Name": {
+        "Origin": "Minibirb",
+        "Translation": "小鸟"
+      }
+    },
+    "MiniRocket": {
+      "Name": {
+        "Origin": "Rocket",
+        "Translation": "火箭"
+      }
+    },
+    "MistArrow": {
+      "Name": {
+        "Origin": "Arrow",
+        "Translation": "箭"
+      }
+    },
+    "MortarRoundProj": {
+      "Name": {
+        "Origin": "Mortar",
+        "Translation": "炮弹"
+      }
+    },
+    "Nanomachine": {
+      "Name": {
+        "Origin": "Bullet",
+        "Translation": "子弹"
+      }
+    },
+    "NapalmArrowProj": {
+      "Name": {
+        "Origin": "Arrow",
+        "Translation": "箭"
+      }
+    },
+    "NebulaShot": {
+      "Name": {
+        "Origin": "Shot",
+        "Translation": "子弹"
+      }
+    },
+    "NeedlerProj": {
+      "Name": {
+        "Origin": "Needle",
+        "Translation": "针"
+      }
+    },
+    "NorfleetCannon": {
+      "Name": {
+        "Origin": "Norfleet",
+        "Translation": "诺弗利特"
+      }
+    },
+    "NorfleetComet": {
+      "Name": {
+        "Origin": "Comet",
+        "Translation": "彗星"
+      }
+    },
+    "NorfleetExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "Nuke": {
+      "Name": {
+        "Origin": "Nuke",
+        "Translation": "核弹"
+      }
+    },
+    "NullShot": {
+      "Name": {
+        "Origin": "Null",
+        "Translation": "空弹"
+      }
+    },
+    "NullShot2": {
+      "Name": {
+        "Origin": "Null",
+        "Translation": "空弹"
+      }
+    },
+    "OnyxSharkBomb": {
+      "Name": {
+        "Origin": "Shark",
+        "Translation": "鲨鱼"
+      }
+    },
+    "OpalStrike": {
+      "Name": {
+        "Origin": "Strike",
+        "Translation": "冲撞"
+      }
+    },
+    "OrangeExoArrow": {
+      "Name": {
+        "Origin": "Arrow",
+        "Translation": "箭"
+      }
+    },
+    "PhangasmBow": {
+      "Name": {
+        "Origin": "Phangasm",
+        "Translation": "幻魔"
+      }
+    },
+    "PlagueArrow": {
+      "Name": {
+        "Origin": "Arrow",
+        "Translation": "箭"
+      }
+    },
+    "PlagueExplosionFriendly": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "PlanarRipperBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "位面猎魂弹"
+      }
+    },
+    "PlanarRipperExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "位面肃清"
+      }
+    },
+    "PlanetaryAnnihilationProj": {
+      "Name": {
+        "Origin": "Ball",
+        "Translation": "行星的毁灭"
+      }
+    },
+    "PlasmaBlast": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "爆炸波"
+      }
+    },
+    "PlasmaExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "PolarStar": {
+      "Name": {
+        "Origin": "Polar Star",
+        "Translation": "北极星"
+      }
+    },
+    "ProBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "闪电"
+      }
+    },
+    "RainbowBlast": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "爆炸波"
+      }
+    },
+    "RealmRavagerBullet": {
+      "Name": {
+        "Origin": "Explosive Bullet",
+        "Translation": "爆炸性弹头"
+      }
+    },
+    "RubberMortarRoundProj": {
+      "Name": {
+        "Origin": "Round",
+        "Translation": "光环"
+      }
+    },
+    "SandstormBullet": {
+      "Name": {
+        "Origin": "Sandstorm",
+        "Translation": "沙尘暴"
+      }
+    },
+    "SandWater": {
+      "Name": {
+        "Origin": "Water",
+        "Translation": "沙流"
+      }
+    },
+    "SandyWaifuShark": {
+      "Name": {
+        "Origin": "Shark",
+        "Translation": "瀚海狂鲨"
+      }
+    },
+    "SeaDragonRocket": {
+      "Name": {
+        "Origin": "RPG",
+        "Translation": "海龙爆炎弹"
+      }
+    },
+    "SeasSearingBubble": {
+      "Name": {
+        "Origin": "Searing Bubble",
+        "Translation": "灼热泡泡"
+      }
+    },
+    "SeasSearingSecondary": {
+      "Name": {
+        "Origin": "Hydroshower",
+        "Translation": "海浴"
+      }
+    },
+    "SeasSearingSpout": {
+      "Name": {
+        "Origin": "Spout",
+        "Translation": "海灼龙卷"
+      }
+    },
+    "SepticSkewerBacteria": {
+      "Name": {
+        "Origin": "Bacteria",
+        "Translation": "剧毒细胞"
+      }
+    },
+    "SepticSkewerHarpoon": {
+      "Name": {
+        "Origin": "Septic Skewer",
+        "Translation": "剧毒叉枪"
+      }
+    },
+    "ShadeFire": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "火焰"
+      }
+    },
+    "Shell": {
+      "Name": {
+        "Origin": "Shell",
+        "Translation": "贝壳箭"
+      }
+    },
+    "Shockblast": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "震爆冲击波"
+      }
+    },
+    "ShockblastRound": {
+      "Name": {
+        "Origin": "Round",
+        "Translation": "震爆冲击波"
+      }
+    },
+    "Shroom": {
+      "Name": {
+        "Origin": "Shroom",
+        "Translation": "真菌"
+      }
+    },
+    "Sickness": {
+      "Name": {
+        "Origin": "Sickness",
+        "Translation": "抗药性"
+      }
+    },
+    "SicknessRound": {
+      "Name": {
+        "Origin": "Round",
+        "Translation": "抗药性光环"
+      }
+    },
+    "SicknessRound2": {
+      "Name": {
+        "Origin": "Round",
+        "Translation": "抗药性光环"
+      }
+    },
+    "SlagRound": {
+      "Name": {
+        "Origin": "Round",
+        "Translation": "抗药性光环"
+      }
+    },
+    "SlashRound": {
+      "Name": {
+        "Origin": "Round",
+        "Translation": "抗药性光环"
+      }
+    },
+    "SlimeBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "史莱姆喷溅"
+      }
+    },
+    "SmallCoral": {
+      "Name": {
+        "Origin": "Small Coral",
+        "Translation": "小珊瑚"
+      }
+    },
+    "SparkSpreaderFire": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "火焰"
+      }
+    },
+    "SporeBomb": {
+      "Name": {
+        "Origin": "Bomb",
+        "Translation": "毒气弹"
+      }
+    },
+    "SputterComet": {
+      "Name": {
+        "Origin": "Comet",
+        "Translation": "彗星"
+      }
+    },
+    "SputterCometBig": {
+      "Name": {
+        "Origin": "Comet",
+        "Translation": "彗星"
+      }
+    },
+    "SpykerProj": {
+      "Name": {
+        "Origin": "Spyker",
+        "Translation": "叶针霰弹炮"
+      }
+    },
+    "StarfleetMK2Gun": {
+      "Name": {
+        "Origin": "Starmada",
+        "Translation": "群星大炮"
+      }
+    },
+    "StormSurgeTornado": {
+      "Name": {
+        "Origin": "Surge",
+        "Translation": "潮涌"
+      }
+    },
+    "SulphuricAcidBubble2": {
+      "Name": {
+        "Origin": "Acid Bubble",
+        "Translation": "酸性气泡"
+      }
+    },
+    "SulphuricAcidMist2": {
+      "Name": {
+        "Origin": "Acid Mist",
+        "Translation": "酸雾"
+      }
+    },
+    "SuperballBulletProj": {
+      "Name": {
+        "Origin": "Bullet",
+        "Translation": "子弹"
+      }
+    },
+    "TealExoArrow": {
+      "Name": {
+        "Origin": "Arrow",
+        "Translation": "箭"
+      }
+    },
+    "TelluricGlareProj": {
+      "Name": {
+        "Origin": "Glare",
+        "Translation": "眩光"
+      }
+    },
+    "TerraArrowMain": {
+      "Name": {
+        "Origin": "Arrow",
+        "Translation": "泰拉箭"
+      }
+    },
+    "TerraArrowSplit": {
+      "Name": {
+        "Origin": "Arrow",
+        "Translation": "泰拉箭"
+      }
+    },
+    "TerraBulletMain": {
+      "Name": {
+        "Origin": "Bullet",
+        "Translation": "泰拉子弹"
+      }
+    },
+    "TerraBulletSplit": {
+      "Name": {
+        "Origin": "Bullet",
+        "Translation": "泰拉子弹"
+      }
+    },
+    "TerraFireGreen": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "泰拉绿焰"
+      }
+    },
+    "TerraFireGreen2": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "泰拉绿焰"
+      }
+    },
+    "ThePackMinissile": {
+      "Name": {
+        "Origin": "Pack Minissile",
+        "Translation": "集束迷你火箭"
+      }
+    },
+    "ThePackMissile": {
+      "Name": {
+        "Origin": "Pack Missile",
+        "Translation": "集束火箭"
+      }
+    },
+    "TitRail": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "爆炸波"
+      }
+    },
+    "TorrentialArrow": {
+      "Name": {
+        "Origin": "Arrow",
+        "Translation": "洪流箭"
+      }
+    },
+    "TriploonProj": {
+      "Name": {
+        "Origin": "Triploon",
+        "Translation": "三叉枪"
+      }
+    },
+    "TyphoonArrow": {
+      "Name": {
+        "Origin": "Arrow",
+        "Translation": "台风箭"
+      }
+    },
+    "TyphoonBubble": {
+      "Name": {
+        "Origin": "Bubble",
+        "Translation": "台风泡泡"
+      }
+    },
+    "VanquisherArrowMain": {
+      "Name": {
+        "Origin": "Arrow",
+        "Translation": "湮灭箭"
+      }
+    },
+    "VeriumBulletProj": {
+      "Name": {
+        "Origin": "Bullet",
+        "Translation": "钫弹"
+      }
+    },
+    "Voidragon": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "太虚星龙炮"
+      }
+    },
+    "WaterSpout": {
+      "Name": {
+        "Origin": "Spout",
+        "Translation": "激流"
+      }
+    },
+    "AbyssalMirrorProjectile": {
+      "Name": {
+        "Origin": "Lumenyl Fluid",
+        "Translation": "流明晶"
+      }
+    },
+    "AccretionDisk2": {
+      "Name": {
+        "Origin": "Accretion Disk",
+        "Translation": "元素飞盘"
+      }
+    },
+    "AccretionDiskProj": {
+      "Name": {
+        "Origin": "Accretion Disk",
+        "Translation": "元素飞盘"
+      }
+    },
+    "AdamantiteThrowingAxeProjectile": {
+      "Name": {
+        "Origin": "Adamantite Throwing Axe",
+        "Translation": "精金投斧"
+      }
+    },
+    "AlphaSeeker": {
+      "Name": {
+        "Origin": "Seeker",
+        "Translation": "始源搜寻者"
+      }
+    },
+    "AlphaVirusProjectile": {
+      "Name": {
+        "Origin": "Alpha Virus",
+        "Translation": "始源病毒"
+      }
+    },
+    "AshenStalactiteDebris": {
+      "Name": {
+        "Origin": "Ashen Debris",
+        "Translation": "灰烬残骸"
+      }
+    },
+    "AshenStalactiteProj": {
+      "Name": {
+        "Origin": "Ashen Stalactite",
+        "Translation": "灰烬石钟乳"
+      }
+    },
+    "AshenStalagmiteProj": {
+      "Name": {
+        "Origin": "Ashen Stalagmite",
+        "Translation": "灰烬石钟乳"
+      }
+    },
+    "BallisticPoisonBombProj": {
+      "Name": {
+        "Origin": "Poison Bomb",
+        "Translation": "渊毒子母雷"
+      }
+    },
+    "BallisticPoisonBombSpike": {
+      "Name": {
+        "Origin": "Spike",
+        "Translation": "渊毒刺"
+      }
+    },
+    "BarrelShrapnel": {
+      "Name": {
+        "Origin": "Shrapnel",
+        "Translation": "针叶片"
+      }
+    },
+    "BettyExplosion": {
+      "Name": {
+        "Origin": "Betty Explosion",
+        "Translation": "炸弹"
+      }
+    },
+    "BlastBarrelProjectile": {
+      "Name": {
+        "Origin": "Barrel",
+        "Translation": "爆炸桶"
+      }
+    },
+    "BlazingStarProj": {
+      "Name": {
+        "Origin": "Blazing Star",
+        "Translation": "烈火之星"
+      }
+    },
+    "BloodsoakedCrashax": {
+      "Name": {
+        "Origin": "Bloodsoaked Crasher",
+        "Translation": "血沫重斧"
+      }
+    },
+    "BlueFlamePillar": {
+      "Name": {
+        "Origin": "Flame Pillar",
+        "Translation": "圣炎柱"
+      }
+    },
+    "BouncingBettyProjectile": {
+      "Name": {
+        "Origin": "Bouncing Betty",
+        "Translation": "弹跳炸弹"
+      }
+    },
+    "BouncingBettyShrapnel": {
+      "Name": {
+        "Origin": "Shrapnel",
+        "Translation": "针叶片"
+      }
+    },
+    "BouncingEyeballProjectile": {
+      "Name": {
+        "Origin": "Eyeball",
+        "Translation": "眼球"
+      }
+    },
+    "BouncingEyeballProjectileStealthStrike": {
+      "Name": {
+        "Origin": "Eyeball",
+        "Translation": "眼球"
+      }
+    },
+    "BouncyBol": {
+      "Name": {
+        "Origin": "Bouncy Ball",
+        "Translation": "弹跳尖钉球"
+      }
+    },
+    "BrackishFlaskProj": {
+      "Name": {
+        "Origin": "Brackish Flask",
+        "Translation": "盐水瓶"
+      }
+    },
+    "BrackishWater": {
+      "Name": {
+        "Origin": "Water",
+        "Translation": "咸水"
+      }
+    },
+    "BrackishWaterBlast": {
+      "Name": {
+        "Origin": "Water",
+        "Translation": "剧毒海水弹"
+      }
+    },
+    "Brick": {
+      "Name": {
+        "Origin": "Brick",
+        "Translation": "砖"
+      }
+    },
+    "BrickFragment": {
+      "Name": {
+        "Origin": "Brick Fragment",
+        "Translation": "砖片"
+      }
+    },
+    "Brimblade2": {
+      "Name": {
+        "Origin": "Brimblade",
+        "Translation": "硫火手里剑"
+      }
+    },
+    "BrimbladeProj": {
+      "Name": {
+        "Origin": "Brimblade",
+        "Translation": "硫火手里剑"
+      }
+    },
+    "BurningStrifeProj": {
+      "Name": {
+        "Origin": "Shadow Flame Spiky Ball",
+        "Translation": "影炎刺球"
+      }
+    },
+    "ButcherKnife": {
+      "Name": {
+        "Origin": "Butcher Knife",
+        "Translation": "屠刀"
+      }
+    },
+    "CarvingFork": {
+      "Name": {
+        "Origin": "Carving Fork",
+        "Translation": "雕刻叉"
+      }
+    },
+    "CelestialReaperAfterimage": {
+      "Name": {
+        "Origin": "Celestial Reaper",
+        "Translation": "神宇魔星刃"
+      }
+    },
+    "CelestialReaperProjectile": {
+      "Name": {
+        "Origin": "Celestial Reaper",
+        "Translation": "神宇魔星刃"
+      }
+    },
+    "Celestus2": {
+      "Name": {
+        "Origin": "Celestus",
+        "Translation": "星神之杀"
+      }
+    },
+    "CelestusBoomerang": {
+      "Name": {
+        "Origin": "Celestus",
+        "Translation": "星神之杀"
+      }
+    },
+    "CinquedeaProj": {
+      "Name": {
+        "Origin": "Cinquedea",
+        "Translation": "五指剑"
+      }
+    },
+    "CobaltKunaiProjectile": {
+      "Name": {
+        "Origin": "Kunai",
+        "Translation": "钴蓝苦无"
+      }
+    },
+    "ConsecratedWaterProjectile": {
+      "Name": {
+        "Origin": "Consecrated Water",
+        "Translation": "圣水"
+      }
+    },
+    "CosmicKunaiProj": {
+      "Name": {
+        "Origin": "Kunai",
+        "Translation": "星体苦无"
+      }
+    },
+    "CosmicScythe": {
+      "Name": {
+        "Origin": "Cosmic Scythe",
+        "Translation": "宙能镰刀"
+      }
+    },
+    "CraniumSmasherExplosive": {
+      "Name": {
+        "Origin": "Explosive Cranium Smasher",
+        "Translation": "爆炸碎颅者"
+      }
+    },
+    "CraniumSmasherProj": {
+      "Name": {
+        "Origin": "Cranium Smasher",
+        "Translation": "碎颅者"
+      }
+    },
+    "Crushax": {
+      "Name": {
+        "Origin": "Crushax",
+        "Translation": "十字军"
+      }
+    },
+    "Crystalline2": {
+      "Name": {
+        "Origin": "Crystalline",
+        "Translation": "结晶体"
+      }
+    },
+    "CrystallineProj": {
+      "Name": {
+        "Origin": "Crystalline",
+        "Translation": "结晶体"
+      }
+    },
+    "CrystalPiercerProjectile": {
+      "Name": {
+        "Origin": "Crystal Piercer",
+        "Translation": "穿星者"
+      }
+    },
+    "CursedDaggerProj": {
+      "Name": {
+        "Origin": "Cursed Dagger",
+        "Translation": "诅咒匕首"
+      }
+    },
+    "DeepSeaDumbbell1": {
+      "Name": {
+        "Origin": "Deep Sea Dumbbell",
+        "Translation": "渊海哑铃"
+      }
+    },
+    "DeepSeaDumbbell2": {
+      "Name": {
+        "Origin": "Deep Sea Dumbbell",
+        "Translation": "渊海哑铃"
+      }
+    },
+    "DeepSeaDumbbell3": {
+      "Name": {
+        "Origin": "Deep Sea Dumbbell",
+        "Translation": "渊海哑铃"
+      }
+    },
+    "DeepSeaDumbbellWeight": {
+      "Name": {
+        "Origin": "Deep Sea Dumbbell",
+        "Translation": "渊海哑铃"
+      }
+    },
+    "DeepWounderProjectile": {
+      "Name": {
+        "Origin": "Deep Wounder Projectile",
+        "Translation": "重伤战斧"
+      }
+    },
+    "DeepWounderWater": {
+      "Name": {
+        "Origin": "Water Droplet",
+        "Translation": "水滴"
+      }
+    },
+    "DeificThunderboltProj": {
+      "Name": {
+        "Origin": "Lightning",
+        "Translation": "闪电"
+      }
+    },
+    "DesecratedBubble": {
+      "Name": {
+        "Origin": "Bubble",
+        "Translation": "泡泡"
+      }
+    },
+    "DesecratedWaterProj": {
+      "Name": {
+        "Origin": "Desecrated Water",
+        "Translation": "渎神水流"
+      }
+    },
+    "DestructionBolt": {
+      "Name": {
+        "Origin": "Destruction Bolt",
+        "Translation": "毁灭弹"
+      }
+    },
+    "DestructionStar": {
+      "Name": {
+        "Origin": "Star of Destruction",
+        "Translation": "毁灭之星"
+      }
+    },
+    "DragonShit": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "火焰"
+      }
+    },
+    "DukesDecapitatorBubble": {
+      "Name": {
+        "Origin": "Bubble",
+        "Translation": "泡泡"
+      }
+    },
+    "DukesDecapitatorProj": {
+      "Name": {
+        "Origin": "Decapitator",
+        "Translation": "斩首者"
+      }
+    },
+    "DuneHopperProjectile": {
+      "Name": {
+        "Origin": "Scourge",
+        "Translation": "亡灵"
+      }
+    },
+    "DuststormCloud": {
+      "Name": {
+        "Origin": "Cloud",
+        "Translation": "粉尘云"
+      }
+    },
+    "DuststormInABottleProj": {
+      "Name": {
+        "Origin": "Duststorm",
+        "Translation": "尘暴"
+      }
+    },
+    "EclipseMirrorBurst": {
+      "Name": {
+        "Origin": "Eclipse Mirror Flash",
+        "Translation": "暗日之光"
+      }
+    },
+    "EclipsesFallMain": {
+      "Name": {
+        "Origin": "Eclipse's Fall",
+        "Translation": "日陨降临"
+      }
+    },
+    "EclipsesSmol": {
+      "Name": {
+        "Origin": "Eclipse's Small",
+        "Translation": "小日蚀"
+      }
+    },
+    "EclipsesStealth": {
+      "Name": {
+        "Origin": "Eclipse's Stealth",
+        "Translation": "日蚀奥秘"
+      }
+    },
+    "EmpyreanKnife": {
+      "Name": {
+        "Origin": "Knife",
+        "Translation": "飞刀"
+      }
+    },
+    "EnchantedAxe2": {
+      "Name": {
+        "Origin": "Enchanted Axe",
+        "Translation": "附魔之斧"
+      }
+    },
+    "EnchantedAxeProj": {
+      "Name": {
+        "Origin": "Enchanted Axe",
+        "Translation": "附魔之斧"
+      }
+    },
+    "EpidemicShredderProjectile": {
+      "Name": {
+        "Origin": "Epidemic Shredder",
+        "Translation": "瘟疫回旋镖"
+      }
+    },
+    "EquanimityDarkShard": {
+      "Name": {
+        "Origin": "Dark Shard",
+        "Translation": "阴极"
+      }
+    },
+    "EquanimityLightShard": {
+      "Name": {
+        "Origin": "Light Shard",
+        "Translation": "阳极"
+      }
+    },
+    "EquanimityProj": {
+      "Name": {
+        "Origin": "Equanimity",
+        "Translation": "寂静回旋镖"
+      }
+    },
+    "EradicatorProjectile": {
+      "Name": {
+        "Origin": "Eradicator",
+        "Translation": "寂静回旋镖"
+      }
+    },
+    "ExecutionersBladeProj": {
+      "Name": {
+        "Origin": "Blade",
+        "Translation": "终结者之刃"
+      }
+    },
+    "ExecutionersBladeStealthProj": {
+      "Name": {
+        "Origin": "Blade",
+        "Translation": "终结追魂刃"
+      }
+    },
+    "ExorcismProj": {
+      "Name": {
+        "Origin": "Exorcism",
+        "Translation": "驱魔十字架"
+      }
+    },
+    "ExorcismShockwave": {
+      "Name": {
+        "Origin": "Exorcism Shockwave",
+        "Translation": "驱魔波"
+      }
+    },
+    "ExorcismStar": {
+      "Name": {
+        "Origin": "Exorcism Star",
+        "Translation": "神圣流星"
+      }
+    },
+    "ExplosiveSun": {
+      "Name": {
+        "Origin": "Explosive Sun",
+        "Translation": "圣阳"
+      }
+    },
+    "FantasyTalismanProj": {
+      "Name": {
+        "Origin": "Talisman",
+        "Translation": "符咒"
+      }
+    },
+    "FantasyTalismanStealth": {
+      "Name": {
+        "Origin": "Talisman",
+        "Translation": "符咒"
+      }
+    },
+    "FeatherKnifeProjectile": {
+      "Name": {
+        "Origin": "Knife",
+        "Translation": "飞刀"
+      }
+    },
+    "FlameScytheProjectile": {
+      "Name": {
+        "Origin": "Scythe",
+        "Translation": "熔渣之镰"
+      }
+    },
+    "Fork": {
+      "Name": {
+        "Origin": "Fork",
+        "Translation": "飞叉"
+      }
+    },
+    "FossilShardThrown": {
+      "Name": {
+        "Origin": "Shard",
+        "Translation": "碎片"
+      }
+    },
+    "FrostShardFriendly": {
+      "Name": {
+        "Origin": "Frost Shard",
+        "Translation": "霜冻碎片"
+      }
+    },
+    "FrostyFlareProj": {
+      "Name": {
+        "Origin": "Frosty Flare",
+        "Translation": "霜花"
+      }
+    },
+    "GacruxianHome": {
+      "Name": {
+        "Origin": "Mollusk",
+        "Translation": "十字架一蜗牛"
+      }
+    },
+    "GacruxianProj": {
+      "Name": {
+        "Origin": "Mollusk",
+        "Translation": "十字架一蜗牛"
+      }
+    },
+    "GelDartProjectile": {
+      "Name": {
+        "Origin": "Dart",
+        "Translation": "凝胶飞镖"
+      }
+    },
+    "GhoulishGougerBoomerang": {
+      "Name": {
+        "Origin": "Scythe",
+        "Translation": "狱卒之镰"
+      }
+    },
+    "GildedDaggerProj": {
+      "Name": {
+        "Origin": "Gilded Dagger",
+        "Translation": "黄金飞刀"
+      }
+    },
+    "GlaiveProj": {
+      "Name": {
+        "Origin": "Glaive",
+        "Translation": "海星回旋镖"
+      }
+    },
+    "GleamingDaggerProj": {
+      "Name": {
+        "Origin": "Gleaming Dagger",
+        "Translation": "铂金飞刀"
+      }
+    },
+    "GodsParanoiaDart": {
+      "Name": {
+        "Origin": "Kunai",
+        "Translation": "神妄苦无"
+      }
+    },
+    "GodsParanoiaProj": {
+      "Name": {
+        "Origin": "God's Paranoia",
+        "Translation": "神之妄论"
+      }
+    },
+    "HeavenfallenEnergy": {
+      "Name": {
+        "Origin": "Heavenfallen Energy",
+        "Translation": "天陨魔能"
+      }
+    },
+    "HeavenfallenStardiskBoomerang": {
+      "Name": {
+        "Origin": "Heavenfallen Stardisk",
+        "Translation": "天陨星盘"
+      }
+    },
+    "HellsSunProj": {
+      "Name": {
+        "Origin": "Hell's Sun",
+        "Translation": "地狱之阳"
+      }
+    },
+    "Honeycomb": {
+      "Name": {
+        "Origin": "Honeycomb",
+        "Translation": "蜂巢"
+      }
+    },
+    "HoneycombFragment": {
+      "Name": {
+        "Origin": "Honeycomb Fragment",
+        "Translation": "蜂巢碎片"
+      }
+    },
+    "HypothermiaChunk": {
+      "Name": {
+        "Origin": "Ice Chunk",
+        "Translation": "冰块"
+      }
+    },
+    "HypothermiaShard": {
+      "Name": {
+        "Origin": "Ice Shard",
+        "Translation": "碎冰片"
+      }
+    },
+    "IcebreakerHammer": {
+      "Name": {
+        "Origin": "Icebreaker",
+        "Translation": "破冰者"
+      }
+    },
+    "IceStarProjectile": {
+      "Name": {
+        "Origin": "Star",
+        "Translation": "冰星"
+      }
+    },
+    "IchorSpearProj": {
+      "Name": {
+        "Origin": "Spear",
+        "Translation": "腐脓标枪"
+      }
+    },
+    "IllustriousKnife": {
+      "Name": {
+        "Origin": "Knife",
+        "Translation": "圣光飞刀"
+      }
+    },
+    "InfernalKrisCinder": {
+      "Name": {
+        "Origin": "Infernal Cinder",
+        "Translation": "狱炎余烬"
+      }
+    },
+    "InfernalKrisExplosion": {
+      "Name": {
+        "Origin": "Infernal Explosion",
+        "Translation": "狱炎爆"
+      }
+    },
+    "InfernalKrisProjectile": {
+      "Name": {
+        "Origin": "Infernal Kris",
+        "Translation": "炼狱克里斯"
+      }
+    },
+    "InfernalSpearProjectile": {
+      "Name": {
+        "Origin": "Spear",
+        "Translation": "炼狱长枪"
+      }
+    },
+    "InkBombProjectile": {
+      "Name": {
+        "Origin": "Ink Bomb",
+        "Translation": "乌云"
+      }
+    },
+    "InkCloud": {
+      "Name": {
+        "Origin": "Ink Cloud",
+        "Translation": "乌云"
+      }
+    },
+    "InkCloud2": {
+      "Name": {
+        "Origin": "Ink Cloud",
+        "Translation": "乌云"
+      }
+    },
+    "InkCloud3": {
+      "Name": {
+        "Origin": "Ink Cloud",
+        "Translation": "乌云"
+      }
+    },
+    "IronFranciscaProj": {
+      "Name": {
+        "Origin": "Iron Francisca",
+        "Translation": "铁质飞斧"
+      }
+    },
+    "JawsProjectile": {
+      "Name": {
+        "Origin": "Reaper Tooth",
+        "Translation": "猎魂鲨之牙"
+      }
+    },
+    "JawsShockwave": {
+      "Name": {
+        "Origin": "Reaper Tooth Shockwave",
+        "Translation": "猎魂鲨牙冲击波"
+      }
+    },
+    "Knife": {
+      "Name": {
+        "Origin": "Knife",
+        "Translation": "飞刀"
+      }
+    },
+    "KylieBoomerang": {
+      "Name": {
+        "Origin": "Kylie",
+        "Translation": "回力标"
+      }
+    },
+    "LatcherMineProjectile": {
+      "Name": {
+        "Origin": "Latcher Mine",
+        "Translation": "粘性地雷"
+      }
+    },
+    "LeadTomahawkProj": {
+      "Name": {
+        "Origin": "Lead Tomahawk",
+        "Translation": "铅制飞斧"
+      }
+    },
+    "LeviathanTooth": {
+      "Name": {
+        "Origin": "Leviathan Tooth",
+        "Translation": "利维坦之牙"
+      }
+    },
+    "LeviathanTooth2": {
+      "Name": {
+        "Origin": "Leviathan Tooth",
+        "Translation": "利维坦之牙"
+      }
+    },
+    "LeviathanTooth3": {
+      "Name": {
+        "Origin": "Leviathan Tooth",
+        "Translation": "利维坦之牙"
+      }
+    },
+    "LionfishProj": {
+      "Name": {
+        "Origin": "Lionfish",
+        "Translation": "狮子鱼"
+      }
+    },
+    "LuminousShard": {
+      "Name": {
+        "Origin": "Stardust Shard",
+        "Translation": "星尘碎片"
+      }
+    },
+    "LuminousStrikerProj": {
+      "Name": {
+        "Origin": "Luminous Striker",
+        "Translation": "闪亮先锋矛"
+      }
+    },
+    "LunarKunaiProj": {
+      "Name": {
+        "Origin": "Kunai",
+        "Translation": "夜明苦无"
+      }
+    },
+    "LuxorsGiftRogue": {
+      "Name": {
+        "Origin": "Gift",
+        "Translation": "卢克索的礼物"
+      }
+    },
+    "MalachiteBolt": {
+      "Name": {
+        "Origin": "Malachite",
+        "Translation": "孔雀翎"
+      }
+    },
+    "MalachiteProj": {
+      "Name": {
+        "Origin": "Malachite",
+        "Translation": "孔雀翎"
+      }
+    },
+    "MangroveChakramProjectile": {
+      "Name": {
+        "Origin": "Chakram",
+        "Translation": "红木环刃"
+      }
+    },
+    "MetalChunk": {
+      "Name": {
+        "Origin": "Metal Chunk",
+        "Translation": "金属块"
+      }
+    },
+    "MetalShard": {
+      "Name": {
+        "Origin": "Metal Shard",
+        "Translation": "金属碎片"
+      }
+    },
+    "MeteorFistProj": {
+      "Name": {
+        "Origin": "Fist",
+        "Translation": "流星拳"
+      }
+    },
+    "MoltenAmputatorProj": {
+      "Name": {
+        "Origin": "Amputator",
+        "Translation": "熔岩切碎者"
+      }
+    },
+    "MoltenBlobThrown": {
+      "Name": {
+        "Origin": "Blob",
+        "Translation": "蘑菇团"
+      }
+    },
+    "MonkeyDart": {
+      "Name": {
+        "Origin": "Monkey Dart",
+        "Translation": "猴子飞镖"
+      }
+    },
+    "MoonSigil": {
+      "Name": {
+        "Origin": "Moon Sigil",
+        "Translation": "月球符文"
+      }
+    },
+    "MycorootProj": {
+      "Name": {
+        "Origin": "Root",
+        "Translation": "蘑菇根质"
+      }
+    },
+    "MythrilKnifeProjectile": {
+      "Name": {
+        "Origin": "Knife",
+        "Translation": "飞刀"
+      }
+    },
+    "NastyChollaBol": {
+      "Name": {
+        "Origin": "Nasty Cholla",
+        "Translation": "仙人掌尖钉球"
+      }
+    },
+    "NastyChollaNeedle": {
+      "Name": {
+        "Origin": "Needle",
+        "Translation": "仙人掌刺"
+      }
+    },
+    "NightsGazeProjectile": {
+      "Name": {
+        "Origin": "Night's Gaze",
+        "Translation": "夜之凝视"
+      }
+    },
+    "NightsGazeSpark": {
+      "Name": {
+        "Origin": "Night's Gaze Spark",
+        "Translation": "夜之凝视枪魂"
+      }
+    },
+    "NightsGazeStar": {
+      "Name": {
+        "Origin": "Night's Gaze Star",
+        "Translation": "夜凝星"
+      }
+    },
+    "NychthemeronOrb": {
+      "Name": {
+        "Origin": "Nychthemeron Orb",
+        "Translation": "光暗球"
+      }
+    },
+    "NychthemeronProjectile": {
+      "Name": {
+        "Origin": "Nychthemeron",
+        "Translation": "昼夜"
+      }
+    },
+    "OPHammer": {
+      "Name": {
+        "Origin": "Hammer",
+        "Translation": "堕落圣骑士之锤"
+      }
+    },
+    "OrichalcumSpikedGemstoneProjectile": {
+      "Name": {
+        "Origin": "Gemstone",
+        "Translation": "山铜宝石钉"
+      }
+    },
+    "PalladiumJavelinProjectile": {
+      "Name": {
+        "Origin": "Javelin",
+        "Translation": "标枪"
+      }
+    },
+    "PartisanExplosion": {
+      "Name": {
+        "Origin": "Profaned Explosion",
+        "Translation": "圣火爆焱"
+      }
+    },
+    "PenumbraBomb": {
+      "Name": {
+        "Origin": "Penumbra Bomb",
+        "Translation": "半影爆炸"
+      }
+    },
+    "PenumbraSoul": {
+      "Name": {
+        "Origin": "Penumbra Soul",
+        "Translation": "半影之魂"
+      }
+    },
+    "PhantasmalRuinGhost": {
+      "Name": {
+        "Origin": "Phantasmal Ghost",
+        "Translation": "幻灵"
+      }
+    },
+    "PhantasmalRuinProj": {
+      "Name": {
+        "Origin": "Phantasmal Ruin",
+        "Translation": "幻灵归墟"
+      }
+    },
+    "PhantasmalSoul": {
+      "Name": {
+        "Origin": "Phantasmal Soul",
+        "Translation": "幻魂"
+      }
+    },
+    "PhantomLanceProj": {
+      "Name": {
+        "Origin": "Phantom Lance",
+        "Translation": "幻影投矛"
+      }
+    },
+    "PlaguedFuelPackCloud": {
+      "Name": {
+        "Origin": "Plagued Cloud",
+        "Translation": "瘟疫云"
+      }
+    },
+    "PlaguenadeBee": {
+      "Name": {
+        "Origin": "Plague Bee",
+        "Translation": "疫病毒蜂"
+      }
+    },
+    "PlaguenadeProj": {
+      "Name": {
+        "Origin": "Plaguenade",
+        "Translation": "瘟疫"
+      }
+    },
+    "PoisonBol": {
+      "Name": {
+        "Origin": "Poison Ball",
+        "Translation": "剧毒球"
+      }
+    },
+    "Prismalline2": {
+      "Name": {
+        "Origin": "Prismalline",
+        "Translation": "棱晶飞刀"
+      }
+    },
+    "Prismalline3": {
+      "Name": {
+        "Origin": "Prismalline",
+        "Translation": "棱晶飞刀"
+      }
+    },
+    "PrismallineProj": {
+      "Name": {
+        "Origin": "Prismalline",
+        "Translation": "棱晶飞刀"
+      }
+    },
+    "ProfanedPartisanproj": {
+      "Name": {
+        "Origin": "Profaned Partisan",
+        "Translation": "渎神投矛"
+      }
+    },
+    "ProfanedPartisanspear": {
+      "Name": {
+        "Origin": "Profaned Spear",
+        "Translation": "渎神长枪"
+      }
+    },
+    "PwnagehammerProj": {
+      "Name": {
+        "Origin": "Hammer",
+        "Translation": "锤"
+      }
+    },
+    "Quasar2": {
+      "Name": {
+        "Origin": "Quasar",
+        "Translation": "类星体"
+      }
+    },
+    "QuasarKnife": {
+      "Name": {
+        "Origin": "Quasar",
+        "Translation": "类星体"
+      }
+    },
+    "RadiantExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "RadiantStar2": {
+      "Name": {
+        "Origin": "Radiant Star",
+        "Translation": "辐射星"
+      }
+    },
+    "RadiantStarKnife": {
+      "Name": {
+        "Origin": "Radiant Star",
+        "Translation": "辐射星"
+      }
+    },
+    "ReaperProjectile": {
+      "Name": {
+        "Origin": "Scythe",
+        "Translation": "镰刀"
+      }
+    },
+    "RegulusEnergy": {
+      "Name": {
+        "Origin": "Regulus Energy",
+        "Translation": "星神游龙之灵"
+      }
+    },
+    "RegulusRiotProj": {
+      "Name": {
+        "Origin": "Regulus Riot",
+        "Translation": "星神游龙之混沌"
+      }
+    },
+    "RotBallProjectile": {
+      "Name": {
+        "Origin": "Ball",
+        "Translation": "球"
+      }
+    },
+    "SandDollarProj": {
+      "Name": {
+        "Origin": "Sand Dollar",
+        "Translation": "沙币"
+      }
+    },
+    "SandslasherProj": {
+      "Name": {
+        "Origin": "Sandslasher",
+        "Translation": "瀚漠之刃"
+      }
+    },
+    "ScarletBlast": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "冲击波"
+      }
+    },
+    "ScarletDevilBullet": {
+      "Name": {
+        "Origin": "Gungnir Bullet",
+        "Translation": "永恒弹"
+      }
+    },
+    "ScarletDevilProjectile": {
+      "Name": {
+        "Origin": "Spear the Gungnir",
+        "Translation": "冈格尼尔永恒之枪"
+      }
+    },
+    "ScourgeoftheDesertProj": {
+      "Name": {
+        "Origin": "Scourge",
+        "Translation": "荒漠灾虫"
+      }
+    },
+    "ScourgeoftheSeasProjectile": {
+      "Name": {
+        "Origin": "Moist Scourge",
+        "Translation": "湿漉亡灵"
+      }
+    },
+    "ScourgeVenomCloud": {
+      "Name": {
+        "Origin": "Venom Cloud",
+        "Translation": "毒雨云"
+      }
+    },
+    "SeafoamBombProj": {
+      "Name": {
+        "Origin": "Seafoam Bomb",
+        "Translation": "海泡石炸弹"
+      }
+    },
+    "SeafoamBubble": {
+      "Name": {
+        "Origin": "Seafoam Bubble",
+        "Translation": "海泡石泡泡"
+      }
+    },
+    "SeashellBoomerangProjectile": {
+      "Name": {
+        "Origin": "Boomerang",
+        "Translation": "回旋镖"
+      }
+    },
+    "ShatteredExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "ShatteredSunKnife": {
+      "Name": {
+        "Origin": "Shattered Sun",
+        "Translation": "裂阳"
+      }
+    },
+    "ShatteredSunScorchedBlade": {
+      "Name": {
+        "Origin": "Scorched Blade",
+        "Translation": "裂阳"
+      }
+    },
+    "ShinobiBladeProjectile": {
+      "Name": {
+        "Origin": "Shinobi Blade",
+        "Translation": "忍者之刃"
+      }
+    },
+    "ShockGrenadeBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "震爆弹闪电"
+      }
+    },
+    "ShockGrenadeExplosion": {
+      "Name": {
+        "Origin": "Shock Grenade Explosion",
+        "Translation": "震爆"
+      }
+    },
+    "ShockGrenadeProjectile": {
+      "Name": {
+        "Origin": "Shock Grenade",
+        "Translation": "震爆弹"
+      }
+    },
+    "ShockTeslaAura": {
+      "Name": {
+        "Origin": "Electrifying Aura",
+        "Translation": "闪电光环"
+      }
+    },
+    "ShroomerangProj": {
+      "Name": {
+        "Origin": "Shroomerang",
+        "Translation": "真菌回旋镖"
+      }
+    },
+    "ShroomerangSpore": {
+      "Name": {
+        "Origin": "Spore",
+        "Translation": "真菌孢子"
+      }
+    },
+    "SkyStabberProj": {
+      "Name": {
+        "Origin": "SkyStabberProj",
+        "Translation": "天羽尖钉球"
+      }
+    },
+    "SlickCaneProjectile": {
+      "Name": {
+        "Origin": "Slick Cane",
+        "Translation": "盗贼手杖"
+      }
+    },
+    "SludgeSplotchProj1": {
+      "Name": {
+        "Origin": "Sludge Splotch",
+        "Translation": "污泥斑点"
+      }
+    },
+    "SludgeSplotchProj2": {
+      "Name": {
+        "Origin": "Sludge Splotch",
+        "Translation": "污泥斑点"
+      }
+    },
+    "SnapClamProj": {
+      "Name": {
+        "Origin": "Snap Clam",
+        "Translation": "夹贝"
+      }
+    },
+    "SpearofDestinyProjectile": {
+      "Name": {
+        "Origin": "Spear",
+        "Translation": "命运之矛"
+      }
+    },
+    "SpearofPaleolithProj": {
+      "Name": {
+        "Origin": "Spear",
+        "Translation": "远古投矛"
+      }
+    },
+    "SphereBladed": {
+      "Name": {
+        "Origin": "Bladed Sphere",
+        "Translation": "致命之球"
+      }
+    },
+    "SphereBlue": {
+      "Name": {
+        "Origin": "Blue Thruster Sphere",
+        "Translation": "蓝色致命之球"
+      }
+    },
+    "SphereSpiked": {
+      "Name": {
+        "Origin": "Spiked Sphere",
+        "Translation": "致命刺球"
+      }
+    },
+    "SphereYellow": {
+      "Name": {
+        "Origin": "Yellow Thruster Sphere",
+        "Translation": "黄色致命刺球"
+      }
+    },
+    "StellarKnifeProj": {
+      "Name": {
+        "Origin": "Stellar Knife",
+        "Translation": "恒星匕首"
+      }
+    },
+    "StickyBol": {
+      "Name": {
+        "Origin": "Sticky Bol",
+        "Translation": "恒星"
+      }
+    },
+    "StormfrontRazorProjectile": {
+      "Name": {
+        "Origin": "Stormfront Knife",
+        "Translation": "风暴短匕"
+      }
+    },
+    "Stormfrontspark": {
+      "Name": {
+        "Origin": "Spark",
+        "Translation": "火花"
+      }
+    },
+    "SupernovaBomb": {
+      "Name": {
+        "Origin": "Supernova Bomb",
+        "Translation": "超新星爆炸"
+      }
+    },
+    "SupernovaBoom": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "超新星爆炸"
+      }
+    },
+    "SupernovaHoming": {
+      "Name": {
+        "Origin": "Supernova Energy",
+        "Translation": "超新星能量"
+      }
+    },
+    "SupernovaSpike": {
+      "Name": {
+        "Origin": "Spike",
+        "Translation": "尖刺"
+      }
+    },
+    "SylvanSlash": {
+      "Name": {
+        "Origin": "Slash",
+        "Translation": "林涛倾绝刃"
+      }
+    },
+    "SylvanSlashAttack": {
+      "Name": {
+        "Origin": "Sylvan Slash",
+        "Translation": "林涛倾绝刃"
+      }
+    },
+    "TalonLargeProj": {
+      "Name": {
+        "Origin": "Huge Terror Talon",
+        "Translation": "巨型恐惧鹰爪"
+      }
+    },
+    "TalonSmallProj": {
+      "Name": {
+        "Origin": "Terror Talon",
+        "Translation": "恐惧鹰爪"
+      }
+    },
+    "TarragonThrowingDartProjectile": {
+      "Name": {
+        "Origin": "Dart",
+        "Translation": "龙嵩投矛"
+      }
+    },
+    "TheSyringeCinder": {
+      "Name": {
+        "Origin": "Syringe Cinder",
+        "Translation": "注射器碎片"
+      }
+    },
+    "TheSyringeProj": {
+      "Name": {
+        "Origin": "Syringe",
+        "Translation": "瘟疫注射器"
+      }
+    },
+    "TheSyringeS1": {
+      "Name": {
+        "Origin": "Shrapnel",
+        "Translation": "瘟疫弹片"
+      }
+    },
+    "ThiefsDimeProj": {
+      "Name": {
+        "Origin": "Thief's Dime",
+        "Translation": "盗贼铸币"
+      }
+    },
+    "TimeBoltKnife": {
+      "Name": {
+        "Origin": "Time Bolt",
+        "Translation": "时空交叉刃"
+      }
+    },
+    "TitaniumShurikenProjectile": {
+      "Name": {
+        "Origin": "Shuriken",
+        "Translation": "手里剑"
+      }
+    },
+    "ToothBallProjectile": {
+      "Name": {
+        "Origin": "Ball",
+        "Translation": "球"
+      }
+    },
+    "TotalityFire": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "火焰"
+      }
+    },
+    "TotalityFlask": {
+      "Name": {
+        "Origin": "Totality Flask",
+        "Translation": "容量瓶"
+      }
+    },
+    "TotalityTar": {
+      "Name": {
+        "Origin": "Totality Tar",
+        "Translation": "浓缩焦油"
+      }
+    },
+    "TriactisOPHammer": {
+      "Name": {
+        "Origin": "Hammer",
+        "Translation": "真·泰阿克提斯之圣骑士魔锤"
+      }
+    },
+    "TurbulanceProjectile": {
+      "Name": {
+        "Origin": "Turbulance",
+        "Translation": "扰流长枪"
+      }
+    },
+    "TurbulanceWindSlash": {
+      "Name": {
+        "Origin": "Wind Slash",
+        "Translation": "风斩"
+      }
+    },
+    "UmbraphileBoom": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "UrchinStingerProj": {
+      "Name": {
+        "Origin": "Stinger",
+        "Translation": "海胆刺"
+      }
+    },
+    "ValariBoomerang": {
+      "Name": {
+        "Origin": "Frostcrush Valari",
+        "Translation": "霜碎回力标"
+      }
+    },
+    "Valaricicle": {
+      "Name": {
+        "Origin": "Valaricicle",
+        "Translation": "碎冰"
+      }
+    },
+    "Valaricicle2": {
+      "Name": {
+        "Origin": "Valaricicle",
+        "Translation": "碎冰"
+      }
+    },
+    "ValedictionBoomerang": {
+      "Name": {
+        "Origin": "Scythe",
+        "Translation": "镰刀"
+      }
+    },
+    "VeneratedKnife": {
+      "Name": {
+        "Origin": "Venerated Knife",
+        "Translation": "敬天弑神刀"
+      }
+    },
+    "WebBallBol": {
+      "Name": {
+        "Origin": "Web Ball",
+        "Translation": "蛛网球"
+      }
+    },
+    "WulfrumKnifeProj": {
+      "Name": {
+        "Origin": "Knife",
+        "Translation": "飞刀"
+      }
+    },
+    "XerocPitchforkProjectile": {
+      "Name": {
+        "Origin": "Pitchfork",
+        "Translation": "洛西洛克之叉"
+      }
+    },
+    "ApexShark": {
+      "Name": {
+        "Origin": "Ancient Mineral Shark",
+        "Translation": "失落极峰鲨"
+      }
+    },
+    "AquaticStarMinion": {
+      "Name": {
+        "Origin": "Aquatic Star",
+        "Translation": "水星"
+      }
+    },
+    "AstrageldonLaser": {
+      "Name": {
+        "Origin": "Astral Laser",
+        "Translation": "星幻激光"
+      }
+    },
+    "AstrageldonSummon": {
+      "Name": {
+        "Origin": "Astrageldon",
+        "Translation": "末世星史莱姆"
+      }
+    },
+    "AstralProbeRound": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "爆炸冲击波"
+      }
+    },
+    "AstralProbeSummon": {
+      "Name": {
+        "Origin": "Astral Probe",
+        "Translation": "幻星探测器"
+      }
+    },
+    "AureusBomber": {
+      "Name": {
+        "Origin": "Aureus Bomber",
+        "Translation": "白金星舰"
+      }
+    },
+    "BlackHawkBullet": {
+      "Name": {
+        "Origin": "Bullet",
+        "Translation": "黑鹰子弹"
+      }
+    },
+    "BlackHawkSummon": {
+      "Name": {
+        "Origin": "Black Hawk",
+        "Translation": "黑鹰"
+      }
+    },
+    "BloodClotMinion": {
+      "Name": {
+        "Origin": "Blood Clot",
+        "Translation": "血凝块"
+      }
+    },
+    "BrimstoneElementalMinion": {
+      "Name": {
+        "Origin": "Big Busty Rose",
+        "Translation": "大朵玫瑰"
+      }
+    },
+    "BrimstoneFireSummon": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "火焰"
+      }
+    },
+    "BrimstoneLaserSummon": {
+      "Name": {
+        "Origin": "Laser",
+        "Translation": "激光"
+      }
+    },
+    "BrittleStarMinion": {
+      "Name": {
+        "Origin": "Brittle Star",
+        "Translation": "蛇尾海星"
+      }
+    },
+    "CalamariInk": {
+      "Name": {
+        "Origin": "Ink",
+        "Translation": "乌贼墨"
+      }
+    },
+    "CalamariMinion": {
+      "Name": {
+        "Origin": "Calamari",
+        "Translation": "乌贼"
+      }
+    },
+    "Calamitamini": {
+      "Name": {
+        "Origin": "Calamitamini",
+        "Translation": "灾厄之眼"
+      }
+    },
+    "Cataclymini": {
+      "Name": {
+        "Origin": "Cataclymini",
+        "Translation": "灾劫之眼"
+      }
+    },
+    "Catastromini": {
+      "Name": {
+        "Origin": "Catastromini",
+        "Translation": "灾难之眼"
+      }
+    },
+    "ChaosFlame": {
+      "Name": {
+        "Origin": "Chaos Flame",
+        "Translation": "混沌之火"
+      }
+    },
+    "ChaosSpirit": {
+      "Name": {
+        "Origin": "Hydrothermic Vent",
+        "Translation": "混乱精华"
+      }
+    },
+    "CloudElementalMinion": {
+      "Name": {
+        "Origin": "Cloudy Waifu",
+        "Translation": "云之灵"
+      }
+    },
+    "CorroslimeMinion": {
+      "Name": {
+        "Origin": "Corroslime",
+        "Translation": "腐化史莱姆"
+      }
+    },
+    "CorruptionSlimeGodMinion": {
+      "Name": {
+        "Origin": "Slime God",
+        "Translation": "史莱姆之神"
+      }
+    },
+    "CosmicBlast": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "爆炸波"
+      }
+    },
+    "CosmicBlastBig": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "爆炸波"
+      }
+    },
+    "CosmicEnergySpiral": {
+      "Name": {
+        "Origin": "Cosmic Energy",
+        "Translation": "宇宙能量"
+      }
+    },
+    "CosmilampMinion": {
+      "Name": {
+        "Origin": "Cosmilamp",
+        "Translation": "无限之灯"
+      }
+    },
+    "CrimslimeMinion": {
+      "Name": {
+        "Origin": "Crimslime",
+        "Translation": "血腥史莱姆"
+      }
+    },
+    "CrimsonSlimeGodMinion": {
+      "Name": {
+        "Origin": "Slime God",
+        "Translation": "史莱姆之神"
+      }
+    },
+    "DaedalusCrystal": {
+      "Name": {
+        "Origin": "Daedalus Crystal",
+        "Translation": "代达罗斯水晶"
+      }
+    },
+    "DaedalusCrystalShot": {
+      "Name": {
+        "Origin": "Crystal Shot",
+        "Translation": "水晶弹"
+      }
+    },
+    "DankCreeperMinion": {
+      "Name": {
+        "Origin": "Dank Creeper",
+        "Translation": "沼泽爬行者"
+      }
+    },
+    "DemonshadeRedDevil": {
+      "Name": {
+        "Origin": "Red Devil",
+        "Translation": "红恶魔"
+      }
+    },
+    "Dreadmine": {
+      "Name": {
+        "Origin": "Mine",
+        "Translation": "惧魂矿"
+      }
+    },
+    "DreadmineTurret": {
+      "Name": {
+        "Origin": "Dreadmine Turret",
+        "Translation": "恐惧炮塔"
+      }
+    },
+    "ElementalAxeMinion": {
+      "Name": {
+        "Origin": "Axe",
+        "Translation": "斧子"
+      }
+    },
+    "EndoBeam": {
+      "Name": {
+        "Origin": "Ray",
+        "Translation": "源生射线"
+      }
+    },
+    "EndoCooperBody": {
+      "Name": {
+        "Origin": "Ascened Cooper",
+        "Translation": "源生冰灵"
+      }
+    },
+    "EndoCooperLimbs": {
+      "Name": {
+        "Origin": "Ascened Cooper",
+        "Translation": "源生冰灵"
+      }
+    },
+    "EndoFire": {
+      "Name": {
+        "Origin": "Endo Fire",
+        "Translation": "源生冰焰"
+      }
+    },
+    "EndoIceShard": {
+      "Name": {
+        "Origin": "Endo Ice Shard",
+        "Translation": "源生冰片"
+      }
+    },
+    "EnergyOrb": {
+      "Name": {
+        "Origin": "Energy Orb",
+        "Translation": "能量球"
+      }
+    },
+    "FlameBlast": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "爆炸波"
+      }
+    },
+    "FlameBurst": {
+      "Name": {
+        "Origin": "Burst",
+        "Translation": "霜冻破"
+      }
+    },
+    "FrostMistFriendly": {
+      "Name": {
+        "Origin": "Mist",
+        "Translation": "霜雾"
+      }
+    },
+    "FungalClumpMinion": {
+      "Name": {
+        "Origin": "Fungal Clump",
+        "Translation": "真菌球"
+      }
+    },
+    "GhostFire": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "火焰"
+      }
+    },
+    "GhostlyMine": {
+      "Name": {
+        "Origin": "Mine",
+        "Translation": "幽魂雷"
+      }
+    },
+    "GigaFlareFriendly": {
+      "Name": {
+        "Origin": "Flare",
+        "Translation": "烈焰"
+      }
+    },
+    "GladiatorSword": {
+      "Name": {
+        "Origin": "Gladiator Sword",
+        "Translation": "角斗士剑灵"
+      }
+    },
+    "GladiatorSword2": {
+      "Name": {
+        "Origin": "Gladiator Sword",
+        "Translation": "角斗士剑灵"
+      }
+    },
+    "HermitCrabMinion": {
+      "Name": {
+        "Origin": "Hermit Crab",
+        "Translation": "寄居蟹"
+      }
+    },
+    "HerringMinion": {
+      "Name": {
+        "Origin": "Herring",
+        "Translation": "鲱鱼"
+      }
+    },
+    "Hive": {
+      "Name": {
+        "Origin": "Hive",
+        "Translation": "蜂巢"
+      }
+    },
+    "Hiveling": {
+      "Name": {
+        "Origin": "Hiveling",
+        "Translation": "蜂群"
+      }
+    },
+    "IceClasperMinion": {
+      "Name": {
+        "Origin": "Ice Clasper",
+        "Translation": "食魂冰虫"
+      }
+    },
+    "IceSentry": {
+      "Name": {
+        "Origin": "Ice Sentry",
+        "Translation": "冰哨"
+      }
+    },
+    "LanternFlame": {
+      "Name": {
+        "Origin": "Flame",
+        "Translation": "火焰"
+      }
+    },
+    "LanternSoul": {
+      "Name": {
+        "Origin": "Lantern",
+        "Translation": "灯笼"
+      }
+    },
+    "LuxorsGiftSummon": {
+      "Name": {
+        "Origin": "Gift",
+        "Translation": "卢克索的礼物"
+      }
+    },
+    "MechwormBody": {
+      "Name": {
+        "Origin": "Mechworm",
+        "Translation": "神明吞噬者"
+      }
+    },
+    "MechwormBody2": {
+      "Name": {
+        "Origin": "Mechworm",
+        "Translation": "神明吞噬者"
+      }
+    },
+    "MechwormHead": {
+      "Name": {
+        "Origin": "Mechworm",
+        "Translation": "神明吞噬者"
+      }
+    },
+    "MechwormTail": {
+      "Name": {
+        "Origin": "Mechworm",
+        "Translation": "神明吞噬者"
+      }
+    },
+    "MiniGuardianAttack": {
+      "Name": {
+        "Origin": "Offensive Guardian",
+        "Translation": "进攻守卫"
+      }
+    },
+    "MiniGuardianDefense": {
+      "Name": {
+        "Origin": "Defensive Guardian",
+        "Translation": "防御守卫"
+      }
+    },
+    "MiniGuardianHealer": {
+      "Name": {
+        "Origin": "Healer Guardian",
+        "Translation": "治疗守卫"
+      }
+    },
+    "MiniSandShark": {
+      "Name": {
+        "Origin": "Mini Sand Shark",
+        "Translation": "迷你沙鲨"
+      }
+    },
+    "PhantomGuy": {
+      "Name": {
+        "Origin": "Phantom",
+        "Translation": "幻影"
+      }
+    },
+    "PhoenixFireFriendly": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "火焰"
+      }
+    },
+    "PinkButterfly": {
+      "Name": {
+        "Origin": "Pink Butterfly",
+        "Translation": "粉蝴蝶"
+      }
+    },
+    "PlantSeed": {
+      "Name": {
+        "Origin": "Seed",
+        "Translation": "种子"
+      }
+    },
+    "PlantSeedGreen": {
+      "Name": {
+        "Origin": "Seed",
+        "Translation": "种子"
+      }
+    },
+    "PlantSummon": {
+      "Name": {
+        "Origin": "Plantera",
+        "Translation": "普兰黛拉世纪之花"
+      }
+    },
+    "PlantThornBall": {
+      "Name": {
+        "Origin": "Thorn Ball",
+        "Translation": "荆棘球"
+      }
+    },
+    "ProfanedEnergy": {
+      "Name": {
+        "Origin": "Profaned Energy",
+        "Translation": "亵渎灵能"
+      }
+    },
+    "PurpleButterfly": {
+      "Name": {
+        "Origin": "Purple Butterfly",
+        "Translation": "紫蝴蝶"
+      }
+    },
+    "ReaverOrb": {
+      "Name": {
+        "Origin": "Reaver Orb",
+        "Translation": "掠夺者宝珠"
+      }
+    },
+    "SakuraBullet": {
+      "Name": {
+        "Origin": "Sakura Bullet",
+        "Translation": "樱花弹"
+      }
+    },
+    "SandBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "瀚漠闪电"
+      }
+    },
+    "SandElementalHealer": {
+      "Name": {
+        "Origin": "Oxy's Waifu",
+        "Translation": "沙之灵"
+      }
+    },
+    "SandElementalMinion": {
+      "Name": {
+        "Origin": "Waifu",
+        "Translation": "宝物"
+      }
+    },
+    "SandMark": {
+      "Name": {
+        "Origin": "Mark",
+        "Translation": "瀚漠铭印"
+      }
+    },
+    "SandnadoMinion": {
+      "Name": {
+        "Origin": "Sandnado",
+        "Translation": "沙龙卷"
+      }
+    },
+    "SandTornado": {
+      "Name": {
+        "Origin": "Tornado",
+        "Translation": "沙龙卷"
+      }
+    },
+    "Shellfish": {
+      "Name": {
+        "Origin": "Shellfish",
+        "Translation": "贝壳"
+      }
+    },
+    "SilvaCrystal": {
+      "Name": {
+        "Origin": "Silva Crystal",
+        "Translation": "始源林海魔晶"
+      }
+    },
+    "SilvaCrystalExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "魔晶迸射"
+      }
+    },
+    "SirenSongFriendly": {
+      "Name": {
+        "Origin": "Song",
+        "Translation": "天籁之音"
+      }
+    },
+    "SiriusBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "激光"
+      }
+    },
+    "SiriusExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "SiriusMinion": {
+      "Name": {
+        "Origin": "Sirius",
+        "Translation": "天狼星"
+      }
+    },
+    "SolarBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "激光"
+      }
+    },
+    "SolarGod": {
+      "Name": {
+        "Origin": "Solar God",
+        "Translation": "太阳神"
+      }
+    },
+    "SolarPixie": {
+      "Name": {
+        "Origin": "Solar Pixie",
+        "Translation": "太阳精灵"
+      }
+    },
+    "SonOfYharon": {
+      "Name": {
+        "Origin": "Son of Yharon",
+        "Translation": "犽戎之子"
+      }
+    },
+    "Spikecrag": {
+      "Name": {
+        "Origin": "Spikecrag",
+        "Translation": "尖峰岩"
+      }
+    },
+    "SpikecragSpike": {
+      "Name": {
+        "Origin": "Spikecrag Spike",
+        "Translation": "尖峰岩刺"
+      }
+    },
+    "SquirrelSquireAcorn": {
+      "Name": {
+        "Origin": "Acorn",
+        "Translation": "橡子"
+      }
+    },
+    "SquirrelSquireMinion": {
+      "Name": {
+        "Origin": "Squirrel Squire",
+        "Translation": "松鼠侍从"
+      }
+    },
+    "StormMarkSummon": {
+      "Name": {
+        "Origin": "Mark",
+        "Translation": "风暴铭印"
+      }
+    },
+    "Urchin": {
+      "Name": {
+        "Origin": "Urchin",
+        "Translation": "海胆"
+      }
+    },
+    "UrchinSpike": {
+      "Name": {
+        "Origin": "Urchin Spike",
+        "Translation": "海胆刺"
+      }
+    },
+    "Valkyrie": {
+      "Name": {
+        "Origin": "Valkyrie",
+        "Translation": "瓦尔基里女武神"
+      }
+    },
+    "WaterElementalMinion": {
+      "Name": {
+        "Origin": "Siren Lure",
+        "Translation": "海妖诱饵"
+      }
+    },
+    "WaterSpearFriendly": {
+      "Name": {
+        "Origin": "Spear",
+        "Translation": "矛"
+      }
+    },
+    "WulfrumDroid": {
+      "Name": {
+        "Origin": "Wulfrum Droid",
+        "Translation": "钨钢机器人"
+      }
+    },
+    "AstralFallingSand": {
+      "Name": {
+        "Origin": "Astral Falling Sand",
+        "Translation": "幻星陨砂"
+      }
+    },
+    "AstralSpray": {
+      "Name": {
+        "Origin": "Astral Spray",
+        "Translation": "星体喷流"
+      }
+    },
+    "AstralStar": {
+      "Name": {
+        "Origin": "Star",
+        "Translation": "彗星"
+      }
+    },
+    "AtaxiaOrb": {
+      "Name": {
+        "Origin": "Ataxia Orb",
+        "Translation": "禅心剑气"
+      }
+    },
+    "BallisticPoisonCloud": {
+      "Name": {
+        "Origin": "Cloud",
+        "Translation": "云"
+      }
+    },
+    "BallisticPoisonCloud2": {
+      "Name": {
+        "Origin": "Cloud",
+        "Translation": "云"
+      }
+    },
+    "BallisticPoisonCloud3": {
+      "Name": {
+        "Origin": "Cloud",
+        "Translation": "云"
+      }
+    },
+    "BlazingSun": {
+      "Name": {
+        "Origin": "Blazing Sun",
+        "Translation": "烈日"
+      }
+    },
+    "BlazingSun2": {
+      "Name": {
+        "Origin": "Blazing Sun",
+        "Translation": "烈日"
+      }
+    },
+    "BloodBomb": {
+      "Name": {
+        "Origin": "Bomb",
+        "Translation": "炸弹"
+      }
+    },
+    "BloodBombExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "BobbitHead": {
+      "Name": {
+        "Origin": "Bobbit Head",
+        "Translation": "博比特之首"
+      }
+    },
+    "ChaosBlaze": {
+      "Name": {
+        "Origin": "Blaze",
+        "Translation": "烈火"
+      }
+    },
+    "ChaosFlare": {
+      "Name": {
+        "Origin": "Flare",
+        "Translation": "烈焰"
+      }
+    },
+    "ChaosFlare2": {
+      "Name": {
+        "Origin": "Flare",
+        "Translation": "烈焰"
+      }
+    },
+    "ChaosGeyser": {
+      "Name": {
+        "Origin": "Geyser",
+        "Translation": "混乱喷流物"
+      }
+    },
+    "ChaoticSpreadBobber": {
+      "Name": {
+        "Origin": "Chaotic Bobber",
+        "Translation": "混乱鱼竿漂子"
+      }
+    },
+    "CoralBubble": {
+      "Name": {
+        "Origin": "Bubble",
+        "Translation": "泡泡"
+      }
+    },
+    "CoralBubbleSmall": {
+      "Name": {
+        "Origin": "Bubble",
+        "Translation": "泡泡"
+      }
+    },
+    "CorpusAvertorClone": {
+      "Name": {
+        "Origin": "Corpus Avertor",
+        "Translation": "憎恶血刃"
+      }
+    },
+    "CorpusAvertorProj": {
+      "Name": {
+        "Origin": "Corpus Avertor",
+        "Translation": "憎恶血刃"
+      }
+    },
+    "CursorProj": {
+      "Name": {
+        "Origin": "Aestheticus Crystal",
+        "Translation": "唯美水晶"
+      }
+    },
+    "CursorProjSplit": {
+      "Name": {
+        "Origin": "Aestheticus Crystal",
+        "Translation": "唯美水晶"
+      }
+    },
+    "DarkIce": {
+      "Name": {
+        "Origin": "Dark Ice",
+        "Translation": "暗冰"
+      }
+    },
+    "DevourerofCodsBobber": {
+      "Name": {
+        "Origin": "Devourer of Cods Bobber",
+        "Translation": "吞噬者漂子"
+      }
+    },
+    "DirectStrike": {
+      "Name": {
+        "Origin": "Nondescript Damaging Entity",
+        "Translation": "难以形容的破坏性实体"
+      }
+    },
+    "DragonDust": {
+      "Name": {
+        "Origin": "Dust",
+        "Translation": "龙尘之径"
+      }
+    },
+    "EarlyBloomBobber": {
+      "Name": {
+        "Origin": "Early Bloom Bobber",
+        "Translation": "龙蒿钓竿漂子"
+      }
+    },
+    "FabsolDust": {
+      "Name": {
+        "Origin": "Dust",
+        "Translation": "法布索尔尘"
+      }
+    },
+    "FeralDoubleBobber": {
+      "Name": {
+        "Origin": "Feral Bobber",
+        "Translation": "野性浮漂"
+      }
+    },
+    "ExplosiveShotgunShell": {
+      "Name": {
+        "Origin": "Explosive Shotgun Shell",
+        "Translation": "爆炸散弹片"
+      }
+    },
+    "GrenadeRound": {
+      "Name": {
+        "Origin": "Grenade Round",
+        "Translation": "榴弹"
+      }
+    },
+    "MagnumRound": {
+      "Name": {
+        "Origin": "Magnum Round",
+        "Translation": "马格南弹"
+      }
+    },
+    "FlareExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "FuckYou": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "GalaxySmasherHammer": {
+      "Name": {
+        "Origin": "Galaxy Smasher",
+        "Translation": "银河溃灭者"
+      }
+    },
+    "GhostlyBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "闪电"
+      }
+    },
+    "GodKiller": {
+      "Name": {
+        "Origin": "God Killer",
+        "Translation": "神杀"
+      }
+    },
+    "GodSlayerBlaze": {
+      "Name": {
+        "Origin": "Blaze",
+        "Translation": "烈火"
+      }
+    },
+    "GodSlayerOrb": {
+      "Name": {
+        "Origin": "God Slayer Orb",
+        "Translation": "弑神珠"
+      }
+    },
+    "GodSlayerPhantom": {
+      "Name": {
+        "Origin": "God Slayer Phantom",
+        "Translation": "弑神之灵"
+      }
+    },
+    "GodSlayerShrapnel": {
+      "Name": {
+        "Origin": "Flame",
+        "Translation": "火焰"
+      }
+    },
+    "GodSlayerShrapnelRound": {
+      "Name": {
+        "Origin": "Round",
+        "Translation": "弑神者光环"
+      }
+    },
+    "GoldenGunProj": {
+      "Name": {
+        "Origin": "Golden Round",
+        "Translation": "黄金光环"
+      }
+    },
+    "HeronBobber": {
+      "Name": {
+        "Origin": "Heron Bobber",
+        "Translation": "苍鹭漂子"
+      }
+    },
+    "HolyEruption": {
+      "Name": {
+        "Origin": "Eruption",
+        "Translation": "圣火喷溅"
+      }
+    },
+    "HolyExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "HolyExplosionSupreme": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "HolyFlameBomb": {
+      "Name": {
+        "Origin": "Flame",
+        "Translation": "火焰"
+      }
+    },
+    "KelvinCatalystBoomerang": {
+      "Name": {
+        "Origin": "Kelvin Catalyst",
+        "Translation": "冰灵旋刃"
+      }
+    },
+    "KelvinCatalystStar": {
+      "Name": {
+        "Origin": "Kelvin Catalyst Star",
+        "Translation": "冰灵旋刃碎冰星"
+      }
+    },
+    "LunicBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "激光"
+      }
+    },
+    "MageHammerBoom": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "MarkRound": {
+      "Name": {
+        "Origin": "Laser",
+        "Translation": "激光"
+      }
+    },
+    "MomentumCapacitorOrb": {
+      "Name": {
+        "Origin": "Orb",
+        "Translation": "动量电容器"
+      }
+    },
+    "NanoblackMain": {
+      "Name": {
+        "Origin": "Nanoblack Reaper",
+        "Translation": "黑纳米死神"
+      }
+    },
+    "NanoblackSplit": {
+      "Name": {
+        "Origin": "Nanoblack Blade",
+        "Translation": "纳米黑锋"
+      }
+    },
+    "NanoFlare": {
+      "Name": {
+        "Origin": "Nano Flare",
+        "Translation": "纳米耀斑"
+      }
+    },
+    "Nanotech": {
+      "Name": {
+        "Origin": "Nanotech",
+        "Translation": "纳米技术"
+      }
+    },
+    "NavyBobber": {
+      "Name": {
+        "Origin": "Navy Bobber",
+        "Translation": "沉沦渊海钓竿浮子"
+      }
+    },
+    "NebulaDust": {
+      "Name": {
+        "Origin": "Dust",
+        "Translation": "星尘"
+      }
+    },
+    "NebulaStar": {
+      "Name": {
+        "Origin": "Star",
+        "Translation": "星云"
+      }
+    },
+    "NobodyKnows": {
+      "Name": {
+        "Origin": "Nope",
+        "Translation": "虚无"
+      }
+    },
+    "OmegaBlueTentacle": {
+      "Name": {
+        "Origin": "Omega Blue Tentacle",
+        "Translation": "欧米茄蓝色触手"
+      }
+    },
+    "PoisonousSeawater": {
+      "Name": {
+        "Origin": "Seawater",
+        "Translation": "海水"
+      }
+    },
+    "ReaverBlast": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "冲击波"
+      }
+    },
+    "SabatonBoom": {
+      "Name": {
+        "Origin": "Sabaton Boom",
+        "Translation": "萨巴东爆炸"
+      }
+    },
+    "SabatonSlam": {
+      "Name": {
+        "Origin": "Sabaton Slam",
+        "Translation": "萨巴东猛击"
+      }
+    },
+    "SandCloakVeil": {
+      "Name": {
+        "Origin": "Dust Veil",
+        "Translation": "沙尘龙卷"
+      }
+    },
+    "SandExplosion": {
+      "Name": {
+        "Origin": "Sand",
+        "Translation": "流沙"
+      }
+    },
+    "Seashell": {
+      "Name": {
+        "Origin": "Seashell",
+        "Translation": "贝壳"
+      }
+    },
+    "SerpentsBiteHook": {
+      "Name": {
+        "Origin": "Serpent's Bite",
+        "Translation": "巨蟒之咬"
+      }
+    },
+    "ShadowflameExplosion": {
+      "Name": {
+        "Origin": "Shadowflame Explosion",
+        "Translation": "暗影炎爆"
+      }
+    },
+    "ShadowflameExplosionBig": {
+      "Name": {
+        "Origin": "Shadowflame Explosion",
+        "Translation": "暗影炎爆"
+      }
+    },
+    "SkyFlareFriendly": {
+      "Name": {
+        "Origin": "Flare",
+        "Translation": "烈焰"
+      }
+    },
+    "SlurperBobber": {
+      "Name": {
+        "Origin": "Slurper Bobber",
+        "Translation": "灵魂饮食者漂子"
+      }
+    },
+    "StandingFire": {
+      "Name": {
+        "Origin": "Flame",
+        "Translation": "火焰"
+      }
+    },
+    "StellarContemptHammer": {
+      "Name": {
+        "Origin": "Stellar Contempt",
+        "Translation": "星之蔑视"
+      }
+    },
+    "StickyFeatherAero": {
+      "Name": {
+        "Origin": "Feather",
+        "Translation": "羽毛"
+      }
+    },
+    "StormBolt": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "风暴闪电"
+      }
+    },
+    "SulphuricAcidBubbleFriendly": {
+      "Name": {
+        "Origin": "Acid Bubble",
+        "Translation": "酸性气泡"
+      }
+    },
+    "TarraEnergy": {
+      "Name": {
+        "Origin": "Round",
+        "Translation": "泰拉光环"
+      }
+    },
+    "TerraDiskProjectile": {
+      "Name": {
+        "Origin": "Terra Disk",
+        "Translation": "泰拉飞盘"
+      }
+    },
+    "TerraDiskProjectile2": {
+      "Name": {
+        "Origin": "Terra Disk",
+        "Translation": "泰拉飞盘"
+      }
+    },
+    "TeslaAura": {
+      "Name": {
+        "Origin": "Tesla's Electricity",
+        "Translation": "磁暴"
+      }
+    },
+    "TheDeadlyMicrobeProjectile": {
+      "Name": {
+        "Origin": "Star",
+        "Translation": "致命之星"
+      }
+    },
+    "TrueBattleSpawn": {
+      "Name": {
+        "Origin": "Spawn",
+        "Translation": "再生"
+      }
+    },
+    "UnstableSpark": {
+      "Name": {
+        "Origin": "Unstable Spark",
+        "Translation": "脉冲星"
+      }
+    },
+    "VanquisherArrowSplit": {
+      "Name": {
+        "Origin": "Arrow",
+        "Translation": "湮灭箭"
+      }
+    },
+    "VerstaltiteBobber": {
+      "Name": {
+        "Origin": "Verstaltite Bobber",
+        "Translation": "极寒漂子"
+      }
+    },
+    "WulfrumBobber": {
+      "Name": {
+        "Origin": "Wulfrum Bobber",
+        "Translation": "钨钢鱼鳔"
+      }
+    },
+    "XerocBlast": {
+      "Name": {
+        "Origin": "Blast",
+        "Translation": "克希洛克冲击波"
+      }
+    },
+    "XerocBubble": {
+      "Name": {
+        "Origin": "Bubble",
+        "Translation": "克希洛克泡泡"
+      }
+    },
+    "XerocFire": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "克希洛克火焰"
+      }
+    },
+    "XerocOrb": {
+      "Name": {
+        "Origin": "Orb",
+        "Translation": "克希洛克球"
+      }
+    },
+    "XerocStar": {
+      "Name": {
+        "Origin": "Star",
+        "Translation": "克希洛克落星"
+      }
+    },
+    "BirbAura": {
+      "Name": {
+        "Origin": "Draconic Aura",
+        "Translation": "Draconic Aura"
+      }
+    },
+    "BirbAuraFlare": {
+      "Name": {
+        "Origin": "Draconic Aura Flare",
+        "Translation": "Draconic Aura Flare"
+      }
+    },
+    "OldDukeGore": {
+      "Name": {
+        "Origin": "Sulphurous Gore",
+        "Translation": "富硫腐尸"
+      }
+    },
+    "OldDukeSummonDrop": {
+      "Name": {
+        "Origin": "Acid",
+        "Translation": "酸"
+      }
+    },
+    "OldDukeVortex": {
+      "Name": {
+        "Origin": "Sulphurous Vortex",
+        "Translation": "硫毒旋涡"
+      }
+    },
+    "OverlyDramaticDukeSummoner": {
+      "Name": {
+        "Origin": "Old Duke Summoner",
+        "Translation": "硫海遗爵召唤杖"
+      }
+    },
+    "RedLightning": {
+      "Name": {
+        "Origin": "Red Lightning",
+        "Translation": "猩红闪电"
+      }
+    },
+    "GatlingLaserProj": {
+      "Name": {
+        "Origin": "Gatling Laser",
+        "Translation": "多管激光枪"
+      }
+    },
+    "GatlingLaserShot": {
+      "Name": {
+        "Origin": "Gatling Laser",
+        "Translation": "多管机关枪"
+      }
+    },
+    "LaserRifleShot": {
+      "Name": {
+        "Origin": "Laser Rifle",
+        "Translation": "激光步枪"
+      }
+    },
+    "PlasmaCasterShot": {
+      "Name": {
+        "Origin": "Plasma Bolt",
+        "Translation": "血浆束"
+      }
+    },
+    "PulseRifleShot": {
+      "Name": {
+        "Origin": "Pulse Bolt",
+        "Translation": "脉冲束"
+      }
+    },
+    "TeslaCannonShot": {
+      "Name": {
+        "Origin": "Tesla Beam",
+        "Translation": "特斯拉光束"
+      }
+    },
+    "BelchingCoralSpike": {
+      "Name": {
+        "Origin": "Spike",
+        "Translation": "喷涌珊瑚刺"
+      }
+    },
+    "CrabBoulder": {
+      "Name": {
+        "Origin": "Boulder",
+        "Translation": "海蚀岩"
+      }
+    },
+    "CragmawBeam": {
+      "Name": {
+        "Origin": "Gamma Ray",
+        "Translation": "伽马射线"
+      }
+    },
+    "CragmawBubble": {
+      "Name": {
+        "Origin": "Acid Bubble",
+        "Translation": "酸性气泡"
+      }
+    },
+    "CragmawSpike": {
+      "Name": {
+        "Origin": "Spike",
+        "Translation": "峭壁岩刺"
+      }
+    },
+    "CragmawVibeCheckChain": {
+      "Name": {
+        "Origin": "You Think You're Safe",
+        "Translation": "你觉得你很安全"
+      }
+    },
+    "FlakAcid": {
+      "Name": {
+        "Origin": "Acid",
+        "Translation": "酸"
+      }
+    },
+    "GammaAcid": {
+      "Name": {
+        "Origin": "Acid",
+        "Translation": "酸"
+      }
+    },
+    "GammaBeam": {
+      "Name": {
+        "Origin": "Gamma Ray",
+        "Translation": "伽马射线"
+      }
+    },
+    "NuclearBulletLarge": {
+      "Name": {
+        "Origin": "Nuclear Bullet",
+        "Translation": "大号核弹"
+      }
+    },
+    "NuclearBulletMedium": {
+      "Name": {
+        "Origin": "Nuclear Bullet",
+        "Translation": "中型核弹"
+      }
+    },
+    "NuclearToadGoo": {
+      "Name": {
+        "Origin": "Goop",
+        "Translation": "放射性蟾蜍分泌物"
+      }
+    },
+    "OrthoceraStream": {
+      "Name": {
+        "Origin": "Acid Stream",
+        "Translation": "酸液流"
+      }
+    },
+    "TrilobiteSpike": {
+      "Name": {
+        "Origin": "Spike",
+        "Translation": "三叶虫刺"
+      }
+    },
+    "AcidDrop": {
+      "Name": {
+        "Origin": "Acid",
+        "Translation": "酸液滴"
+      }
+    },
+    "HotSteam": {
+      "Name": {
+        "Origin": "Steam",
+        "Translation": "炽热蒸汽"
+      }
+    },
+    "AcidGunStream": {
+      "Name": {
+        "Origin": "Acid Stream",
+        "Translation": "酸液流"
+      }
+    },
+    "AcidicReed": {
+      "Name": {
+        "Origin": "Reed",
+        "Translation": "酸化芦苇"
+      }
+    },
+    "AcidicSaxBubble": {
+      "Name": {
+        "Origin": "Acid Bubble",
+        "Translation": "酸性气泡"
+      }
+    },
+    "AcidicSaxMist": {
+      "Name": {
+        "Origin": "Acid Mist",
+        "Translation": "酸雾"
+      }
+    },
+    "EelDrop": {
+      "Name": {
+        "Origin": "Acid",
+        "Translation": "酸"
+      }
+    },
+    "EternityBook": {
+      "Name": {
+        "Origin": "Eternity",
+        "Translation": "永恒"
+      }
+    },
+    "EternityCircle": {
+      "Name": {
+        "Origin": "Eternity",
+        "Translation": "永恒"
+      }
+    },
+    "EternityCrystal": {
+      "Name": {
+        "Origin": "Crystal",
+        "Translation": "永恒魔晶"
+      }
+    },
+    "EternityHex": {
+      "Name": {
+        "Origin": "Eternity",
+        "Translation": "永恒"
+      }
+    },
+    "EternityHoming": {
+      "Name": {
+        "Origin": "Eternity",
+        "Translation": "永恒"
+      }
+    },
+    "MiasmaGas": {
+      "Name": {
+        "Origin": "Gas",
+        "Translation": "瘴气"
+      }
+    },
+    "SlitheringEelProjectile": {
+      "Name": {
+        "Origin": "Eel",
+        "Translation": "鳗鱼"
+      }
+    },
+    "VitriolicViperFang": {
+      "Name": {
+        "Origin": "Fang",
+        "Translation": "尖牙"
+      }
+    },
+    "VitriolicViperSpit": {
+      "Name": {
+        "Origin": "Spit",
+        "Translation": "唾液"
+      }
+    },
+    "BonebreakerFragment1": {
+      "Name": {
+        "Origin": "Shrapnel",
+        "Translation": "弹片"
+      }
+    },
+    "BonebreakerProjectile": {
+      "Name": {
+        "Origin": "Bonebreaker",
+        "Translation": "碎骨者"
+      }
+    },
+    "SulphurousGrabberBubble": {
+      "Name": {
+        "Origin": "Bubble",
+        "Translation": "气泡"
+      }
+    },
+    "SulphurousGrabberBubble2": {
+      "Name": {
+        "Origin": "Bubble",
+        "Translation": "气泡"
+      }
+    },
+    "SulphurousGrabberYoyo": {
+      "Name": {
+        "Origin": "Sulphurous Grabber Yoyo",
+        "Translation": "硫磺劫掠者"
+      }
+    },
+    "FlakPet": {
+      "Name": {
+        "Origin": "Flak Hermit",
+        "Translation": "酸丘隐居者"
+      }
+    },
+    "Sparks": {
+      "Name": {
+        "Origin": "Sparks",
+        "Translation": "火花"
+      }
+    },
+    "BloodBoilerFire": {
+      "Name": {
+        "Origin": "Blood",
+        "Translation": "沸腾之血"
+      }
+    },
+    "EmesisGore": {
+      "Name": {
+        "Origin": "Rotten Gore",
+        "Translation": "腐败血迹"
+      }
+    },
+    "PristineFire": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "原初之火"
+      }
+    },
+    "PristineSecondary": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "火焰"
+      }
+    },
+    "ToxicannonDrop": {
+      "Name": {
+        "Origin": "Acid",
+        "Translation": "酸"
+      }
+    },
+    "ToxicannonShot": {
+      "Name": {
+        "Origin": "Cannon Shot",
+        "Translation": "硫酸炮弹"
+      }
+    },
+    "ToxicArrow": {
+      "Name": {
+        "Origin": "Toxic Arrow",
+        "Translation": "硫毒弓"
+      }
+    },
+    "AcidBarrelDrop": {
+      "Name": {
+        "Origin": "Acid",
+        "Translation": "酸"
+      }
+    },
+    "AcidShrapnel": {
+      "Name": {
+        "Origin": "Shrapnel",
+        "Translation": "弹片"
+      }
+    },
+    "BileExplosion": {
+      "Name": {
+        "Origin": "Bile",
+        "Translation": "胆汁"
+      }
+    },
+    "ContaminatedBileFlask": {
+      "Name": {
+        "Origin": "Contaminated Bile",
+        "Translation": "污秽胆汁"
+      }
+    },
+    "Corrocloud1": {
+      "Name": {
+        "Origin": "Corrocloud",
+        "Translation": "酸雨云"
+      }
+    },
+    "Corrocloud2": {
+      "Name": {
+        "Origin": "Corrocloud",
+        "Translation": "酸雨云"
+      }
+    },
+    "Corrocloud3": {
+      "Name": {
+        "Origin": "Corrocloud",
+        "Translation": "酸雨云"
+      }
+    },
+    "GreenDonkeyKongReference": {
+      "Name": {
+        "Origin": "Barrel",
+        "Translation": "酸蚀木桶"
+      }
+    },
+    "JewelSpike": {
+      "Name": {
+        "Origin": "Spike",
+        "Translation": "宝石尖刺"
+      }
+    },
+    "SkyBomberGas": {
+      "Name": {
+        "Origin": "Irradiated Cloud",
+        "Translation": "辐射云"
+      }
+    },
+    "SkyfinNuke": {
+      "Name": {
+        "Origin": "Skyfin Nuke",
+        "Translation": "天翼核弹"
+      }
+    },
+    "SpentFuelContainerProjectile": {
+      "Name": {
+        "Origin": "Spent Fuel Container",
+        "Translation": "辐毒废水"
+      }
+    },
+    "SulphuricNukesplosion": {
+      "Name": {
+        "Origin": "Nuke",
+        "Translation": "核弹"
+      }
+    },
+    "ToxicantTwisterDust": {
+      "Name": {
+        "Origin": "Dust",
+        "Translation": "剧毒旋涡尘"
+      }
+    },
+    "ToxicantTwisterProjectile": {
+      "Name": {
+        "Origin": "Toxicant Twister",
+        "Translation": "剧毒旋风刃"
+      }
+    },
+    "ToxicantTwisterTwoPointZero": {
+      "Name": {
+        "Origin": "Toxicant Twister",
+        "Translation": "剧毒旋风"
+      }
+    },
+    "ApparatusExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "BabyBloodCrawler": {
+      "Name": {
+        "Origin": "Baby Blood Crawler",
+        "Translation": "幼年血蛭"
+      }
+    },
+    "BabyPlaguebringer": {
+      "Name": {
+        "Origin": "Baby Plaguebringer",
+        "Translation": "幼年疫病使者"
+      }
+    },
+    "BelladonnaPetal": {
+      "Name": {
+        "Origin": "Bullet",
+        "Translation": "颠茄花瓣"
+      }
+    },
+    "BelladonnaSpirit": {
+      "Name": {
+        "Origin": "Belladonna Spirit",
+        "Translation": "颠茄灵气"
+      }
+    },
+    "BloodBreath": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "猩红之火"
+      }
+    },
+    "BloodRain": {
+      "Name": {
+        "Origin": "Blood Rain",
+        "Translation": "血雨"
+      }
+    },
+    "BloodSpit": {
+      "Name": {
+        "Origin": "Spit",
+        "Translation": "血痰"
+      }
+    },
+    "BoneMatter": {
+      "Name": {
+        "Origin": "Bone Matter",
+        "Translation": "骨基质"
+      }
+    },
+    "BoneMatter2": {
+      "Name": {
+        "Origin": "Bone Matter",
+        "Translation": "骨基质"
+      }
+    },
+    "BrimseekerAuraBall": {
+      "Name": {
+        "Origin": "Seeker",
+        "Translation": "探索者"
+      }
+    },
+    "Cinder": {
+      "Name": {
+        "Origin": "Cinder",
+        "Translation": "熔渣"
+      }
+    },
+    "CinderBlossom": {
+      "Name": {
+        "Origin": "Cinder Blossom",
+        "Translation": "烬之英"
+      }
+    },
+    "ColdDivinityPointyThing": {
+      "Name": {
+        "Origin": "Ice Castle Shard",
+        "Translation": "冰堡残片"
+      }
+    },
+    "CosmicViperConcussionMissile": {
+      "Name": {
+        "Origin": "Concussion Missile",
+        "Translation": "震爆飞弹"
+      }
+    },
+    "CosmicViperHomingRocket": {
+      "Name": {
+        "Origin": "Homing Rocket",
+        "Translation": "制导火箭"
+      }
+    },
+    "CosmicViperSplitRocket1": {
+      "Name": {
+        "Origin": "Rocket Shard",
+        "Translation": "火箭破片"
+      }
+    },
+    "CosmicViperSplittingRocket": {
+      "Name": {
+        "Origin": "Splitting Rocket",
+        "Translation": "子母火箭"
+      }
+    },
+    "CosmicViperSummon": {
+      "Name": {
+        "Origin": "Cosmic Viper",
+        "Translation": "寰宇毒蝰"
+      }
+    },
+    "DazzlingStabber": {
+      "Name": {
+        "Origin": "Dazzling Stabber",
+        "Translation": "耀目穿刺者"
+      }
+    },
+    "DazzlingStabberKnife": {
+      "Name": {
+        "Origin": "Knife",
+        "Translation": "穿刺者"
+      }
+    },
+    "DormantBrimseekerAura": {
+      "Name": {
+        "Origin": "Dormant Brimseeker Aura Projecter",
+        "Translation": "沉眠寻焰者光环"
+      }
+    },
+    "DormantBrimseekerBab": {
+      "Name": {
+        "Origin": "Dormant Brimseeker",
+        "Translation": "沉眠寻焰者"
+      }
+    },
+    "DormantBrimseekerSummoner": {
+      "Name": {
+        "Origin": "Dormant Brimseeker",
+        "Translation": "沉眠寻焰者"
+      }
+    },
+    "EndoHydraBody": {
+      "Name": {
+        "Origin": "Hydra Body",
+        "Translation": "九头蛇身"
+      }
+    },
+    "EndoHydraHead": {
+      "Name": {
+        "Origin": "Hydra Head",
+        "Translation": "九头龙首"
+      }
+    },
+    "EndoRay": {
+      "Name": {
+        "Origin": "Ray",
+        "Translation": "冰洋光束"
+      }
+    },
+    "EXPLODINGFROG": {
+      "Name": {
+        "Origin": "A not frog of the explosive variety",
+        "Translation": "蟾血炸弹"
+      }
+    },
+    "FlyingOrthocera": {
+      "Name": {
+        "Origin": "Flying Orthocera",
+        "Translation": "飞行直角石"
+      }
+    },
+    "FlyingOrthoceraStream": {
+      "Name": {
+        "Origin": "Acid Stream",
+        "Translation": "酸流"
+      }
+    },
+    "FrogGore1": {
+      "Name": {
+        "Origin": "Gore from a not frog of the explosive variety",
+        "Translation": "蟾血炸弹"
+      }
+    },
+    "FrogGore2": {
+      "Name": {
+        "Origin": "Gore from a not frog of the explosive variety",
+        "Translation": "蟾血炸弹"
+      }
+    },
+    "FrogGore3": {
+      "Name": {
+        "Origin": "Gore from a not frog of the explosive variety",
+        "Translation": "蟾血炸弹"
+      }
+    },
+    "FrogGore4": {
+      "Name": {
+        "Origin": "Gore from a not frog of the explosive variety",
+        "Translation": "蟾血炸弹"
+      }
+    },
+    "FrogGore5": {
+      "Name": {
+        "Origin": "Gore from a not frog of the explosive variety",
+        "Translation": "蟾血炸弹"
+      }
+    },
+    "FrostBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "急冻光束"
+      }
+    },
+    "FrostBlossom": {
+      "Name": {
+        "Origin": "Frost Blossom",
+        "Translation": "霜之华"
+      }
+    },
+    "HallowedStarSummon": {
+      "Name": {
+        "Origin": "Star",
+        "Translation": "神圣之星"
+      }
+    },
+    "HauntedDishes": {
+      "Name": {
+        "Origin": "HauntedDishes",
+        "Translation": "闹鬼餐碟"
+      }
+    },
+    "IgneousBlade": {
+      "Name": {
+        "Origin": "Igneous Blade",
+        "Translation": "淬焰之刃"
+      }
+    },
+    "Blade": {
+      "Name": {
+        "Origin": "Blade",
+        "Translation": "刀刃"
+      }
+    },
+    "IrradiatedAura": {
+      "Name": {
+        "Origin": "Irradiated Aura",
+        "Translation": "辐射光环"
+      }
+    },
+    "MagicAxe": {
+      "Name": {
+        "Origin": "Axe",
+        "Translation": "魔化斧"
+      }
+    },
+    "MagicBat": {
+      "Name": {
+        "Origin": "Baseball Bat",
+        "Translation": "魔法球棒"
+      }
+    },
+    "MagicBird": {
+      "Name": {
+        "Origin": "Bird",
+        "Translation": "魔鸟"
+      }
+    },
+    "MagicBullet": {
+      "Name": {
+        "Origin": "Bullet",
+        "Translation": "魔弹"
+      }
+    },
+    "MagicHammer": {
+      "Name": {
+        "Origin": "Hammer",
+        "Translation": "魔化锤"
+      }
+    },
+    "MagicHat": {
+      "Name": {
+        "Origin": "Magic Hat",
+        "Translation": "魔法帽"
+      }
+    },
+    "MagicRifle": {
+      "Name": {
+        "Origin": "Rifle",
+        "Translation": "魔能来复枪"
+      }
+    },
+    "MagicUmbrella": {
+      "Name": {
+        "Origin": "Umbrella",
+        "Translation": "魔法伞"
+      }
+    },
+    "MidnightSunBeaconProj": {
+      "Name": {
+        "Origin": "Beacon",
+        "Translation": "信标"
+      }
+    },
+    "MidnightSunBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "光束"
+      }
+    },
+    "MidnightSunLaser": {
+      "Name": {
+        "Origin": "Laser",
+        "Translation": "激光"
+      }
+    },
+    "MidnightSunSkyBeam": {
+      "Name": {
+        "Origin": "Beam",
+        "Translation": "光束"
+      }
+    },
+    "MidnightSunUFO": {
+      "Name": {
+        "Origin": "Midnight Sun UFO",
+        "Translation": "极昼UFO"
+      }
+    },
+    "MiniGuardianSpear": {
+      "Name": {
+        "Origin": "Bab Spear",
+        "Translation": "守卫者之矛"
+      }
+    },
+    "MK2FlaskSummon": {
+      "Name": {
+        "Origin": "Flask",
+        "Translation": "疫毒瓶"
+      }
+    },
+    "MK2RocketHoming": {
+      "Name": {
+        "Origin": "Rocket",
+        "Translation": "制导火箭"
+      }
+    },
+    "MK2RocketNormal": {
+      "Name": {
+        "Origin": "Rocket",
+        "Translation": "普通火箭"
+      }
+    },
+    "OldDukeHeadCorpse": {
+      "Name": {
+        "Origin": "Absolutely Disgusting Shark Puker",
+        "Translation": "巨恶吐鲨者"
+      }
+    },
+    "OldDukeSharkVomit": {
+      "Name": {
+        "Origin": "Puke",
+        "Translation": "呕吐物"
+      }
+    },
+    "PlagueBeeSmall": {
+      "Name": {
+        "Origin": "Plague Bee",
+        "Translation": "疫病毒蜂"
+      }
+    },
+    "PlaguebringerMK2": {
+      "Name": {
+        "Origin": "Plaguebringer MK2",
+        "Translation": "疫病使者MK2"
+      }
+    },
+    "PlaguePrincess": {
+      "Name": {
+        "Origin": "Virili",
+        "Translation": "瘟疫雌蜂"
+      }
+    },
+    "PlateProjectile": {
+      "Name": {
+        "Origin": "Plate",
+        "Translation": "飞盘"
+      }
+    },
+    "PowerfulRaven": {
+      "Name": {
+        "Origin": "Super Raven",
+        "Translation": "强力劫掠者"
+      }
+    },
+    "PrincessMissile": {
+      "Name": {
+        "Origin": "Hive Bomb",
+        "Translation": "蜂巢炸弹"
+      }
+    },
+    "ProfanedCrystalMageFireball": {
+      "Name": {
+        "Origin": "Holy Bab Fireball",
+        "Translation": "圣灵净火球"
+      }
+    },
+    "ProfanedCrystalMageFireballSplit": {
+      "Name": {
+        "Origin": "Holy Bab Fire",
+        "Translation": "圣灵净火"
+      }
+    },
+    "ProfanedCrystalMeleeSpear": {
+      "Name": {
+        "Origin": "Holy Friendly Spear",
+        "Translation": "神圣之矛"
+      }
+    },
+    "ProfanedCrystalRangedHuges": {
+      "Name": {
+        "Origin": "Holy Bab Boomer",
+        "Translation": "圣之爆焱"
+      }
+    },
+    "ProfanedCrystalRangedSmalls": {
+      "Name": {
+        "Origin": "Holy Bab Boomer Orb",
+        "Translation": "圣灵炎爆弹"
+      }
+    },
+    "ProfanedCrystalRogueShard": {
+      "Name": {
+        "Origin": "Holy Bab Crystal Shard",
+        "Translation": "圣灵碎晶片"
+      }
+    },
+    "RadiantResolutionAura": {
+      "Name": {
+        "Origin": "Saros Possession",
+        "Translation": "星律之握揽"
+      }
+    },
+    "RadiantResolutionFire": {
+      "Name": {
+        "Origin": "Fire",
+        "Translation": "火焰"
+      }
+    },
+    "RadiantResolutionOrb": {
+      "Name": {
+        "Origin": "Sun",
+        "Translation": "辐射溶解球"
+      }
+    },
+    "SkeletalDragonChild": {
+      "Name": {
+        "Origin": "Child",
+        "Translation": "骨龙之子"
+      }
+    },
+    "SkeletalDragonMother": {
+      "Name": {
+        "Origin": "Mother",
+        "Translation": "骨龙之母"
+      }
+    },
+    "SmallSkeletonMinion": {
+      "Name": {
+        "Origin": "Small Skeleton",
+        "Translation": "小骨龙"
+      }
+    },
+    "StormjawBaby": {
+      "Name": {
+        "Origin": "Stormjaw Baby",
+        "Translation": "风暴蚁狮"
+      }
+    },
+    "SummonAstralExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆裂星辰"
+      }
+    },
+    "TacticalPlagueEngineSummon": {
+      "Name": {
+        "Origin": "Tactical Plague Engine",
+        "Translation": "战术瘟疫引擎"
+      }
+    },
+    "VileFeederProjectile": {
+      "Name": {
+        "Origin": "Eater of Souls Mini",
+        "Translation": "迷你灵魂饮食者"
+      }
+    },
+    "VileFeederSummon": {
+      "Name": {
+        "Origin": "Baby Eater",
+        "Translation": "腐化吞噬者宝宝"
+      }
+    },
+    "YoungDuke": {
+      "Name": {
+        "Origin": "Young Old Duke",
+        "Translation": "幼年硫海遗爵"
+      }
+    },
+    "HydrothermalSmoke": {
+      "Name": {
+        "Origin": "Smoke",
+        "Translation": "水热烟雾"
+      }
+    },
+    "DestroyerFrostLaser": {
+      "Name": {
+        "Origin": "Frost Laser",
+        "Translation": "毁灭者永燃激光"
+      }
+    },
+    "BlindingLight": {
+      "Name": {
+        "Origin": "Blinding Light",
+        "Translation": "致盲之光"
+      }
+    },
+    "LightBlade": {
+      "Name": {
+        "Origin": "Light Blade",
+        "Translation": "光刃弹雨"
+      }
+    },
+    "BrimstoneSwordExplosion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "硫火爆炎"
+      }
+    },
+    "PlaguebringerBab": {
+      "Name": {
+        "Origin": "Plaguebringer Bab",
+        "Translation": "瘟疫使者歌莉娅宝宝"
+      }
+    },
+    "CorrodedShell": {
+      "Name": {
+        "Origin": "Shell",
+        "Translation": "酸蚀外壳"
+      }
+    },
+    "SnapClamStealth": {
+      "Name": {
+        "Origin": "Snap Clam",
+        "Translation": "夹贝"
+      }
+    },
+    "BrimstoneExplosionMinion": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "硫火迸射"
+      }
+    },
+    "BrimstoneFireballMinion": {
+      "Name": {
+        "Origin": "Brimfire",
+        "Translation": "硫磺火"
+      }
+    },
+    "GammaBullet": {
+      "Name": {
+        "Origin": "Gamma Bullet",
+        "Translation": "辐核飞弹"
+      }
+    },
+    "GammaCanister": {
+      "Name": {
+        "Origin": "Gamma Canister",
+        "Translation": "辐射之罐"
+      }
+    },
+    "GammaDeathray": {
+      "Name": {
+        "Origin": "Gamma Ray",
+        "Translation": "伽马射线"
+      }
+    },
+    "GammaHead": {
+      "Name": {
+        "Origin": "Gamma Head",
+        "Translation": "辐射之头"
+      }
+    },
+    "IceSentryFrostBolt": {
+      "Name": {
+        "Origin": "Ball",
+        "Translation": "冰球"
+      }
+    },
+    "IceSentryShard": {
+      "Name": {
+        "Origin": "Frost Shard",
+        "Translation": "霜冻碎片"
+      }
+    },
+    "IgneousBladeStrike": {
+      "Name": {
+        "Origin": "Blade",
+        "Translation": "淬焰之刃"
+      }
+    },
+    "RustShrapnel": {
+      "Name": {
+        "Origin": "Shrapnel",
+        "Translation": "锈蚀尖刺"
+      }
+    },
+    "RustyDrone": {
+      "Name": {
+        "Origin": "Rusty Drone",
+        "Translation": "锈蚀无人机"
+      }
+    },
+    "RustyDroneTargetIndicator": {
+      "Name": {
+        "Origin": "Target Indicator",
+        "Translation": "目标指示器"
+      }
+    },
+    "WulfrumBoltMinion": {
+      "Name": {
+        "Origin": "Bolt",
+        "Translation": "钨钢球"
+      }
+    },
+    "BrokenWaterFilterSpewer": {
+      "Name": {
+        "Origin": "Star",
+        "Translation": "破损之星"
+      }
+    },
+    "StarStruckWaterBottle": {
+      "Name": {
+        "Origin": "Bottle",
+        "Translation": "星水瓶"
+      }
+    },
+    "WaterConvertor": {
+      "Name": {
+        "Origin": "Water Convertor",
+        "Translation": "净水器"
+      }
+    },
+    "DarkOrb": {
+      "Name": {
+        "Origin": "Dark Orb",
+        "Translation": "暗之球"
+      }
+    },
+    "ArtifactOfResilienceBulwark": {
+      "Name": {
+        "Origin": "Artifact of Resilience",
+        "Translation": "灵之形"
+      }
+    },
+    "CometQuasherMeteor": {
+      "Name": {
+        "Origin": "Meteor",
+        "Translation": "陨星"
+      }
+    },
+    "CrystalPiercerShard": {
+      "Name": {
+        "Origin": "Crystal Shard",
+        "Translation": "水晶碎块"
+      }
+    },
+    "SandDollarStealth": {
+      "Name": {
+        "Origin": "Sand Dollar",
+        "Translation": "沙币"
+      }
+    },
+    "ArtifactOfResilienceShard1": {
+      "Name": {
+        "Origin": "Artifact Shard",
+        "Translation": "灵之形碎块"
+      }
+    },
+    "ArtifactOfResilienceShard2": {
+      "Name": {
+        "Origin": "Artifact Shard",
+        "Translation": "灵之形碎块"
+      }
+    },
+    "ArtifactOfResilienceShard3": {
+      "Name": {
+        "Origin": "Artifact Shard",
+        "Translation": "灵之形碎块"
+      }
+    },
+    "ArtifactOfResilienceShard4": {
+      "Name": {
+        "Origin": "Artifact Shard",
+        "Translation": "灵之形碎块"
+      }
+    },
+    "ArtifactOfResilienceShard5": {
+      "Name": {
+        "Origin": "Artifact Shard",
+        "Translation": "灵之形碎块"
+      }
+    },
+    "ArtifactOfResilienceShard6": {
+      "Name": {
+        "Origin": "Artifact Shard",
+        "Translation": "灵之形碎块"
+      }
+    },
+    "RelicOfConvergenceCrystal": {
+      "Name": {
+        "Origin": "Relic of Convergence",
+        "Translation": "聚魂神晶"
+      }
+    },
+    "JewelProjectile": {
+      "Name": {
+        "Origin": "Ruby Bolt",
+        "Translation": "殷红弹幕"
+      }
+    },
+    "BrimstoneGeyser": {
+      "Name": {
+        "Origin": "Smoke",
+        "Translation": "烟"
+      }
+    },
+    "GeyserTelegraph": {
+      "Name": {
+        "Origin": "Geyser",
+        "Translation": "烟？"
+      }
+    },
+    "SmokeTelegraph": {
+      "Name": {
+        "Origin": "Smoke",
+        "Translation": "烟"
+      }
+    },
+    "ManaOverloaderHealOrb": {
+      "Name": {
+        "Origin": "Mana Overloader Heal Orb",
+        "Translation": "魔能过载器治疗珠"
+      }
+    },
+    "NettleRight": {
+      "Name": {
+        "Origin": "Thorn",
+        "Translation": "荆棘"
+      }
+    },
+    "NettleTip": {
+      "Name": {
+        "Origin": "Thorn",
+        "Translation": "荆棘"
+      }
+    },
+    "ValkyrieRayBeam": {
+      "Name": {
+        "Origin": "Valkyrie Ray",
+        "Translation": "女武神射线"
+      }
+    },
+    "ValkyrieRayStaff": {
+      "Name": {
+        "Origin": "Valkyrie Ray",
+        "Translation": "女武神杖"
+      }
+    },
+    "ForbiddenOathbladeProjectile": {
+      "Name": {
+        "Origin": "Oathblade",
+        "Translation": "誓约与禁忌之弹幕"
+      }
+    },
+    "TemporalFloeNumberTwo": {
+      "Name": {
+        "Origin": "Floe",
+        "Translation": "浮冰"
+      }
+    },
+    "ThornBase": {
+      "Name": {
+        "Origin": "Thorn",
+        "Translation": "荆棘"
+      }
+    },
+    "ThornTip": {
+      "Name": {
+        "Origin": "Thorn",
+        "Translation": "荆棘"
+      }
+    },
+    "LadShark": {
+      "Name": {
+        "Origin": "Lad Shark",
+        "Translation": "圣父"
+      }
+    },
+    "FlakKrakenProj": {
+      "Name": {
+        "Origin": "Kraken",
+        "Translation": "海妖之焰"
+      }
+    },
+    "RainbowFront": {
+      "Name": {
+        "Origin": "Rainbow",
+        "Translation": "彩虹"
+      }
+    },
+    "RainbowTrail": {
+      "Name": {
+        "Origin": "Rainbow",
+        "Translation": "彩虹"
+      }
+    },
+    "CircletMark": {
+      "Name": {
+        "Origin": "Mark",
+        "Translation": "标记"
+      }
+    },
+    "CircletTornado": {
+      "Name": {
+        "Origin": "Tornado",
+        "Translation": "旋涡"
+      }
+    },
+    "InfernalFireball": {
+      "Name": {
+        "Origin": "Dragon Fireball",
+        "Translation": "龙炎火球"
+      }
+    },
+    "InfernalFireballEruption": {
+      "Name": {
+        "Origin": "Dragon Fireball",
+        "Translation": "龙炎火球"
+      }
+    },
+    "StealthNimbus": {
+      "Name": {
+        "Origin": "Nimbus",
+        "Translation": "云"
+      }
+    },
+    "StealthNimbusCloud": {
+      "Name": {
+        "Origin": "Nimbus",
+        "Translation": "雨云"
+      }
+    },
+    "StealthRain": {
+      "Name": {
+        "Origin": "Rain",
+        "Translation": "雨"
+      }
+    },
+    "TarraThornRight": {
+      "Name": {
+        "Origin": "Thorn",
+        "Translation": "荆棘"
+      }
+    },
+    "TarraThornTip": {
+      "Name": {
+        "Origin": "Thorn",
+        "Translation": "荆棘"
+      }
+    },
+    "TitaniumClone": {
+      "Name": {
+        "Origin": "Shuriken",
+        "Translation": "回旋镖"
+      }
+    },
+    "TotalMeltdown": {
+      "Name": {
+        "Origin": "Explosion",
+        "Translation": "爆炸"
+      }
+    },
+    "ForbiddenCircletEater": {
+      "Name": {
+        "Origin": "Circlet Eater",
+        "Translation": "禁戒吞噬者"
+      }
+    },
+    "TundraFlameBlossom": {
+      "Name": {
+        "Origin": "Frost Blossom",
+        "Translation": "永冻之焰华"
+      }
+    },
+    "TundraFlameBlossomsOrb": {
+      "Name": {
+        "Origin": "Blossom Orb",
+        "Translation": "永冻之焰珠"
+      }
+    },
+    "EnergyShell": {
+      "Name": {
+        "Origin": "Energy Shell",
+        "Translation": "能量庇护"
+      }
+    },
+    "RelicOfDeliveranceSpear": {
+      "Name": {
+        "Origin": "Relic of Deliverance",
+        "Translation": "渡魂圣物"
+      }
+    }
+  }
+}

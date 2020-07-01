@@ -1,0 +1,496 @@
+{
+  "Translations": {
+    "Mods.CalamityMod.SkyOreText": {
+      "Origin": "The ground is glittering with cyan light.",
+      "Translation": "苍青色的光辉照耀着这片土地。"
+    },
+    "Mods.CalamityMod.IceOreText": {
+      "Origin": "The ice caves are crackling with frigid energy.",
+      "Translation": "寒晶能量从冰之洞穴中迸发而出。"
+    },
+    "Mods.CalamityMod.PlantOreText": {
+      "Origin": "Energized plant matter has formed in the underground.",
+      "Translation": "富含能量的植物物质已在地下形成。"
+    },
+    "Mods.CalamityMod.TreeOreText": {
+      "Origin": "Fossilized tree bark is bursting through the jungle's mud.",
+      "Translation": "石化树皮正在丛林的淤泥中爆发。"
+    },
+    "Mods.CalamityMod.AuricOreText": {
+      "Origin": "A godly aura has blessed the world's caverns.",
+      "Translation": "神之光环祝福了这个世界的洞穴。"
+    },
+    "Mods.CalamityMod.FutureOreText": {
+      "Origin": "A cold and dark energy has materialized in space.",
+      "Translation": "冷黯的能量散布至宇宙之间。"
+    },
+    "Mods.CalamityMod.UglyBossText": {
+      "Origin": "The Sunken Sea trembles...",
+      "Translation": "沉沦之海在颤动……"
+    },
+    "Mods.CalamityMod.SteelSkullBossText": {
+      "Origin": "A blood red inferno lingers in the night...",
+      "Translation": "一束血红狱火徘徊于夜空之中……"
+    },
+    "Mods.CalamityMod.PlantBossText": {
+      "Origin": "The ocean depths are trembling.",
+      "Translation": "海洋的深处传来震动。"
+    },
+    "Mods.CalamityMod.BabyBossText": {
+      "Origin": "A plague has befallen the Jungle.",
+      "Translation": "一场瘟疫席卷了丛林。"
+    },
+    "Mods.CalamityMod.BabyBossText2": {
+      "Origin": "An ancient automaton roams the land.",
+      "Translation": "一个远古造物漫游在大地之上。"
+    },
+    "Mods.CalamityMod.MoonBossText": {
+      "Origin": "The profaned flame blazes fiercely!",
+      "Translation": "亵渎之火猛烈燃烧！"
+    },
+    "Mods.CalamityMod.MoonBossText2": {
+      "Origin": "Cosmic terrors are watching...",
+      "Translation": "宇宙的恐惧正注着这一切……"
+    },
+    "Mods.CalamityMod.MoonBossText3": {
+      "Origin": "The bloody moon beckons...",
+      "Translation": "血色之月蠢蠢欲动……"
+    },
+    "Mods.CalamityMod.PlagueBossText": {
+      "Origin": "PLAGUE NUKE BARRAGE ARMED, PREPARING FOR LAUNCH!!!",
+      "Translation": "瘟疫核弹已就绪，准备发射！！！"
+    },
+    "Mods.CalamityMod.PlagueBossText2": {
+      "Origin": "MISSILES LAUNCHED, TARGETING ROUTINE INITIATED!!!",
+      "Translation": "导弹已发射，目标定位系统开启！！！"
+    },
+    "Mods.CalamityMod.ProfanedBossText": {
+      "Origin": "The air is burning...",
+      "Translation": "空气正在燃烧……"
+    },
+    "Mods.CalamityMod.ProfanedBossText2": {
+      "Origin": "Shrieks are echoing from the dungeon.",
+      "Translation": "尖叫声回荡于地牢之中。"
+    },
+    "Mods.CalamityMod.ProfanedBossText3": {
+      "Origin": "The calamitous beings have been inundated with bloodstone.",
+      "Translation": "灾厄造物已被血石洗礼。"
+    },
+    "Mods.CalamityMod.GhostBossText": {
+      "Origin": "The abyssal spirits have been disturbed.",
+      "Translation": "深渊之灵受到了威胁。"
+    },
+    "Mods.CalamityMod.GhostBossText2": {
+      "Origin": "Wails echo through the dilapidated dungeon halls...",
+      "Translation": "哀嚎声回响在破旧的地牢大厅之中……"
+    },
+    "Mods.CalamityMod.GhostBossText3": {
+      "Origin": "Long-dead prisoners seek their zealous revenge...",
+      "Translation": "逝去已久的囚犯们寻求着自己的狂热复仇……"
+    },
+    "Mods.CalamityMod.SupremeBossText3": {
+      "Origin": "Alright, let's get started. Not sure why you're bothering.",
+      "Translation": "好吧，那我们就正式开始吧，虽然我并不明白你这么做是为了什么。"
+    },
+    "Mods.CalamityMod.SupremeBossText4": {
+      "Origin": "You seem so confident, even though you are painfully ignorant of what has yet to transpire.",
+      "Translation": "你看起来很自信，但你对接下来将要到来的痛苦一无所知。"
+    },
+    "Mods.CalamityMod.SupremeBossText5": {
+      "Origin": "Everything was going well until you came along.",
+      "Translation": "你出现在这里之前，一切都正常进行着。"
+    },
+    "Mods.CalamityMod.SupremeBossText6": {
+      "Origin": "Brothers, could you assist me for a moment? This ordeal is growing tiresome.",
+      "Translation": "兄弟们，能暂时帮个忙吗？这场折磨似乎越来越累人了。"
+    },
+    "Mods.CalamityMod.SupremeBossText": {
+      "Origin": "Don't worry, I still have plenty of tricks left.",
+      "Translation": "你在担心什么？我还没拿出全力呢。"
+    },
+    "Mods.CalamityMod.SupremeBossText7": {
+      "Origin": "Hmm...perhaps I should let the little ones out to play for a while.",
+      "Translation": "嗯……看来得让那些小家伙们出来玩一会儿了。"
+    },
+    "Mods.CalamityMod.SupremeBossText8": {
+      "Origin": "Impressive...but still not good enough!",
+      "Translation": "有意思……但还不够好！"
+    },
+    "Mods.CalamityMod.SupremeBossText9": {
+      "Origin": "I'm just getting started!",
+      "Translation": "我现在才刚刚拿出全力！"
+    },
+    "Mods.CalamityMod.SupremeBossText20": {
+      "Origin": "How are you still alive!?",
+      "Translation": "你是怎么活下来的！？"
+    },
+    "Mods.CalamityMod.SupremeBossText21": {
+      "Origin": "Just stop!",
+      "Translation": "给我停下来！"
+    },
+    "Mods.CalamityMod.SupremeBossText22": {
+      "Origin": "Even if you defeat me you would still have the lord to contend with!",
+      "Translation": "即使你击败了我，你还是得直面我的主人！"
+    },
+    "Mods.CalamityMod.SupremeBossText23": {
+      "Origin": "He has never lost a battle!",
+      "Translation": "他至今没有输掉过一场战斗！"
+    },
+    "Mods.CalamityMod.SupremeBossText24": {
+      "Origin": "Not even I could defeat him! What hope do you have!?",
+      "Translation": "连我都只能臣服于他！就凭你又有什么希望！？"
+    },
+    "Mods.CalamityMod.SupremeBossText25": {
+      "Origin": "He has grown far stronger since we last fought...you stand no chance.",
+      "Translation": "哪怕是在现在，在我们战斗的期间，他的实力依然在恐怖地增长着……你根本毫无胜算。"
+    },
+    "Mods.CalamityMod.SupremeBossText26": {
+      "Origin": "Well...I suppose this is the end...",
+      "Translation": "好吧……我估计这就是结局了。"
+    },
+    "Mods.CalamityMod.SupremeBossText27": {
+      "Origin": "Perhaps one of these times I'll change my mind...",
+      "Translation": "也许在那么多次之后我会改变主意……"
+    },
+    "Mods.CalamityMod.SupremeBossText28": {
+      "Origin": "You aren't hurting as much as I'd like...are you cheating?",
+      "Translation": "你好像受到的伤害不合常理啊……你是不是玩不起？"
+    },
+    "Mods.CalamityMod.SupremeBossText2": {
+      "Origin": "Go to hell.",
+      "Translation": "下地狱去吧。"
+    },
+    "Mods.CalamityMod.SupremeBossText10": {
+      "Origin": "At long last I am free...for a time. I'll keep coming back, just like you. Until we meet again, farewell.",
+      "Translation": "终于，我自由了……至少暂时是。我会不断回来，就像你一样。再见，下次我们还会见面的。"
+    },
+    "Mods.CalamityMod.SupremeBossText11": {
+      "Origin": "Do you enjoy going through hell?",
+      "Translation": "可曾享受地狱之旅？"
+    },
+    "Mods.CalamityMod.SupremeBossText12": {
+      "Origin": "Don't get me wrong, I like pain too, but you're just ridiculous.",
+      "Translation": "不要误解我，我也喜欢痛苦，但你只是一个纯粹的神经病。"
+    },
+    "Mods.CalamityMod.SupremeBossText13": {
+      "Origin": "You must enjoy dying more than most people, huh?",
+      "Translation": "哼？我猜你一定比大多数人都更加热衷于死亡。"
+    },
+    "Mods.CalamityMod.SupremeBossText14": {
+      "Origin": "Do you have a fetish for getting killed or something?",
+      "Translation": "你是找死找上瘾了还是怎么着？"
+    },
+    "Mods.CalamityMod.SupremeBossText15": {
+      "Origin": "Alright, I'm done counting. You probably died this much just to see what I'd say.",
+      "Translation": "够了，我不会再给你计数了。我甚至觉得你死这么多次只是为了看我的反应。"
+    },
+    "Mods.CalamityMod.SupremeBossText16": {
+      "Origin": "You didn't die at all huh? Welp, you probably cheated. Do it again, for real this time...but here's your reward I guess.",
+      "Translation": "可你甚至没有死？好吧，或许你是作弊了。不管怎么说，再试一次，这次认真试一次……最后，这是给你的奖励。"
+    },
+    "Mods.CalamityMod.SupremeBossText17": {
+      "Origin": "One death? That's it? ...I guess you earned this then.",
+      "Translation": "就死过一次？那就这样了？……这是你的奖励。"
+    },
+    "Mods.CalamityMod.SupremeBossText18": {
+      "Origin": "Two deaths, nice job. Here's your reward.",
+      "Translation": "只有两次死亡，干的不错，你的奖励在这儿。"
+    },
+    "Mods.CalamityMod.SupremeBossText19": {
+      "Origin": "Third time's the charm. Here's a special reward.",
+      "Translation": "过一过二不过三，给你特别的奖励。"
+    },
+    "Mods.CalamityMod.EdgyBossText": {
+      "Origin": "Don't get cocky, kid!",
+      "Translation": "别得意！小子！"
+    },
+    "Mods.CalamityMod.EdgyBossText2": {
+      "Origin": "You think...you can butcher...ME!?",
+      "Translation": "你以为这种东西也能杀死……我？！"
+    },
+    "Mods.CalamityMod.EdgyBossText3": {
+      "Origin": "A fatal mistake!",
+      "Translation": "致命失误！"
+    },
+    "Mods.CalamityMod.EdgyBossText4": {
+      "Origin": "Good luck recovering from that!",
+      "Translation": "真希望你能恢复过来！"
+    },
+    "Mods.CalamityMod.EdgyBossText5": {
+      "Origin": "Delicious...",
+      "Translation": "美味……"
+    },
+    "Mods.CalamityMod.EdgyBossText6": {
+      "Origin": "Did that hurt?",
+      "Translation": "哦，疼么？"
+    },
+    "Mods.CalamityMod.EdgyBossText7": {
+      "Origin": "Nothing personal, kid.",
+      "Translation": "这无关个人私怨，小子。"
+    },
+    "Mods.CalamityMod.EdgyBossText8": {
+      "Origin": "Are you honestly that bad at dodging?",
+      "Translation": "你真的连躲闪都不会吗？"
+    },
+    "Mods.CalamityMod.EdgyBossText9": {
+      "Origin": "Of all my segments to get hit by...",
+      "Translation": "这么长的身体，唯一命中的居然是……"
+    },
+    "Mods.CalamityMod.EdgyBossText10": {
+      "Origin": "It's not over yet, kid!",
+      "Translation": "还没完呢！小子！"
+    },
+    "Mods.CalamityMod.EdgyBossText11": {
+      "Origin": "A GOD DOES NOT FEAR DEATH!",
+      "Translation": "神！不惧死亡！"
+    },
+    "Mods.CalamityMod.EdgyBossText12": {
+      "Origin": "You are no god...but I shall feast upon your essence regardless!",
+      "Translation": "你不是神……但你的灵魂仍是我的盛宴！"
+    },
+    "Mods.CalamityMod.DoGBossText": {
+      "Origin": "The frigid moon shimmers brightly.",
+      "Translation": "寒霜之月散发着明洁的光辉。"
+    },
+    "Mods.CalamityMod.DoGBossText2": {
+      "Origin": "The harvest moon glows eerily.",
+      "Translation": "收割之月散布着诡异的光芒。"
+    },
+    "Mods.CalamityMod.AstralText": {
+      "Origin": "A star has fallen from the heavens!",
+      "Translation": "一颗明星从天堂中坠陨！"
+    },
+    "Mods.CalamityMod.AureusBossText": {
+      "Origin": "The astral enemies have been empowered!",
+      "Translation": "星幻敌人得到了增强！"
+    },
+    "Mods.CalamityMod.AureusBossText2": {
+      "Origin": "A faint ethereal click can be heard from the dungeon.",
+      "Translation": "微弱的异界之音游离在地牢中。"
+    },
+    "Mods.CalamityMod.AstralBossText": {
+      "Origin": "The seal of the stars has been broken! You can now mine Astral Ore.",
+      "Translation": "幻星的封印已破碎！你可以挖炫星矿了。"
+    },
+    "Mods.CalamityMod.DeusText": {
+      "Origin": "A star-spawned horror tunnels through the astral infection.",
+      "Translation": "诞生于星辰之间的恐惧穿梭在星辉瘟疫中。"
+    },
+    "Mods.CalamityMod.DeusText2": {
+      "Origin": "The astral infection trembles...",
+      "Translation": "星辉瘟疫剧烈震动着……"
+    },
+    "Mods.CalamityMod.DeusText3": {
+      "Origin": "The god of the stars draws near...",
+      "Translation": "群星之神即将到来……"
+    },
+    "Mods.CalamityMod.CalamitasBossText": {
+      "Origin": "You underestimate my power...",
+      "Translation": "你低估了我的力量..."
+    },
+    "Mods.CalamityMod.CalamitasBossText2": {
+      "Origin": "The brothers have been reborn!",
+      "Translation": "兄弟重生！"
+    },
+    "Mods.CalamityMod.CalamitasBossText3": {
+      "Origin": "Impressive child, most impressive...",
+      "Translation": "你成功给我留下了深刻的印象，留下了最深刻的印象……"
+    },
+    "Mods.CalamityMod.SandSharkText": {
+      "Origin": "Something stirs in the warm desert sands...",
+      "Translation": "沙漠的沙子中有什么东西正在行动……"
+    },
+    "Mods.CalamityMod.SandSharkText2": {
+      "Origin": "An enormous apex predator approaches...",
+      "Translation": "一个巨大的顶级掠食者接近了……"
+    },
+    "Mods.CalamityMod.SandSharkText3": {
+      "Origin": "The desert sand shifts intensely!",
+      "Translation": "沙漠正在剧烈动荡！"
+    },
+    "Mods.CalamityMod.CryogenBossText": {
+      "Origin": "Cryogen is derping out!",
+      "Translation": "极地之灵蹦了出来！"
+    },
+    "Mods.CalamityMod.BloodMoonText": {
+      "Origin": "The Blood Moon is rising...",
+      "Translation": "血月正在升起……"
+    },
+    "Mods.CalamityMod.DargonBossText": {
+      "Origin": "The dark sun awaits.",
+      "Translation": "黑蚀之日蓄势待发。"
+    },
+    "Mods.CalamityMod.DargonBossText2": {
+      "Origin": "My dragon deems you an unworthy opponent. You must acquire the power of the dark sun to witness his true power.",
+      "Translation": "我的龙不把你视为一个旗鼓相当的对手。你只有取得了黑蚀之日的力量，才能见识到他真正的能力。"
+    },
+    "Mods.CalamityMod.RevengeText": {
+      "Origin": "Revengeance is active.",
+      "Translation": "复仇模式已开启。"
+    },
+    "Mods.CalamityMod.RevengeText2": {
+      "Origin": "Revengeance is not active.",
+      "Translation": "复仇模式已关闭。"
+    },
+    "Mods.CalamityMod.DeathText": {
+      "Origin": "Death is active, enjoy the fun.",
+      "Translation": "死亡模式已开启，祝你游戏愉快。"
+    },
+    "Mods.CalamityMod.DeathText2": {
+      "Origin": "Death is not active, not fun enough for you?",
+      "Translation": "死亡模式已关闭，对你而言还不够愉快？"
+    },
+    "Mods.CalamityMod.ArmageddonText": {
+      "Origin": "Bosses will now kill you instantly.",
+      "Translation": "你开启了东方模式。"
+    },
+    "Mods.CalamityMod.ArmageddonText2": {
+      "Origin": "Bosses will no longer kill you instantly.",
+      "Translation": "Boss不再能摸死你了。"
+    },
+    "Mods.CalamityMod.DefiledText": {
+      "Origin": "Your soul is mine...",
+      "Translation": "你的灵魂归我了……"
+    },
+    "Mods.CalamityMod.DefiledText2": {
+      "Origin": "Your soul is yours once more...",
+      "Translation": "这缺德的玩意，还你..."
+    },
+    "Mods.CalamityMod.IronHeartText": {
+      "Origin": "Iron Heart is active, don't die.",
+      "Translation": "钢铁之心已开启，别浪死的太快。"
+    },
+    "Mods.CalamityMod.IronHeartText2": {
+      "Origin": "Iron Heart is not active, you can die again.",
+      "Translation": "钢铁之心已关闭，你又可以去浪了。"
+    },
+    "Mods.CalamityMod.FlameText": {
+      "Origin": "The air is getting warmer around you.",
+      "Translation": "你周围的空气变得灼热起来。"
+    },
+    "Mods.CalamityMod.BossRushStartText": {
+      "Origin": "Hmm? Ah, another contender. Very well, may the ritual commence!",
+      "Translation": "嗯？啊，又一位挑战者。嗯，好，很好，那就让仪式开始吧！"
+    },
+    "Mods.CalamityMod.BossRushTierOneEndText": {
+      "Origin": "Hmm? Oh, you're still alive. Unexpected, but don't get complacent just yet.",
+      "Translation": "嗯？喔，你还活着啊。想不到想不到，但你别就因为这点程度就自满咯～"
+    },
+    "Mods.CalamityMod.BossRushTierTwoEndText": {
+      "Origin": "Hmm? Persistent aren't you? Perhaps you have some hope of prosperity, unlike past challengers.",
+      "Translation": "嗯？你还真的挺顽强的，不是吗？也许跟以前过去那些挑战者不同，你有成功的机会。"
+    },
+    "Mods.CalamityMod.BossRushTierThreeEndText": {
+      "Origin": "Hmm? Your perseverance is truly a trait to behold. You've come further than even the demigods in such a short time.",
+      "Translation": "嗯？你的执着真的能算得上一个值得赞扬的品质啊。你在这么短的时间里，都已经超越半神了。"
+    },
+    "Mods.CalamityMod.BossRushTierThreeEndText2": {
+      "Origin": "May your skills remain sharp for the last challenges.",
+      "Translation": "愿你的技巧能继续把这个锋芒保持到最后的挑战。"
+    },
+    "Mods.CalamityMod.BossRushTierFourEndText": {
+      "Origin": "Hmm? So you've made it to the final tier, a remarkable feat enviable by even the mightiest of the gods.",
+      "Translation": "嗯？所以你就进入了最终阶段？这可是连最强大的神灵都会生羡的伟大壮举。"
+    },
+    "Mods.CalamityMod.BossRushTierFourEndText2": {
+      "Origin": "Go forth and conquer 'til the ritual's end!",
+      "Translation": "前进！征服！直到仪式的终结！"
+    },
+    "Mods.CalamityMod.BossRushTierFiveEndText": {
+      "Origin": "Hmm? You expected a reward beyond this mere pebble? Patience, the true reward will become apparent in time...",
+      "Translation": "嗯？除了这石头你还想要更多奖励？别急，真正的奖励迟早会出现……"
+    },
+    "Mods.CalamityMod.BossSpawnText": {
+      "Origin": "Something is approaching...",
+      "Translation": "什么东西正在接近……"
+    },
+    "Mods.CalamityMod.MeleeLevelUp": {
+      "Origin": "Melee weapon proficiency level up!",
+      "Translation": "近战熟练度升级了！"
+    },
+    "Mods.CalamityMod.MeleeLevelUpFinal": {
+      "Origin": "Melee weapon proficiency maxed out!",
+      "Translation": "近战熟练度满级了！"
+    },
+    "Mods.CalamityMod.RangedLevelUp": {
+      "Origin": "Ranged weapon proficiency level up!",
+      "Translation": "远程熟练度升级了！"
+    },
+    "Mods.CalamityMod.RangedLevelUpFinal": {
+      "Origin": "Ranged weapon proficiency maxed out!",
+      "Translation": "远程熟练度满级了！"
+    },
+    "Mods.CalamityMod.MagicLevelUp": {
+      "Origin": "Magic weapon proficiency level up!",
+      "Translation": "魔法熟练度升级了！"
+    },
+    "Mods.CalamityMod.MagicLevelUpFinal": {
+      "Origin": "Magic weapon proficiency maxed out!",
+      "Translation": "魔法熟练度满级了！"
+    },
+    "Mods.CalamityMod.SummonLevelUp": {
+      "Origin": "Summoner weapon proficiency level up!",
+      "Translation": "召唤熟练度升级了！"
+    },
+    "Mods.CalamityMod.SummonLevelUpFinal": {
+      "Origin": "Summoner weapon proficiency maxed out!",
+      "Translation": "召唤熟练度满级了！"
+    },
+    "Mods.CalamityMod.RogueLevelUp": {
+      "Origin": "Rogue weapon proficiency level up!",
+      "Translation": "盗贼熟练度升级了！"
+    },
+    "Mods.CalamityMod.RogueLevelUpFinal": {
+      "Origin": "Rogue weapon proficiency maxed out!",
+      "Translation": "盗贼熟练度满级了！"
+    },
+    "Mods.CalamityMod.OpenSunkenSea": {
+      "Origin": "The depths of the underground desert are rumbling...",
+      "Translation": "地下沙漠的深处轰隆作响……"
+    },
+    "Mods.CalamityMod.SandstormTrigger": {
+      "Origin": "The desert wind is blowing furiously!",
+      "Translation": "沙漠里刮起了猛烈的疾风！"
+    },
+    "Mods.CalamityMod.ThirdSageBlessingText": {
+      "Origin": "You have been blessed by the Third Sage!",
+      "Translation": "你已被第三贤者祝福！"
+    },
+    "Mods.CalamityMod.AprilFools": {
+      "Origin": "The LORDE is approaching...",
+      "Translation": "唯一神正在接近……"
+    },
+    "Mods.CalamityMod.AcidRainStart": {
+      "Origin": "A toxic downpour falls over the wasteland seas!",
+      "Translation": "一场剧毒暴雨席卷了整片废土之海！"
+    },
+    "Mods.CalamityMod.AcidRainEnd": {
+      "Origin": "The sulphuric skies begin to clear...",
+      "Translation": "硫磺色的天空开始放晴了......"
+    },
+    "Mods.CalamityMod.WetWormBossText": {
+      "Origin": "The sulphuric sky darkens...",
+      "Translation": "硫磺色的天空变暗了..."
+    },
+    "Mods.CalamityMod.ProfanedBossText4": {
+      "Origin": "The Profaned Goddess has recognised your devotion to purity!",
+      "Translation": "亵渎天神已经认可了你对纯净的贡献！"
+    },
+    "Mods.CalamityMod.GhostBossText4": {
+      "Origin": "The souls released stir the acidic storms...",
+      "Translation": "喷涌而出的灵魂扰乱了这场酸性风暴..."
+    },
+    "Mods.CalamityMod.AprilFools2": {
+      "Origin": "A boomer awaits...",
+      "Translation": "一台轰炸机蓄势待发..."
+    },
+    "Mods.CalamityMod.BrimmyBossText": {
+      "Origin": "A protective spell has been lifted from the crags! You can now mine Charred Ore.",
+      "Translation": "硫火之崖的一个保护咒语已经被移除！你可以挖掘焦炭矿了。"
+    },
+    "Mods.CalamityMod.ThirdSageBlessingText2": {
+      "Origin": "The Third Sage has rescinded its blessing...",
+      "Translation": "第三贤者收回了它的祝福..."
+    }
+  }
+}

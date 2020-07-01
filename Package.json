@@ -1,0 +1,19 @@
+{
+  "Name": "CalamityMod v1.4.4.4灾厄维基汉化v1.5.9.5",
+  "Author": "灾厄维基汉化组",
+  "ModName": "CalamityMod",
+  "Description": "灾厄维基汉化组出品\n基于前\"抗药又坚硬\"汉化团(mod汉化组)基础制作\n汉化特色:高质量，严谨考据，99.9%汉化度，拒绝生硬机翻\n灾厄中文维基目前正在快马加鞭建设中\n讨论群2号：1084033561\n讨论群1号：1060107125\n参与汉化/维基建设：980795251",
+  "LocalizedModName": "灾厄",
+  "Version": "1.5.9.5",
+  "ModVersion": "1.4.4.4",
+  "Language": "zh-Hans",
+  "FileList": [
+    "BasicItemFile",
+    "BasicNPCFile",
+    "BasicBuffFile",
+    "BasicProjectileFile",
+    "BasicPrefixFile",
+    "CustomModTranslationFile",
+    "LdstrFile"
+  ]
+}

@@ -1,0 +1,1834 @@
+{
+  "NPCs": {
+    "Bloatfish": {
+      "Name": {
+        "Origin": "Bloatfish",
+        "Translation": "肿胀翻车鱼"
+      }
+    },
+    "BobbitWormHead": {
+      "Name": {
+        "Origin": "Bobbit Worm",
+        "Translation": "博比特虫"
+      }
+    },
+    "BobbitWormSegment": {
+      "Name": {
+        "Origin": "Bobbit Worm",
+        "Translation": "博比特虫"
+      }
+    },
+    "BoxJellyfish": {
+      "Name": {
+        "Origin": "Box Jellyfish",
+        "Translation": "灯水母"
+      }
+    },
+    "Catfish": {
+      "Name": {
+        "Origin": "Catfish",
+        "Translation": "鲶鱼"
+      }
+    },
+    "ChaoticPuffer": {
+      "Name": {
+        "Origin": "Chaotic Puffer",
+        "Translation": "混乱河豚"
+      }
+    },
+    "ColossalSquid": {
+      "Name": {
+        "Origin": "Colossal Squid",
+        "Translation": "巨像乌贼"
+      }
+    },
+    "Cuttlefish": {
+      "Name": {
+        "Origin": "Cuttlefish",
+        "Translation": "红乌贼"
+      }
+    },
+    "DevilFish": {
+      "Name": {
+        "Origin": "Devil Fish",
+        "Translation": "魔鬼鱼"
+      }
+    },
+    "EidolonWyrmBody": {
+      "Name": {
+        "Origin": "Eidolon Wyrm",
+        "Translation": "幻海妖龙"
+      }
+    },
+    "EidolonWyrmBodyAlt": {
+      "Name": {
+        "Origin": "Eidolon Wyrm",
+        "Translation": "幻海妖龙"
+      }
+    },
+    "EidolonWyrmBodyAltHuge": {
+      "Name": {
+        "Origin": "Eidolon Wyrm",
+        "Translation": "幻海妖龙"
+      }
+    },
+    "EidolonWyrmBodyHuge": {
+      "Name": {
+        "Origin": "Eidolon Wyrm",
+        "Translation": "幻海妖龙"
+      }
+    },
+    "EidolonWyrmHead": {
+      "Name": {
+        "Origin": "Eidolon Wyrm",
+        "Translation": "幻海妖龙"
+      }
+    },
+    "EidolonWyrmHeadHuge": {
+      "Name": {
+        "Origin": "Eidolon Wyrm",
+        "Translation": "幻海妖龙"
+      }
+    },
+    "EidolonWyrmTail": {
+      "Name": {
+        "Origin": "Eidolon Wyrm",
+        "Translation": "幻海妖龙"
+      }
+    },
+    "EidolonWyrmTailHuge": {
+      "Name": {
+        "Origin": "Eidolon Wyrm",
+        "Translation": "幻海妖龙"
+      }
+    },
+    "Flounder": {
+      "Name": {
+        "Origin": "Flounder",
+        "Translation": "比目鱼"
+      }
+    },
+    "Frogfish": {
+      "Name": {
+        "Origin": "Frogfish",
+        "Translation": "躄鱼"
+      }
+    },
+    "GiantSquid": {
+      "Name": {
+        "Origin": "Giant Squid",
+        "Translation": "巨大乌贼"
+      }
+    },
+    "Gnasher": {
+      "Name": {
+        "Origin": "Gnasher",
+        "Translation": "噬咬龟"
+      }
+    },
+    "GulperEelBody": {
+      "Name": {
+        "Origin": "Gulper Eel",
+        "Translation": "大嘴鳗"
+      }
+    },
+    "GulperEelBodyAlt": {
+      "Name": {
+        "Origin": "Gulper Eel",
+        "Translation": "大嘴鳗"
+      }
+    },
+    "GulperEelHead": {
+      "Name": {
+        "Origin": "Gulper Eel",
+        "Translation": "大嘴鳗"
+      }
+    },
+    "GulperEelTail": {
+      "Name": {
+        "Origin": "Gulper Eel",
+        "Translation": "大嘴鳗"
+      }
+    },
+    "Laserfish": {
+      "Name": {
+        "Origin": "Laserfish",
+        "Translation": "激光鱼"
+      }
+    },
+    "LuminousCorvina": {
+      "Name": {
+        "Origin": "Luminous Corvina",
+        "Translation": "流光石首鱼"
+      }
+    },
+    "MantisShrimp": {
+      "Name": {
+        "Origin": "Mantis Shrimp",
+        "Translation": "螳螂虾"
+      }
+    },
+    "Mauler": {
+      "Name": {
+        "Origin": "Mauler",
+        "Translation": "渊海狂鲨"
+      }
+    },
+    "MirageJelly": {
+      "Name": {
+        "Origin": "Mirage Jelly",
+        "Translation": "幻海水母"
+      }
+    },
+    "MorayEel": {
+      "Name": {
+        "Origin": "Moray Eel",
+        "Translation": "海鳝"
+      }
+    },
+    "OarfishBody": {
+      "Name": {
+        "Origin": "Oarfish",
+        "Translation": "桨鱼"
+      }
+    },
+    "OarfishHead": {
+      "Name": {
+        "Origin": "Oarfish",
+        "Translation": "桨鱼"
+      }
+    },
+    "OarfishTail": {
+      "Name": {
+        "Origin": "Oarfish",
+        "Translation": "桨鱼"
+      }
+    },
+    "Reaper": {
+      "Name": {
+        "Origin": "Reaper Shark",
+        "Translation": "猎魂鲨"
+      }
+    },
+    "SeaUrchin": {
+      "Name": {
+        "Origin": "Sea Urchin",
+        "Translation": "海胆"
+      }
+    },
+    "ToxicMinnow": {
+      "Name": {
+        "Origin": "Toxic Minnow",
+        "Translation": "剧毒米诺鱼"
+      }
+    },
+    "Trasher": {
+      "Name": {
+        "Origin": "Trasher",
+        "Translation": "捣鱼"
+      }
+    },
+    "Viperfish": {
+      "Name": {
+        "Origin": "Viperfish",
+        "Translation": "蝰蛇鱼"
+      }
+    },
+    "IrradiatedSlime": {
+      "Name": {
+        "Origin": "Irradiated Slime",
+        "Translation": "辐射史莱姆"
+      }
+    },
+    "Radiator": {
+      "Name": {
+        "Origin": "Radiator",
+        "Translation": "辐射海参"
+      }
+    },
+    "AquaticParasite": {
+      "Name": {
+        "Origin": "Aquatic Parasite",
+        "Translation": "渊海寄生虫"
+      }
+    },
+    "AquaticScourgeBody": {
+      "Name": {
+        "Origin": "Aquatic Scourge",
+        "Translation": "渊海灾虫"
+      }
+    },
+    "AquaticScourgeBodyAlt": {
+      "Name": {
+        "Origin": "Aquatic Scourge",
+        "Translation": "渊海灾虫"
+      }
+    },
+    "AquaticScourgeHead": {
+      "Name": {
+        "Origin": "Aquatic Scourge",
+        "Translation": "渊海灾虫"
+      }
+    },
+    "AquaticScourgeTail": {
+      "Name": {
+        "Origin": "Aquatic Scourge",
+        "Translation": "渊海灾虫"
+      }
+    },
+    "AquaticSeekerBody": {
+      "Name": {
+        "Origin": "Aquatic Seeker",
+        "Translation": "渊海追魂虫"
+      }
+    },
+    "AquaticSeekerHead": {
+      "Name": {
+        "Origin": "Aquatic Seeker",
+        "Translation": "渊海追魂虫"
+      }
+    },
+    "AquaticSeekerTail": {
+      "Name": {
+        "Origin": "Aquatic Seeker",
+        "Translation": "渊海追魂虫"
+      }
+    },
+    "AquaticUrchin": {
+      "Name": {
+        "Origin": "Aquatic Urchin",
+        "Translation": "渊海海胆"
+      }
+    },
+    "Aries": {
+      "Name": {
+        "Origin": "Aries",
+        "Translation": "白羊座"
+      }
+    },
+    "AstralachneaGround": {
+      "Name": {
+        "Origin": "Astralachnea",
+        "Translation": "星幻蛛"
+      }
+    },
+    "AstralachneaWall": {
+      "Name": {
+        "Origin": "Astralachnea",
+        "Translation": "星幻蛛"
+      }
+    },
+    "AstralProbe": {
+      "Name": {
+        "Origin": "Astral Probe",
+        "Translation": "幻星探测器"
+      }
+    },
+    "AstralSeekerSpit": {
+      "Name": {
+        "Origin": "Seeker Spit",
+        "Translation": "跟踪液"
+      }
+    },
+    "AstralSlime": {
+      "Name": {
+        "Origin": "Astral Slime",
+        "Translation": "幻星史莱姆"
+      }
+    },
+    "Atlas": {
+      "Name": {
+        "Origin": "Atlas",
+        "Translation": "擎星者"
+      }
+    },
+    "BigSightseer": {
+      "Name": {
+        "Origin": "Big Sightseer",
+        "Translation": "大监星眼"
+      }
+    },
+    "EnchantedNightcrawler": {
+      "Name": {
+        "Origin": "Enchanted Nightcrawler",
+        "Translation": "附魔夜行者"
+      }
+    },
+    "FusionFeeder": {
+      "Name": {
+        "Origin": "Fusion Feeder",
+        "Translation": "融食鲨"
+      }
+    },
+    "Hadarian": {
+      "Name": {
+        "Origin": "Hadarian",
+        "Translation": "哈德安翼龙"
+      }
+    },
+    "Hive": {
+      "Name": {
+        "Origin": "Hive",
+        "Translation": "星幻巢"
+      }
+    },
+    "Hiveling": {
+      "Name": {
+        "Origin": "Hiveling",
+        "Translation": "星幻蜂"
+      }
+    },
+    "Mantis": {
+      "Name": {
+        "Origin": "Mantis",
+        "Translation": "星幻螳螂"
+      }
+    },
+    "Nova": {
+      "Name": {
+        "Origin": "Nova",
+        "Translation": "新星"
+      }
+    },
+    "SmallSightseer": {
+      "Name": {
+        "Origin": "Small Sightseer",
+        "Translation": "小监星眼"
+      }
+    },
+    "StellarCulex": {
+      "Name": {
+        "Origin": "Stellar Culex",
+        "Translation": "星幻蚊"
+      }
+    },
+    "Twinkler": {
+      "Name": {
+        "Origin": "Twinkler",
+        "Translation": "星幻萤火虫"
+      }
+    },
+    "AstrumAureus": {
+      "Name": {
+        "Origin": "Astrum Aureus",
+        "Translation": "白金星舰"
+      }
+    },
+    "AureusSpawn": {
+      "Name": {
+        "Origin": "Aureus Spawn",
+        "Translation": "小白星"
+      }
+    },
+    "AstrumDeusBody": {
+      "Name": {
+        "Origin": "Astrum Deus",
+        "Translation": "星神游龙"
+      }
+    },
+    "AstrumDeusBodySpectral": {
+      "Name": {
+        "Origin": "Astrum Deus",
+        "Translation": "星神游龙"
+      }
+    },
+    "AstrumDeusHead": {
+      "Name": {
+        "Origin": "Astrum Deus",
+        "Translation": "星神游龙"
+      }
+    },
+    "AstrumDeusHeadSpectral": {
+      "Name": {
+        "Origin": "Astrum Deus",
+        "Translation": "星神游龙"
+      }
+    },
+    "AstrumDeusProbe": {
+      "Name": {
+        "Origin": "Astrum Deus Probe",
+        "Translation": "星神探测器"
+      }
+    },
+    "AstrumDeusProbe2": {
+      "Name": {
+        "Origin": "Astrum Deus Probe",
+        "Translation": "星神探测器"
+      }
+    },
+    "AstrumDeusProbe3": {
+      "Name": {
+        "Origin": "Astrum Deus Probe",
+        "Translation": "星神探测器"
+      }
+    },
+    "AstrumDeusTail": {
+      "Name": {
+        "Origin": "Astrum Deus",
+        "Translation": "星神游龙"
+      }
+    },
+    "AstrumDeusTailSpectral": {
+      "Name": {
+        "Origin": "Astrum Deus",
+        "Translation": "星神游龙"
+      }
+    },
+    "Brimling": {
+      "Name": {
+        "Origin": "Brimling",
+        "Translation": "小硫火灵"
+      }
+    },
+    "BrimstoneElemental": {
+      "Name": {
+        "Origin": "Brimstone Elemental",
+        "Translation": "硫磺火元素"
+      }
+    },
+    "Bumblefuck": {
+      "Name": {
+        "Origin": "The Dragonfolly",
+        "Translation": "痴愚金龙"
+      }
+    },
+    "Bumblefuck2": {
+      "Name": {
+        "Origin": "Draconic Swarmer",
+        "Translation": "癫狂龙裔"
+      }
+    },
+    "Calamitas": {
+      "Name": {
+        "Origin": "Calamitas",
+        "Translation": "灾厄之眼"
+      }
+    },
+    "CalamitasRun": {
+      "Name": {
+        "Origin": "Cataclysm",
+        "Translation": "灾祸"
+      }
+    },
+    "CalamitasRun2": {
+      "Name": {
+        "Origin": "Catastrophe",
+        "Translation": "灾难"
+      }
+    },
+    "CalamitasRun3": {
+      "Name": {
+        "Origin": "Calamitas",
+        "Translation": "灾厄之眼"
+      }
+    },
+    "LifeSeeker": {
+      "Name": {
+        "Origin": "Life Seeker",
+        "Translation": "探灵眼"
+      }
+    },
+    "SoulSeeker": {
+      "Name": {
+        "Origin": "Soul Seeker",
+        "Translation": "探魂眼"
+      }
+    },
+    "CeaselessVoid": {
+      "Name": {
+        "Origin": "Ceaseless Void",
+        "Translation": "无尽虚空"
+      }
+    },
+    "DarkEnergy": {
+      "Name": {
+        "Origin": "Dark Energy",
+        "Translation": "暗能量"
+      }
+    },
+    "DarkEnergy2": {
+      "Name": {
+        "Origin": "Dark Energy",
+        "Translation": "暗能量"
+      }
+    },
+    "DarkEnergy3": {
+      "Name": {
+        "Origin": "Dark Energy",
+        "Translation": "暗能量"
+      }
+    },
+    "CrabShroom": {
+      "Name": {
+        "Origin": "Crab Shroom",
+        "Translation": "真菌孢子"
+      }
+    },
+    "CrabulonIdle": {
+      "Name": {
+        "Origin": "Crabulon",
+        "Translation": "菌生蟹"
+      }
+    },
+    "CalamityEye": {
+      "Name": {
+        "Origin": "Calamity Eye",
+        "Translation": "小灾厄眼"
+      }
+    },
+    "CharredSlime": {
+      "Name": {
+        "Origin": "Charred Slime",
+        "Translation": "焦炭史莱姆"
+      }
+    },
+    "CultistAssassin": {
+      "Name": {
+        "Origin": "Cultist Assassin",
+        "Translation": "邪教刺客"
+      }
+    },
+    "DespairStone": {
+      "Name": {
+        "Origin": "Despair Stone",
+        "Translation": "绝望之石"
+      }
+    },
+    "Scryllar": {
+      "Name": {
+        "Origin": "Scryllar",
+        "Translation": "恶魔仆从"
+      }
+    },
+    "ScryllarRage": {
+      "Name": {
+        "Origin": "Scryllar",
+        "Translation": "恶魔仆从"
+      }
+    },
+    "SoulSlurper": {
+      "Name": {
+        "Origin": "Soul Slurper",
+        "Translation": "灵魂饮食者"
+      }
+    },
+    "Cryocore": {
+      "Name": {
+        "Origin": "Cryocore",
+        "Translation": "冰川核心"
+      }
+    },
+    "Cryocore2": {
+      "Name": {
+        "Origin": "Cryocore",
+        "Translation": "冰川核心"
+      }
+    },
+    "Cryogen": {
+      "Name": {
+        "Origin": "Cryogen",
+        "Translation": "极地之灵"
+      }
+    },
+    "CryogenIce": {
+      "Name": {
+        "Origin": "Cryogen's Shield",
+        "Translation": "冰川护盾"
+      }
+    },
+    "IceMass": {
+      "Name": {
+        "Origin": "Aurora Spirit",
+        "Translation": "极光之灵"
+      }
+    },
+    "DesertScourgeBody": {
+      "Name": {
+        "Origin": "Desert Scourge",
+        "Translation": "荒漠灾虫"
+      }
+    },
+    "DesertScourgeBodySmall": {
+      "Name": {
+        "Origin": "Desert Scourge",
+        "Translation": "小荒漠灾虫"
+      }
+    },
+    "DesertScourgeHead": {
+      "Name": {
+        "Origin": "Desert Scourge",
+        "Translation": "荒漠灾虫"
+      }
+    },
+    "DesertScourgeHeadSmall": {
+      "Name": {
+        "Origin": "Desert Scourge",
+        "Translation": "小荒漠灾虫"
+      }
+    },
+    "DesertScourgeTail": {
+      "Name": {
+        "Origin": "Desert Scourge",
+        "Translation": "荒漠灾虫"
+      }
+    },
+    "DesertScourgeTailSmall": {
+      "Name": {
+        "Origin": "Desert Scourge",
+        "Translation": "小荒漠灾虫"
+      }
+    },
+    "DriedSeekerBody": {
+      "Name": {
+        "Origin": "Dried Seeker",
+        "Translation": "小灾虫"
+      }
+    },
+    "DriedSeekerHead": {
+      "Name": {
+        "Origin": "Dried Seeker",
+        "Translation": "小灾虫"
+      }
+    },
+    "DriedSeekerTail": {
+      "Name": {
+        "Origin": "Dried Seeker",
+        "Translation": "小灾虫"
+      }
+    },
+    "DevourerofGodsBody": {
+      "Name": {
+        "Origin": "The Devourer of Gods",
+        "Translation": "神明吞噬者"
+      }
+    },
+    "DevourerofGodsBody2": {
+      "Name": {
+        "Origin": "Cosmic Guardian",
+        "Translation": "星宇护卫"
+      }
+    },
+    "DevourerofGodsBodyS": {
+      "Name": {
+        "Origin": "The Devourer of Gods",
+        "Translation": "神明吞噬者"
+      }
+    },
+    "DevourerofGodsHead": {
+      "Name": {
+        "Origin": "The Devourer of Gods",
+        "Translation": "神明吞噬者"
+      }
+    },
+    "DevourerofGodsHead2": {
+      "Name": {
+        "Origin": "Cosmic Guardian",
+        "Translation": "星宇护卫"
+      }
+    },
+    "DevourerofGodsHeadS": {
+      "Name": {
+        "Origin": "The Devourer of Gods",
+        "Translation": "神明吞噬者"
+      }
+    },
+    "DevourerofGodsTail": {
+      "Name": {
+        "Origin": "The Devourer of Gods",
+        "Translation": "神明吞噬者"
+      }
+    },
+    "DevourerofGodsTail2": {
+      "Name": {
+        "Origin": "Cosmic Guardian",
+        "Translation": "星宇护卫"
+      }
+    },
+    "DevourerofGodsTailS": {
+      "Name": {
+        "Origin": "The Devourer of Gods",
+        "Translation": "神明吞噬者"
+      }
+    },
+    "GreatSandShark": {
+      "Name": {
+        "Origin": "Great Sand Shark",
+        "Translation": "旱海狂鲨"
+      }
+    },
+    "DankCreeper": {
+      "Name": {
+        "Origin": "Dank Creeper",
+        "Translation": "沼泽之眼"
+      }
+    },
+    "DarkHeart": {
+      "Name": {
+        "Origin": "Dark Heart",
+        "Translation": "暗之心"
+      }
+    },
+    "HiveBlob": {
+      "Name": {
+        "Origin": "Hive Blob",
+        "Translation": "腐化球"
+      }
+    },
+    "HiveBlob2": {
+      "Name": {
+        "Origin": "Hive Blob",
+        "Translation": "腐化球"
+      }
+    },
+    "HiveCyst": {
+      "Name": {
+        "Origin": "Hive Cyst",
+        "Translation": "腐化囊"
+      }
+    },
+    "HiveMind": {
+      "Name": {
+        "Origin": "The Hive Mind",
+        "Translation": "腐巢意志"
+      }
+    },
+    "HiveMindP2": {
+      "Name": {
+        "Origin": "The Hive Mind",
+        "Translation": "腐巢意志"
+      }
+    },
+    "AquaticAberration": {
+      "Name": {
+        "Origin": "Aquatic Aberration",
+        "Translation": "深海吞食者"
+      }
+    },
+    "Leviathan": {
+      "Name": {
+        "Origin": "The Leviathan",
+        "Translation": "利维坦"
+      }
+    },
+    "LeviathanStart": {
+      "Name": {
+        "Origin": "???",
+        "Translation": "???"
+      }
+    },
+    "Parasea": {
+      "Name": {
+        "Origin": "Parasea",
+        "Translation": "海蠕虫"
+      }
+    },
+    "Siren": {
+      "Name": {
+        "Origin": "The Siren",
+        "Translation": "塞壬"
+      }
+    },
+    "SirenClone": {
+      "Name": {
+        "Origin": "Siren Clone",
+        "Translation": "塞壬克隆体"
+      }
+    },
+    "SirenIce": {
+      "Name": {
+        "Origin": "Ice Shield",
+        "Translation": "冰护盾"
+      }
+    },
+    "AeroSlime": {
+      "Name": {
+        "Origin": "Aero Slime",
+        "Translation": "天蓝史莱姆"
+      }
+    },
+    "AngryDog": {
+      "Name": {
+        "Origin": "Angry Dog",
+        "Translation": "愤怒的雪狗"
+      }
+    },
+    "ArmoredDiggerBody": {
+      "Name": {
+        "Origin": "Armored Digger",
+        "Translation": "装甲掘地虫"
+      }
+    },
+    "ArmoredDiggerHead": {
+      "Name": {
+        "Origin": "Armored Digger",
+        "Translation": "装甲掘地虫"
+      }
+    },
+    "ArmoredDiggerTail": {
+      "Name": {
+        "Origin": "Armored Digger",
+        "Translation": "装甲掘地虫"
+      }
+    },
+    "BlightedEye": {
+      "Name": {
+        "Origin": "Blighted Eye",
+        "Translation": "枯萎之眼"
+      }
+    },
+    "BloomSlime": {
+      "Name": {
+        "Origin": "Bloom Slime",
+        "Translation": "龙蒿史莱姆"
+      }
+    },
+    "Bohldohr": {
+      "Name": {
+        "Origin": "Bohldohr",
+        "Translation": "神庙滚石"
+      }
+    },
+    "Cnidrion": {
+      "Name": {
+        "Origin": "Cnidrion",
+        "Translation": "卧龙海马"
+      }
+    },
+    "CosmicElemental": {
+      "Name": {
+        "Origin": "Cosmic Elemental",
+        "Translation": "宇宙元素"
+      }
+    },
+    "CrawlerAmber": {
+      "Name": {
+        "Origin": "Amber Crawler",
+        "Translation": "琥珀爬虫"
+      }
+    },
+    "CrawlerAmethyst": {
+      "Name": {
+        "Origin": "Amethyst Crawler",
+        "Translation": "紫水晶爬虫"
+      }
+    },
+    "CrawlerCrystal": {
+      "Name": {
+        "Origin": "Crystal Crawler",
+        "Translation": "水晶爬虫"
+      }
+    },
+    "CrawlerDiamond": {
+      "Name": {
+        "Origin": "Diamond Crawler",
+        "Translation": "钻石爬虫"
+      }
+    },
+    "CrawlerEmerald": {
+      "Name": {
+        "Origin": "Emerald Crawler",
+        "Translation": "绿宝石爬虫"
+      }
+    },
+    "CrawlerRuby": {
+      "Name": {
+        "Origin": "Ruby Crawler",
+        "Translation": "红宝石爬虫"
+      }
+    },
+    "CrawlerSapphire": {
+      "Name": {
+        "Origin": "Sapphire Crawler",
+        "Translation": "蓝宝石爬虫"
+      }
+    },
+    "CrawlerTopaz": {
+      "Name": {
+        "Origin": "Topaz Crawler",
+        "Translation": "黄玉爬虫"
+      }
+    },
+    "CrimulanBlightSlime": {
+      "Name": {
+        "Origin": "Crimulan Blight Slime",
+        "Translation": "血腥枯萎史莱姆"
+      }
+    },
+    "Cryon": {
+      "Name": {
+        "Origin": "Cryon",
+        "Translation": "冰人"
+      }
+    },
+    "CryoSlime": {
+      "Name": {
+        "Origin": "Cryo Slime",
+        "Translation": "寒元史莱姆"
+      }
+    },
+    "EbonianBlightSlime": {
+      "Name": {
+        "Origin": "Ebonian Blight Slime",
+        "Translation": "黑檀枯萎史莱姆"
+      }
+    },
+    "Eidolist": {
+      "Name": {
+        "Origin": "Eidolist",
+        "Translation": "幻妖灵巫"
+      }
+    },
+    "FearlessGoldfishWarrior": {
+      "Name": {
+        "Origin": "Fearless Goldfish Warrior",
+        "Translation": "无畏金鱼战士"
+      }
+    },
+    "HeatSpirit": {
+      "Name": {
+        "Origin": "Heat Spirit",
+        "Translation": "热能之魂"
+      }
+    },
+    "Horse": {
+      "Name": {
+        "Origin": "Earth Elemental",
+        "Translation": "地元魔魂"
+      }
+    },
+    "IceClasper": {
+      "Name": {
+        "Origin": "Ice Clasper",
+        "Translation": "食魂冰虫"
+      }
+    },
+    "ImpiousImmolator": {
+      "Name": {
+        "Origin": "Impious Immolator",
+        "Translation": "亵渎献祭者"
+      }
+    },
+    "KingSlimeJewel": {
+      "Name": {
+        "Origin": "Crown Jewel",
+        "Translation": "王冠宝石"
+      }
+    },
+    "OverloadedSoldier": {
+      "Name": {
+        "Origin": "Overloaded Soldier",
+        "Translation": "过载装甲骷髅"
+      }
+    },
+    "PerennialSlime": {
+      "Name": {
+        "Origin": "Perennial Slime",
+        "Translation": "永恒史莱姆"
+      }
+    },
+    "PhantomDebris": {
+      "Name": {
+        "Origin": "Phantom Debris",
+        "Translation": "幻影骸虫"
+      }
+    },
+    "PhantomSpirit": {
+      "Name": {
+        "Origin": "Phantom Spirit",
+        "Translation": "幻影幽灵"
+      }
+    },
+    "PhantomSpiritL": {
+      "Name": {
+        "Origin": "Phantom Spirit",
+        "Translation": "幻魂"
+      }
+    },
+    "PhantomSpiritM": {
+      "Name": {
+        "Origin": "Phantom Spirit",
+        "Translation": "幻魂"
+      }
+    },
+    "PhantomSpiritS": {
+      "Name": {
+        "Origin": "Phantom Spirit",
+        "Translation": "幻魂"
+      }
+    },
+    "Piggy": {
+      "Name": {
+        "Origin": "Piggy",
+        "Translation": "小猪猪"
+      }
+    },
+    "Pitbull": {
+      "Name": {
+        "Origin": "Pitbull",
+        "Translation": "血犬"
+      }
+    },
+    "PlagueBee": {
+      "Name": {
+        "Origin": "Plague Charger",
+        "Translation": "瘟疫蜜蜂"
+      }
+    },
+    "PlagueBeeLarge": {
+      "Name": {
+        "Origin": "Plague Charger",
+        "Translation": "瘟疫蜜蜂"
+      }
+    },
+    "PlaguedDerpling": {
+      "Name": {
+        "Origin": "Viruling",
+        "Translation": "毒飞虫"
+      }
+    },
+    "PlaguedFlyingFox": {
+      "Name": {
+        "Origin": "Melter",
+        "Translation": "蚀化者"
+      }
+    },
+    "PlaguedJungleSlime": {
+      "Name": {
+        "Origin": "Pestilent Slime",
+        "Translation": "鸠毒史莱姆"
+      }
+    },
+    "PlaguedTortoise": {
+      "Name": {
+        "Origin": "Plagueshell",
+        "Translation": "瘟疫龟"
+      }
+    },
+    "ProfanedEnergyBody": {
+      "Name": {
+        "Origin": "Profaned Energy",
+        "Translation": "亵渎能量"
+      }
+    },
+    "ProfanedEnergyLantern": {
+      "Name": {
+        "Origin": "Profaned Energy",
+        "Translation": "亵渎能量"
+      }
+    },
+    "SandTortoise": {
+      "Name": {
+        "Origin": "Sand Tortoise",
+        "Translation": "沙漠乌龟"
+      }
+    },
+    "ScornEater": {
+      "Name": {
+        "Origin": "Scorn Eater",
+        "Translation": "吞食魔"
+      }
+    },
+    "ShockstormShuttle": {
+      "Name": {
+        "Origin": "Shockstorm Shuttle",
+        "Translation": "风暴飞碟"
+      }
+    },
+    "StormlionCharger": {
+      "Name": {
+        "Origin": "Stormlion",
+        "Translation": "风暴蚁狮"
+      }
+    },
+    "SunBat": {
+      "Name": {
+        "Origin": "Sun Bat",
+        "Translation": "太阳蝙蝠"
+      }
+    },
+    "Sunskater": {
+      "Name": {
+        "Origin": "Sunskater",
+        "Translation": "寻阳鱼"
+      }
+    },
+    "SuperDummy": {
+      "Name": {
+        "Origin": "Super Dummy",
+        "Translation": "大草人"
+      }
+    },
+    "ThiccWaifu": {
+      "Name": {
+        "Origin": "Cloud Elemental",
+        "Translation": "雨云元素"
+      }
+    },
+    "WulfrumDrone": {
+      "Name": {
+        "Origin": "Wulfrum Drone",
+        "Translation": "钨钢爬行者"
+      }
+    },
+    "WulfrumSlime": {
+      "Name": {
+        "Origin": "Wulfrum Slime",
+        "Translation": "钨钢史莱姆"
+      }
+    },
+    "PerforatorBodyLarge": {
+      "Name": {
+        "Origin": "The Perforator",
+        "Translation": "血肉寄生者"
+      }
+    },
+    "PerforatorBodyMedium": {
+      "Name": {
+        "Origin": "The Perforator",
+        "Translation": "血肉寄生者"
+      }
+    },
+    "PerforatorBodySmall": {
+      "Name": {
+        "Origin": "The Perforator",
+        "Translation": "血肉寄生者"
+      }
+    },
+    "PerforatorCyst": {
+      "Name": {
+        "Origin": "Perforator Cyst",
+        "Translation": "血肉囊"
+      }
+    },
+    "PerforatorHeadLarge": {
+      "Name": {
+        "Origin": "The Perforator",
+        "Translation": "血肉寄生者"
+      }
+    },
+    "PerforatorHeadMedium": {
+      "Name": {
+        "Origin": "The Perforator",
+        "Translation": "血肉寄生者"
+      }
+    },
+    "PerforatorHeadSmall": {
+      "Name": {
+        "Origin": "The Perforator",
+        "Translation": "血肉寄生者"
+      }
+    },
+    "PerforatorHive": {
+      "Name": {
+        "Origin": "The Perforator Hive",
+        "Translation": "血肉宿主"
+      }
+    },
+    "PerforatorTailLarge": {
+      "Name": {
+        "Origin": "The Perforator",
+        "Translation": "血肉寄生者"
+      }
+    },
+    "PerforatorTailMedium": {
+      "Name": {
+        "Origin": "The Perforator",
+        "Translation": "血肉寄生者"
+      }
+    },
+    "PerforatorTailSmall": {
+      "Name": {
+        "Origin": "The Perforator",
+        "Translation": "血肉寄生者"
+      }
+    },
+    "PlagueBeeG": {
+      "Name": {
+        "Origin": "Plague Charger",
+        "Translation": "瘟疫蜜蜂"
+      }
+    },
+    "PlagueBeeLargeG": {
+      "Name": {
+        "Origin": "Plague Charger",
+        "Translation": "瘟疫蜜蜂"
+      }
+    },
+    "PlaguebringerGoliath": {
+      "Name": {
+        "Origin": "The Plaguebringer Goliath",
+        "Translation": "瘟疫使者歌莉娅"
+      }
+    },
+    "PlaguebringerShade": {
+      "Name": {
+        "Origin": "Plaguebringer",
+        "Translation": "瘟疫使者"
+      }
+    },
+    "PlagueHomingMissile": {
+      "Name": {
+        "Origin": "Plague Homing Missile",
+        "Translation": "制导瘟疫飞弹"
+      }
+    },
+    "PlagueMine": {
+      "Name": {
+        "Origin": "Plague Mine",
+        "Translation": "瘟疫之雷"
+      }
+    },
+    "PhantomFuckYou": {
+      "Name": {
+        "Origin": "Phantom",
+        "Translation": "幽花之灵"
+      }
+    },
+    "Polterghast": {
+      "Name": {
+        "Origin": "Polterghast",
+        "Translation": "噬魂幽花"
+      }
+    },
+    "PolterghastHook": {
+      "Name": {
+        "Origin": "Polterghast Hook",
+        "Translation": "幽花触爪"
+      }
+    },
+    "PolterPhantom": {
+      "Name": {
+        "Origin": "Polterghast",
+        "Translation": "噬魂幽花"
+      }
+    },
+    "ProfanedGuardianBoss": {
+      "Name": {
+        "Origin": "Profaned Guardian",
+        "Translation": "亵渎守卫"
+      }
+    },
+    "ProfanedGuardianBoss2": {
+      "Name": {
+        "Origin": "Profaned Guardian",
+        "Translation": "亵渎守卫"
+      }
+    },
+    "ProfanedGuardianBoss3": {
+      "Name": {
+        "Origin": "Profaned Guardian",
+        "Translation": "亵渎守卫"
+      }
+    },
+    "Providence": {
+      "Name": {
+        "Origin": "Providence, the Profaned Goddess",
+        "Translation": "亵渎天神 普罗维登斯"
+      }
+    },
+    "ProvSpawnDefense": {
+      "Name": {
+        "Origin": "A Profaned Guardian",
+        "Translation": "亵渎守卫"
+      }
+    },
+    "ProvSpawnHealer": {
+      "Name": {
+        "Origin": "A Profaned Guardian",
+        "Translation": "亵渎守卫"
+      }
+    },
+    "ProvSpawnOffense": {
+      "Name": {
+        "Origin": "A Profaned Guardian",
+        "Translation": "亵渎守卫"
+      }
+    },
+    "FlamePillar": {
+      "Name": {
+        "Origin": "Flame Pillar",
+        "Translation": "火焰柱"
+      }
+    },
+    "RavagerBody": {
+      "Name": {
+        "Origin": "Ravager",
+        "Translation": "毁灭魔像"
+      }
+    },
+    "RavagerClawLeft": {
+      "Name": {
+        "Origin": "Ravager",
+        "Translation": "毁灭魔像"
+      }
+    },
+    "RavagerClawRight": {
+      "Name": {
+        "Origin": "Ravager",
+        "Translation": "毁灭魔像"
+      }
+    },
+    "RavagerHead": {
+      "Name": {
+        "Origin": "Ravager",
+        "Translation": "毁灭魔像"
+      }
+    },
+    "RavagerHead2": {
+      "Name": {
+        "Origin": "Ravager",
+        "Translation": "毁灭魔像"
+      }
+    },
+    "RavagerLegLeft": {
+      "Name": {
+        "Origin": "Ravager",
+        "Translation": "毁灭魔像"
+      }
+    },
+    "RavagerLegRight": {
+      "Name": {
+        "Origin": "Ravager",
+        "Translation": "毁灭魔像"
+      }
+    },
+    "RockPillar": {
+      "Name": {
+        "Origin": "Rock Pillar",
+        "Translation": "石元柱"
+      }
+    },
+    "CosmicLantern": {
+      "Name": {
+        "Origin": "Cosmic Lantern",
+        "Translation": "无限灯笼"
+      }
+    },
+    "Signus": {
+      "Name": {
+        "Origin": "Signus, Envoy of the Devourer",
+        "Translation": "神之使徒西格纳斯"
+      }
+    },
+    "SignusBomb": {
+      "Name": {
+        "Origin": "Cosmic Mine",
+        "Translation": "星界雷"
+      }
+    },
+    "SlimeGod": {
+      "Name": {
+        "Origin": "Ebonian Slime God",
+        "Translation": "黑檀史莱姆"
+      }
+    },
+    "SlimeGodCore": {
+      "Name": {
+        "Origin": "The Slime God",
+        "Translation": "史莱姆之神"
+      }
+    },
+    "SlimeGodRun": {
+      "Name": {
+        "Origin": "Crimulan Slime God",
+        "Translation": "血化史莱姆"
+      }
+    },
+    "SlimeGodRunSplit": {
+      "Name": {
+        "Origin": "Crimulan Slime God",
+        "Translation": "血化史莱姆"
+      }
+    },
+    "SlimeGodSplit": {
+      "Name": {
+        "Origin": "Ebonian Slime God",
+        "Translation": "黑檀史莱姆"
+      }
+    },
+    "SlimeSpawnCorrupt": {
+      "Name": {
+        "Origin": "Corrupt Slime Spawn",
+        "Translation": "腐化史莱姆"
+      }
+    },
+    "SlimeSpawnCorrupt2": {
+      "Name": {
+        "Origin": "Corrupt Slime Spawn",
+        "Translation": "腐化史莱姆"
+      }
+    },
+    "SlimeSpawnCrimson": {
+      "Name": {
+        "Origin": "Crimson Slime Spawn",
+        "Translation": "血腥史莱姆"
+      }
+    },
+    "SlimeSpawnCrimson2": {
+      "Name": {
+        "Origin": "Crimson Slime Spawn",
+        "Translation": "尖刺血腥史莱姆"
+      }
+    },
+    "StasisProbe": {
+      "Name": {
+        "Origin": "Stasis Probe",
+        "Translation": "风暴探测器"
+      }
+    },
+    "StasisProbeNaked": {
+      "Name": {
+        "Origin": "Stasis Probe",
+        "Translation": "风暴探测器"
+      }
+    },
+    "StormWeaverBody": {
+      "Name": {
+        "Origin": "Storm Weaver",
+        "Translation": "风暴编织者"
+      }
+    },
+    "StormWeaverBodyNaked": {
+      "Name": {
+        "Origin": "Storm Weaver",
+        "Translation": "风暴编织者"
+      }
+    },
+    "StormWeaverHead": {
+      "Name": {
+        "Origin": "Storm Weaver",
+        "Translation": "风暴编织者"
+      }
+    },
+    "StormWeaverHeadNaked": {
+      "Name": {
+        "Origin": "Storm Weaver",
+        "Translation": "风暴编织者"
+      }
+    },
+    "StormWeaverTail": {
+      "Name": {
+        "Origin": "Storm Weaver",
+        "Translation": "风暴编织者"
+      }
+    },
+    "StormWeaverTailNaked": {
+      "Name": {
+        "Origin": "Storm Weaver",
+        "Translation": "风暴编织者"
+      }
+    },
+    "BlindedAngler": {
+      "Name": {
+        "Origin": "Blinded Angler",
+        "Translation": "盲鮟鱇"
+      }
+    },
+    "Clam": {
+      "Name": {
+        "Origin": "Clam",
+        "Translation": "蛤"
+      }
+    },
+    "EutrophicRay": {
+      "Name": {
+        "Origin": "Eutrophic Ray",
+        "Translation": "富养剑鱼"
+      }
+    },
+    "GhostBell": {
+      "Name": {
+        "Origin": "Ghost Bell",
+        "Translation": "鬼铃水母"
+      }
+    },
+    "GhostBellSmall": {
+      "Name": {
+        "Origin": "Baby Ghost Bell",
+        "Translation": "小鬼铃水母"
+      }
+    },
+    "GiantClam": {
+      "Name": {
+        "Origin": "Giant Clam",
+        "Translation": "巨像蛤"
+      }
+    },
+    "PrismTurtle": {
+      "Name": {
+        "Origin": "Prism-Back",
+        "Translation": "棱晶背龟"
+      }
+    },
+    "SeaFloaty": {
+      "Name": {
+        "Origin": "Sea Floaty",
+        "Translation": "海蜉蝣"
+      }
+    },
+    "SeaMinnow": {
+      "Name": {
+        "Origin": "Sea Minnow",
+        "Translation": "海洋米诺鱼"
+      }
+    },
+    "SeaSerpent1": {
+      "Name": {
+        "Origin": "Sea Serpent",
+        "Translation": "深海巨蛇"
+      }
+    },
+    "SeaSerpent2": {
+      "Name": {
+        "Origin": "Sea Serpent",
+        "Translation": "深海巨蛇"
+      }
+    },
+    "SeaSerpent3": {
+      "Name": {
+        "Origin": "Sea Serpent",
+        "Translation": "深海巨蛇"
+      }
+    },
+    "SeaSerpent4": {
+      "Name": {
+        "Origin": "Sea Serpent",
+        "Translation": "深海巨蛇"
+      }
+    },
+    "SeaSerpent5": {
+      "Name": {
+        "Origin": "Sea Serpent",
+        "Translation": "深海巨蛇"
+      }
+    },
+    "SCalWormBody": {
+      "Name": {
+        "Origin": "Sepulcher",
+        "Translation": "灾坟虫"
+      }
+    },
+    "SCalWormBodyWeak": {
+      "Name": {
+        "Origin": "Brimstone Heart",
+        "Translation": "灾坟虫"
+      }
+    },
+    "SCalWormHead": {
+      "Name": {
+        "Origin": "Sepulcher",
+        "Translation": "灾坟虫"
+      }
+    },
+    "SCalWormHeart": {
+      "Name": {
+        "Origin": "Brimstone Heart",
+        "Translation": "硫磺火心"
+      }
+    },
+    "SCalWormTail": {
+      "Name": {
+        "Origin": "Sepulcher",
+        "Translation": "灾坟虫"
+      }
+    },
+    "SoulSeekerSupreme": {
+      "Name": {
+        "Origin": "Soul Seeker",
+        "Translation": "至尊探魂眼"
+      }
+    },
+    "SupremeCalamitas": {
+      "Name": {
+        "Origin": "Supreme Calamitas",
+        "Translation": "至尊灾厄眼"
+      }
+    },
+    "SupremeCataclysm": {
+      "Name": {
+        "Origin": "Cataclysm",
+        "Translation": "至尊灾祸"
+      }
+    },
+    "SupremeCatastrophe": {
+      "Name": {
+        "Origin": "Catastrophe",
+        "Translation": "至尊灾难"
+      }
+    },
+    "DILF": {
+      "Name": {
+        "Origin": "Archmage",
+        "Translation": "大魔法师"
+      }
+    },
+    "FAP": {
+      "Name": {
+        "Origin": "Drunk Princess",
+        "Translation": "醉仙女"
+      }
+    },
+    "SEAHOE": {
+      "Name": {
+        "Origin": "Sea King",
+        "Translation": "海王"
+      }
+    },
+    "THIEF": {
+      "Name": {
+        "Origin": "Bandit",
+        "Translation": "强盗"
+      }
+    },
+    "DetonatingFlare": {
+      "Name": {
+        "Origin": "Detonating Flame",
+        "Translation": "爆裂火焰"
+      }
+    },
+    "DetonatingFlare2": {
+      "Name": {
+        "Origin": "Detonating Flame",
+        "Translation": "爆裂火焰"
+      }
+    },
+    "Yharon": {
+      "Name": {
+        "Origin": "Jungle Dragon, Yharon",
+        "Translation": "丛林龙，犽戎"
+      }
+    },
+    "AnthozoanCrab": {
+      "Name": {
+        "Origin": "Anthozoan Crab",
+        "Translation": "珊瑚蟹"
+      }
+    },
+    "BelchingCoral": {
+      "Name": {
+        "Origin": "Belching Coral",
+        "Translation": "喷嗝珊瑚"
+      }
+    },
+    "DevilFishAlt": {
+      "Name": {
+        "Origin": "Devil Fish",
+        "Translation": "魔鬼鱼"
+      }
+    },
+    "AcidEel": {
+      "Name": {
+        "Origin": "Acid Eel",
+        "Translation": "酸水鳗"
+      }
+    },
+    "BloodwormFleeing": {
+      "Name": {
+        "Origin": "Bloodworm",
+        "Translation": "血蠕虫"
+      }
+    },
+    "BloodwormNormal": {
+      "Name": {
+        "Origin": "Bloodworm",
+        "Translation": "血蠕虫"
+      }
+    },
+    "CragmawMire": {
+      "Name": {
+        "Origin": "Cragmaw Mire",
+        "Translation": "峭咽潭"
+      }
+    },
+    "FlakBaby": {
+      "Name": {
+        "Origin": "Baby Flak Crab",
+        "Translation": "小高口蟹"
+      }
+    },
+    "FlakCrab": {
+      "Name": {
+        "Origin": "Flak Crab",
+        "Translation": "高口蟹"
+      }
+    },
+    "GammaSlime": {
+      "Name": {
+        "Origin": "Gamma Slime",
+        "Translation": "伽马史莱姆"
+      }
+    },
+    "NuclearTerror": {
+      "Name": {
+        "Origin": "Nuclear Terror",
+        "Translation": "辐核骇兽"
+      }
+    },
+    "NuclearToad": {
+      "Name": {
+        "Origin": "Nuclear Toad",
+        "Translation": "辐核蟾蜍"
+      }
+    },
+    "Orthocera": {
+      "Name": {
+        "Origin": "Orthocera",
+        "Translation": "直角石"
+      }
+    },
+    "Skyfin": {
+      "Name": {
+        "Origin": "Skyfin",
+        "Translation": "天鳍鱼"
+      }
+    },
+    "SulfurousSkater": {
+      "Name": {
+        "Origin": "Sulphurous Skater",
+        "Translation": "硫海爬虫"
+      }
+    },
+    "Trilobite": {
+      "Name": {
+        "Origin": "Trilobite",
+        "Translation": "三叶虫"
+      }
+    },
+    "WaterLeech": {
+      "Name": {
+        "Origin": "Water Leech",
+        "Translation": "水蛭"
+      }
+    },
+    "SuperDummyNPC": {
+      "Name": {
+        "Origin": "Super Dummy",
+        "Translation": "大草人"
+      }
+    },
+    "OldDuke": {
+      "Name": {
+        "Origin": "The Old Duke",
+        "Translation": "硫海遗爵"
+      }
+    },
+    "OldDukeSharkron": {
+      "Name": {
+        "Origin": "Sulphurous Sharkron",
+        "Translation": "硫海龙鲨"
+      }
+    },
+    "OldDukeToothBall": {
+      "Name": {
+        "Origin": "Tooth Ball",
+        "Translation": "鲨牙刺球"
+      }
+    },
+    "MicrobialCluster": {
+      "Name": {
+        "Origin": "Microbial Cluster",
+        "Translation": "微生物群"
+      }
+    }
+  }
+}

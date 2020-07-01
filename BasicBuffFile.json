@@ -1,0 +1,2694 @@
+{
+  "Buffs": {
+    "AlcoholPoisoning": {
+      "Name": {
+        "Origin": "Alcohol Poisoning",
+        "Translation": "酒精中毒"
+      },
+      "Description": {
+        "Origin": "You drank too much and you are now dying",
+        "Translation": "你饮酒过量，代谢紊乱，气息奄奄"
+      }
+    },
+    "BloodyMaryBuff": {
+      "Name": {
+        "Origin": "Bloody Mary",
+        "Translation": "血腥玛丽"
+      },
+      "Description": {
+        "Origin": "Damage, critical strike chance, movement speed, and melee speed boosted during a Blood Moon, life regen and defense reduced",
+        "Translation": "血月时，伤害、暴击率、移动速度和近战攻速提升，生命恢复速度和防御力降低"
+      }
+    },
+    "CaribbeanRumBuff": {
+      "Name": {
+        "Origin": "Caribbean Rum",
+        "Translation": "加勒比朗姆酒"
+      },
+      "Description": {
+        "Origin": "Life regen, movement speed, and wing flight time boosted, you are floaty and defense is reduced",
+        "Translation": "生命恢复速度、移动速度、翅膀飞行时间提升，获得漂浮能力，防御力降低"
+      }
+    },
+    "CinnamonRollBuff": {
+      "Name": {
+        "Origin": "Cinnamon Roll",
+        "Translation": "肉桂威士忌"
+      },
+      "Description": {
+        "Origin": "Mana regen rate and fire weapon damage boosted, defense reduced",
+        "Translation": "魔力恢复速度增加，火属性武器伤害提升，防御力降低"
+      }
+    },
+    "EverclearBuff": {
+      "Name": {
+        "Origin": "Everclear",
+        "Translation": "谷酒"
+      },
+      "Description": {
+        "Origin": "25% increased damage, -10 life regen and -40 defense",
+        "Translation": "增加25%伤害，减少10每秒生命恢复值和40防御力"
+      }
+    },
+    "EvergreenGinBuff": {
+      "Name": {
+        "Origin": "Evergreen Gin",
+        "Translation": "常青松子酒"
+      },
+      "Description": {
+        "Origin": "Nature-based weapon damage and damage reduction boosted, life regen reduced",
+        "Translation": "自然属性武器伤害提升，增加伤害减免，降低生命恢复速度"
+      }
+    },
+    "FabsolVodkaBuff": {
+      "Name": {
+        "Origin": "Fab",
+        "Translation": "Fabsol伏特加"
+      },
+      "Description": {
+        "Origin": "You feel fabulous",
+        "Translation": "你体会到了一种难以置信的美妙"
+      }
+    },
+    "FireballBuff": {
+      "Name": {
+        "Origin": "Fireball",
+        "Translation": "火龙酒"
+      },
+      "Description": {
+        "Origin": "Fire weapon damage boosted, life regen reduced",
+        "Translation": "火属性武器伤害提升，降低生命恢复速度"
+      }
+    },
+    "GrapeBeerBuff": {
+      "Name": {
+        "Origin": "Grape Beer",
+        "Translation": "葡萄啤酒"
+      },
+      "Description": {
+        "Origin": "Defense and movement speed reduced",
+        "Translation": "降低防御力和移动速度"
+      }
+    },
+    "MargaritaBuff": {
+      "Name": {
+        "Origin": "Margarita",
+        "Translation": "玛格丽塔酒"
+      },
+      "Description": {
+        "Origin": "Reduced duration to most debuffs, defense and life regen reduced",
+        "Translation": "减少绝大部分减益的持续时间，防御力和生命恢复速度降低。"
+      }
+    },
+    "MoonshineBuff": {
+      "Name": {
+        "Origin": "Moonshine",
+        "Translation": "摩闪酒"
+      },
+      "Description": {
+        "Origin": "Defense and damage reduction boosted, life regen reduced",
+        "Translation": "提升防御力和伤害减免，降低生命恢复速度"
+      }
+    },
+    "MoscowMuleBuff": {
+      "Name": {
+        "Origin": "Moscow Mule",
+        "Translation": "莫斯科骡子"
+      },
+      "Description": {
+        "Origin": "Damage, critical strike chance, and knockback boosted, life regen reduced",
+        "Translation": "提升伤害、暴击率和武器击退，降低生命恢复速度"
+      }
+    },
+    "RedWineBuff": {
+      "Name": {
+        "Origin": "Red Wine",
+        "Translation": "红葡萄酒"
+      },
+      "Description": {
+        "Origin": "Life regen reduced",
+        "Translation": "生命恢复速度降低"
+      }
+    },
+    "RumBuff": {
+      "Name": {
+        "Origin": "Rum",
+        "Translation": "朗姆酒"
+      },
+      "Description": {
+        "Origin": "Movement speed and life regen boosted, defense reduced",
+        "Translation": "增加移动速度和生命恢复速度，降低防御力"
+      }
+    },
+    "ScrewdriverBuff": {
+      "Name": {
+        "Origin": "Screwdriver",
+        "Translation": "螺丝起子"
+      },
+      "Description": {
+        "Origin": "Piercing projectile damage boosted, life regen reduced",
+        "Translation": "增加穿透弹幕伤害，降低生命恢复速度"
+      }
+    },
+    "StarBeamRyeBuff": {
+      "Name": {
+        "Origin": "Star Beam Rye",
+        "Translation": "星流黑麦威士忌"
+      },
+      "Description": {
+        "Origin": "Max mana and magic damage increased. Defense, mana usage, and life regen reduced",
+        "Translation": "增加最大魔力值和魔法伤害，降低防御力、魔力值消耗和生命恢复速度"
+      }
+    },
+    "TequilaBuff": {
+      "Name": {
+        "Origin": "Tequila",
+        "Translation": "龙舌兰酒"
+      },
+      "Description": {
+        "Origin": "Damage, critical strike chance, damage reduction, defense, and knockback boosted during daytime, life regen reduced",
+        "Translation": "在白天增加伤害、暴击率、伤害减免、防御力和武器击退，降低生命恢复速度"
+      }
+    },
+    "TequilaSunriseBuff": {
+      "Name": {
+        "Origin": "Tequila Sunrise",
+        "Translation": "龙舌兰日出"
+      },
+      "Description": {
+        "Origin": "Damage, critical strike chance, damage reduction, defense, and knockback boosted during daytime, life regen reduced",
+        "Translation": "在白天增加伤害、暴击率、伤害减免、防御力和武器击退，降低生命恢复速度"
+      }
+    },
+    "Trippy": {
+      "Name": {
+        "Origin": "Trippy",
+        "Translation": "幻菇中毒"
+      },
+      "Description": {
+        "Origin": "You see the world for what it truly is...and you also have a 50% increase to all damage",
+        "Translation": "于迷糊间见世界本质……同时增加50%伤害"
+      }
+    },
+    "VodkaBuff": {
+      "Name": {
+        "Origin": "Vodka",
+        "Translation": "伏特加"
+      },
+      "Description": {
+        "Origin": "Damage and critical stike chance boosted, defense and life regen reduced",
+        "Translation": "增加伤害和暴击率，降低防御力和生命恢复速度"
+      }
+    },
+    "WhiskeyBuff": {
+      "Name": {
+        "Origin": "Whiskey",
+        "Translation": "威士忌"
+      },
+      "Description": {
+        "Origin": "Damage, critical strike chance, and knockback boosted, defense reduced",
+        "Translation": "增加伤害、暴击率和武器击退，降低防御力"
+      }
+    },
+    "WhiteWineBuff": {
+      "Name": {
+        "Origin": "White Wine",
+        "Translation": "白酒"
+      },
+      "Description": {
+        "Origin": "Magic damage boosted, life regen and defense reduced",
+        "Translation": "增加魔法伤害，降低生命恢复速度和防御力"
+      }
+    },
+    "AbyssalDivingSuitPlatesBroken": {
+      "Name": {
+        "Origin": "Abyssal Diving Suit Plates Broken",
+        "Translation": "深渊潜游服外壳破损"
+      },
+      "Description": {
+        "Origin": "The plates are regenerating",
+        "Translation": "外壳金属正在自我修复中"
+      }
+    },
+    "AbyssalMadnessCooldown": {
+      "Name": {
+        "Origin": "Abyssal Madness Cooldown",
+        "Translation": "深渊狂乱冷却"
+      },
+      "Description": {
+        "Origin": "Your abyssal madness is recharging",
+        "Translation": "深渊狂乱效果正在蓄能"
+      }
+    },
+    "AbyssalMirrorCooldown": {
+      "Name": {
+        "Origin": "Abyssal Evade Cooldown",
+        "Translation": "深渊影遁冷却"
+      },
+      "Description": {
+        "Origin": "Your Abyssal Mirror's dodge is recharging",
+        "Translation": "深渊之镜的免伤效果正在恢复"
+      }
+    },
+    "BloodflareBloodFrenzyCooldown": {
+      "Name": {
+        "Origin": "Blood Frenzy Cooldown",
+        "Translation": "鲜血狂怒冷却"
+      },
+      "Description": {
+        "Origin": "Your blood frenzy is recharging",
+        "Translation": "鲜血狂怒效果正在蓄能"
+      }
+    },
+    "BloodflareSoulCooldown": {
+      "Name": {
+        "Origin": "Bloodflare Soul Cooldown",
+        "Translation": "幽火游魂冷却"
+      },
+      "Description": {
+        "Origin": "Your souls are recharging",
+        "Translation": "幽火游魂正在你的身边聚集"
+      }
+    },
+    "ConcoctionCooldown": {
+      "Name": {
+        "Origin": "Concoction Cooldown",
+        "Translation": "秘药冷却"
+      },
+      "Description": {
+        "Origin": "Revive is recharging",
+        "Translation": "复活能力正在恢复"
+      }
+    },
+    "DraconicSurgeCooldown": {
+      "Name": {
+        "Origin": "Draconic Surge Cooldown",
+        "Translation": "龙魂加持冷却"
+      },
+      "Description": {
+        "Origin": "A mysterious force prevents the absorption of draconic energy",
+        "Translation": "一股奇异的力量阻止你继续吸收神龙的加护"
+      }
+    },
+    "EclipseMirrorCooldown": {
+      "Name": {
+        "Origin": "Eclipse Evade Cooldown",
+        "Translation": "日蚀隐遁冷却"
+      },
+      "Description": {
+        "Origin": "Your Eclipse Mirror's dodge is recharging",
+        "Translation": "日蚀之镜的暗日爆炸正在蓄能"
+      }
+    },
+    "FleshTotemCooldown": {
+      "Name": {
+        "Origin": "Flesh Totem Cooldown",
+        "Translation": "血肉图腾冷却"
+      },
+      "Description": {
+        "Origin": "The Flesh Totem effect is recharging",
+        "Translation": "血肉图腾的接触伤害降低效果正在恢复"
+      }
+    },
+    "GodSlayerCooldown": {
+      "Name": {
+        "Origin": "God Slayer Cooldown",
+        "Translation": "神弑者之停息"
+      },
+      "Description": {
+        "Origin": "10% increase to all damage; godslayer effect is recharging",
+        "Translation": "增加10%伤害，弑神者盔甲效果正在恢复"
+      }
+    },
+    "IceShieldBrokenBuff": {
+      "Name": {
+        "Origin": "Ice Shield Cooldown",
+        "Translation": "冰盾冷却"
+      },
+      "Description": {
+        "Origin": "The shield is regenerating",
+        "Translation": "冰盾正在重新凝结"
+      }
+    },
+    "InkBombCooldown": {
+      "Name": {
+        "Origin": "Ink Bomb Cooldown",
+        "Translation": "墨水炸弹冷却"
+      },
+      "Description": {
+        "Origin": "Your Ink Bomb is recharging",
+        "Translation": "墨水炸弹效果正在恢复"
+      }
+    },
+    "SandCloakCooldown": {
+      "Name": {
+        "Origin": "Sand Cloak Cooldown",
+        "Translation": "沙尘斗篷冷却"
+      },
+      "Description": {
+        "Origin": "Your Sand Cloak is recharging",
+        "Translation": "沙尘斗篷效果正在恢复"
+      }
+    },
+    "ScarfCooldown": {
+      "Name": {
+        "Origin": "Scarf Cooldown",
+        "Translation": "围巾冷却"
+      },
+      "Description": {
+        "Origin": "Your dodge is recharging",
+        "Translation": "冲刺免伤效果正在恢复"
+      }
+    },
+    "TarragonCloakCooldown": {
+      "Name": {
+        "Origin": "Tarragon Cloak Cooldown",
+        "Translation": "龙蒿披风效果冷却"
+      },
+      "Description": {
+        "Origin": "Your cloak is recharging",
+        "Translation": "龙蒿披风的接触伤害降低效果正在恢复"
+      }
+    },
+    "TarragonImmunityCooldown": {
+      "Name": {
+        "Origin": "Tarragon Immunity Cooldown",
+        "Translation": "龙蒿无敌冷却"
+      },
+      "Description": {
+        "Origin": "Your immunity is recharging",
+        "Translation": "龙蒿无敌效果正在蓄能"
+      }
+    },
+    "AbyssalFlames": {
+      "Name": {
+        "Origin": "Abyssal Flames",
+        "Translation": "深渊之火"
+      },
+      "Description": {
+        "Origin": "Your soul is being consumed",
+        "Translation": "你的灵魂正在毁灭"
+      }
+    },
+    "AstralInfectionDebuff": {
+      "Name": {
+        "Origin": "Astral Infection",
+        "Translation": "幻星感染"
+      },
+      "Description": {
+        "Origin": "Your flesh is melting off",
+        "Translation": "你的血肉正在被幻星熔蚀"
+      }
+    },
+    "BrimstoneFlames": {
+      "Name": {
+        "Origin": "Brimstone Flames",
+        "Translation": "硫磺火"
+      },
+      "Description": {
+        "Origin": "Rapid health loss",
+        "Translation": "生命快速流失"
+      }
+    },
+    "BurningBlood": {
+      "Name": {
+        "Origin": "Burning Blood",
+        "Translation": "血液沸腾"
+      },
+      "Description": {
+        "Origin": "Your blood is on fire",
+        "Translation": "你的血液沸腾了"
+      }
+    },
+    "CragsLava": {
+      "Name": {
+        "Origin": "Searing Lava",
+        "Translation": "硫焰灼烧"
+      },
+      "Description": {
+        "Origin": "The brimstone lava sears your flesh",
+        "Translation": "硫磺火岩浆的烧灼难以承受"
+      }
+    },
+    "CrushDepth": {
+      "Name": {
+        "Origin": "Crush Depth",
+        "Translation": "深渊水压"
+      },
+      "Description": {
+        "Origin": "Aquatic pressure",
+        "Translation": "深海压强似乎作用于身"
+      }
+    },
+    "DemonFlames": {
+      "Name": {
+        "Origin": "Demon Flames",
+        "Translation": "恶魔之炎"
+      },
+      "Description": {
+        "Origin": "Another burning debuff",
+        "Translation": "来自异界的恐怖燃烧减益"
+      }
+    },
+    "GodSlayerInferno": {
+      "Name": {
+        "Origin": "God Slayer Inferno",
+        "Translation": "神弑者之怒焰"
+      },
+      "Description": {
+        "Origin": "Your flesh is burning off",
+        "Translation": "你的血肉在燃烧"
+      }
+    },
+    "HolyFlames": {
+      "Name": {
+        "Origin": "Holy Flames",
+        "Translation": "神圣之火"
+      },
+      "Description": {
+        "Origin": "Dissolving from holy light",
+        "Translation": "神圣之光正将你焚化"
+      }
+    },
+    "HolyInferno": {
+      "Name": {
+        "Origin": "Holy Inferno",
+        "Translation": "圣狱神火"
+      },
+      "Description": {
+        "Origin": "You've gone too far from the Profaned Goddess!",
+        "Translation": "你离亵渎天神太远了！"
+      }
+    },
+    "LethalLavaBurn": {
+      "Name": {
+        "Origin": "Lethal Lava Burn",
+        "Translation": "致命岩浆灼烧"
+      },
+      "Description": {
+        "Origin": "Losing life",
+        "Translation": "生命流失"
+      }
+    },
+    "Nightwither": {
+      "Name": {
+        "Origin": "Nightwither",
+        "Translation": "夜魇"
+      },
+      "Description": {
+        "Origin": "Incinerated by lunar rays",
+        "Translation": "被月之射线瓦解"
+      }
+    },
+    "Plague": {
+      "Name": {
+        "Origin": "Plague",
+        "Translation": "瘟疫"
+      },
+      "Description": {
+        "Origin": "Rotting from the inside",
+        "Translation": "从内部腐烂"
+      }
+    },
+    "Shadowflame": {
+      "Name": {
+        "Origin": "Shadowflame",
+        "Translation": "暗影焰"
+      },
+      "Description": {
+        "Origin": "Losing life",
+        "Translation": "失去生命"
+      }
+    },
+    "ShellfishEating": {
+      "Name": {
+        "Origin": "Shellfish Claps",
+        "Translation": "贝壳痛咬"
+      },
+      "Description": {
+        "Origin": "Clamfest",
+        "Translation": "一顿大餐"
+      }
+    },
+    "Shred": {
+      "Name": {
+        "Origin": "Shred",
+        "Translation": "解离"
+      },
+      "Description": {
+        "Origin": "Blood",
+        "Translation": "血"
+      }
+    },
+    "SnapClamDebuff": {
+      "Name": {
+        "Origin": "Clammed",
+        "Translation": "扇贝轻夹"
+      },
+      "Description": {
+        "Origin": "Clam clap",
+        "Translation": "扇贝轻夹"
+      }
+    },
+    "SulphuricPoisoning": {
+      "Name": {
+        "Origin": "Sulphuric Poisoning",
+        "Translation": "硫磺海剧毒"
+      },
+      "Description": {
+        "Origin": "The acidic water burns away your flesh",
+        "Translation": "有毒的硫磺海水正在烧灼你的皮肤"
+      }
+    },
+    "Vaporfied": {
+      "Name": {
+        "Origin": "Vaporfied",
+        "Translation": "蒸汽波"
+      },
+      "Description": {
+        "Origin": "Vape",
+        "Translation": "蒸汽波是极美的"
+      }
+    },
+    "VulnerabilityHex": {
+      "Name": {
+        "Origin": "Vulnerability Hex",
+        "Translation": "孱弱巫咒"
+      },
+      "Description": {
+        "Origin": "You are weak",
+        "Translation": "你很虚弱"
+      }
+    },
+    "AlicornBuff": {
+      "Name": {
+        "Origin": "Alicorn",
+        "Translation": "彩虹小马"
+      },
+      "Description": {
+        "Origin": "You beat DoG while drunk, you are truly fabulous!",
+        "Translation": "你喝高了还打败了神长直，心朗气清，足以畅叙幽情！"
+      }
+    },
+    "BrimstoneMount": {
+      "Name": {
+        "Origin": "Brimrose Mount",
+        "Translation": "硫火玫瑰坐骑"
+      },
+      "Description": {
+        "Origin": "The seat is toasty.  That is all",
+        "Translation": "坐着温暖舒适。那就足够了"
+      }
+    },
+    "GazeOfCrysthamyrBuff": {
+      "Name": {
+        "Origin": "Gaze of Crysthamyr",
+        "Translation": "克里斯塔米尔的凝视"
+      },
+      "Description": {
+        "Origin": "You are riding a shadow dragon",
+        "Translation": "你骑着一只暗影飞龙"
+      }
+    },
+    "OnyxExcavatorBuff": {
+      "Name": {
+        "Origin": "Onyx Excavator",
+        "Translation": "玛瑙挖掘钻"
+      },
+      "Description": {
+        "Origin": "Drill",
+        "Translation": "钻头"
+      }
+    },
+    "SquishyBeanBuff": {
+      "Name": {
+        "Origin": "Squishy Bean",
+        "Translation": "可疑果冻豆"
+      },
+      "Description": {
+        "Origin": "BEAN MAN. BEAN DO T H E  B EA N IS HER E",
+        "Translation": "BEAN MAN. BEAN DO T H E  B EA N IS HER E"
+      }
+    },
+    "TundraLeashBuff": {
+      "Name": {
+        "Origin": "Angry Dog",
+        "Translation": "愤怒雪狗"
+      },
+      "Description": {
+        "Origin": "You are riding an angry dog",
+        "Translation": "你正驾驭着愤怒雪狗"
+      }
+    },
+    "AkatoYharonBuff": {
+      "Name": {
+        "Origin": "Akato",
+        "Translation": "阿卡托"
+      },
+      "Description": {
+        "Origin": "Looks like you'll have to take care of it now",
+        "Translation": "看起来你现在应该好好照顾这只小龙"
+      }
+    },
+    "AstrophageBuff": {
+      "Name": {
+        "Origin": "Astrophage",
+        "Translation": "噬星体"
+      },
+      "Description": {
+        "Origin": "Little astral buggy",
+        "Translation": "小小的幻星机器"
+      }
+    },
+    "BabyGhostBellBuff": {
+      "Name": {
+        "Origin": "Baby Ghost Bell",
+        "Translation": "小鬼铃水母"
+      },
+      "Description": {
+        "Origin": "Be careful not to pop the bubble",
+        "Translation": "小心不要戳破泡泡"
+      }
+    },
+    "BearBuff": {
+      "Name": {
+        "Origin": "Bear",
+        "Translation": "小熊"
+      },
+      "Description": {
+        "Origin": "A guardian angel is following you.",
+        "Translation": "守护天使正在跟着你"
+      }
+    },
+    "BloodBound": {
+      "Name": {
+        "Origin": "Blood Bound",
+        "Translation": "血肉约束"
+      },
+      "Description": {
+        "Origin": "You must be desperate for company",
+        "Translation": "它在身边陪伴，一定让你很沮丧"
+      }
+    },
+    "BrimlingBuff": {
+      "Name": {
+        "Origin": "Brimling",
+        "Translation": "小硫火灵"
+      },
+      "Description": {
+        "Origin": "Protect her or suffer in agony",
+        "Translation": "保护她或迎接苦难的折磨，二选一"
+      }
+    },
+    "ChibiiBuff": {
+      "Name": {
+        "Origin": "Chibii Devourer",
+        "Translation": "迷你吞噬者"
+      },
+      "Description": {
+        "Origin": "What? Were you expecting someone else?",
+        "Translation": "什么？你期待还能召唤出谁？"
+      }
+    },
+    "DannyDevito": {
+      "Name": {
+        "Origin": "Danny Devito",
+        "Translation": "丹尼·德维托"
+      },
+      "Description": {
+        "Origin": "The trash man is following you.",
+        "Translation": "垃圾男正在跟着你"
+      }
+    },
+    "Fox": {
+      "Name": {
+        "Origin": "Fox Pet",
+        "Translation": "狐狸宠物"
+      },
+      "Description": {
+        "Origin": "Fox Pet? FOX PET",
+        "Translation": "狐狸宠物？\n狐 狸"
+      }
+    },
+    "FurtasticDuoBuff": {
+      "Name": {
+        "Origin": "Furtastic Duo",
+        "Translation": "毛茸茸伙伴们"
+      },
+      "Description": {
+        "Origin": "They just did! The Furtastic Duo will accompany you!",
+        "Translation": "它们做到了！毛茸茸的伙伴们围在你周围"
+      }
+    },
+    "Kendra": {
+      "Name": {
+        "Origin": "Kendra",
+        "Translation": "肯德拉"
+      },
+      "Description": {
+        "Origin": "A loyal friend accompanies you.",
+        "Translation": "一位忠诚的朋友陪在你身旁"
+      }
+    },
+    "LeviBuff": {
+      "Name": {
+        "Origin": "Levi",
+        "Translation": "利维"
+      },
+      "Description": {
+        "Origin": "Small and cute",
+        "Translation": "小而可爱"
+      }
+    },
+    "RadiatorBuff": {
+      "Name": {
+        "Origin": "Radiator",
+        "Translation": "辐射海参"
+      },
+      "Description": {
+        "Origin": "Radioactive but adorable",
+        "Translation": "具放射性的可爱生物"
+      }
+    },
+    "RotomBuff": {
+      "Name": {
+        "Origin": "Electric Troublemaker",
+        "Translation": "电鬼洛托姆"
+      },
+      "Description": {
+        "Origin": "Lightning never strikes the same place twice",
+        "Translation": "闪电从不会两次击中同一个地方"
+      }
+    },
+    "SCalPetBuff": {
+      "Name": {
+        "Origin": "Supreme Calamitas",
+        "Translation": "迷你至尊灾厄眼"
+      },
+      "Description": {
+        "Origin": "Watching over you with supreme calamitous energy... How adorable",
+        "Translation": "她以那充盈着灾难性能量的目光注视着你... 真是可爱"
+      }
+    },
+    "SirenLightPetBuff": {
+      "Name": {
+        "Origin": "Young Siren",
+        "Translation": "萝莉塞壬"
+      },
+      "Description": {
+        "Origin": "Small and cute",
+        "Translation": "音轻体柔，小巧玲珑\n但有时会变成……咸鱼？"
+      }
+    },
+    "ThirdSageBuff": {
+      "Name": {
+        "Origin": "Third Sage",
+        "Translation": "第三贤者"
+      },
+      "Description": {
+        "Origin": "Eh? No way it's an oni.",
+        "Translation": "额，这不可能是鬼"
+      }
+    },
+    "BlueSpeedCandle": {
+      "Name": {
+        "Origin": "Limber",
+        "Translation": "敏捷"
+      },
+      "Description": {
+        "Origin": "The floating flame seems to uplift your very spirit",
+        "Translation": "飘浮着的火焰让你的灵魂升华"
+      }
+    },
+    "ChaosCandleBuff": {
+      "Name": {
+        "Origin": "Chaos Candle",
+        "Translation": "混乱蜡烛"
+      },
+      "Description": {
+        "Origin": "Spawn rates around the candle are boosted!",
+        "Translation": "周围刷怪率提升！"
+      }
+    },
+    "CorruptionEffigyBuff": {
+      "Name": {
+        "Origin": "Corruption Effigy",
+        "Translation": "腐化塑像"
+      },
+      "Description": {
+        "Origin": "The corruption empowers you",
+        "Translation": "腐化之地的力量灌注双拳"
+      }
+    },
+    "CrimsonEffigyBuff": {
+      "Name": {
+        "Origin": "Crimson Effigy",
+        "Translation": "血腥塑像"
+      },
+      "Description": {
+        "Origin": "The crimson empowers you",
+        "Translation": "血腥之地的力量充盈于身"
+      }
+    },
+    "PinkHealthCandle": {
+      "Name": {
+        "Origin": "Vigor",
+        "Translation": "活力"
+      },
+      "Description": {
+        "Origin": "Its brilliant light suffuses those nearby with hope",
+        "Translation": "它耀眼的光芒给周围的人带来了希望"
+      }
+    },
+    "PurpleDefenseCandle": {
+      "Name": {
+        "Origin": "Resilience",
+        "Translation": "执念"
+      },
+      "Description": {
+        "Origin": "Neither rain nor wind can snuff its undying flame",
+        "Translation": "暴风骤雨也无法熄灭这执着的火"
+      }
+    },
+    "TranquilityCandleBuff": {
+      "Name": {
+        "Origin": "Tranquility Candle",
+        "Translation": "宁静蜡烛"
+      },
+      "Description": {
+        "Origin": "Spawn rates around the candle are reduced!",
+        "Translation": "周围刷怪率降低！"
+      }
+    },
+    "YellowDamageCandle": {
+      "Name": {
+        "Origin": "Spite",
+        "Translation": "恶毒"
+      },
+      "Description": {
+        "Origin": "Its hateful glow flickers with ire",
+        "Translation": "它那惹人厌的火光只会激起愤怒"
+      }
+    },
+    "PopoBuff": {
+      "Name": {
+        "Origin": "Popo",
+        "Translation": "雪宝"
+      },
+      "Description": {
+        "Origin": "You are a snowman now!",
+        "Translation": "你是个雪人了！"
+      }
+    },
+    "PopoNoselessBuff": {
+      "Name": {
+        "Origin": "Noseless Popo",
+        "Translation": "没鼻子的雪宝"
+      },
+      "Description": {
+        "Origin": "Your nose has been stolen!",
+        "Translation": "你的鼻子被别人偷走了！"
+      }
+    },
+    "AbyssalWeapon": {
+      "Name": {
+        "Origin": "Abyssal Weapon",
+        "Translation": "武器灌注：深渊"
+      },
+      "Description": {
+        "Origin": "Melee weapons inflict abyssal flames, 15% increased movement speed",
+        "Translation": "近战武器造成深渊之火减益，增加15%移动速度"
+      }
+    },
+    "AnechoicCoatingBuff": {
+      "Name": {
+        "Origin": "Anechoic Coating",
+        "Translation": "吸音涂层"
+      },
+      "Description": {
+        "Origin": "Abyssal creature's detection radius reduced",
+        "Translation": "降低深渊生物侦测到你的可能性"
+      }
+    },
+    "ArmorCrumbling": {
+      "Name": {
+        "Origin": "Armor Crumbling",
+        "Translation": "护甲破裂"
+      },
+      "Description": {
+        "Origin": "Melee and rogue attacks break enemy armor",
+        "Translation": "近战和盗贼攻击会击碎敌人的护甲"
+      }
+    },
+    "ArmorShattering": {
+      "Name": {
+        "Origin": "Armor Shattering",
+        "Translation": "护甲粉碎"
+      },
+      "Description": {
+        "Origin": "Melee and rogue attacks break enemy armor",
+        "Translation": "近战和盗贼攻击会粉碎敌人的护甲"
+      }
+    },
+    "AstralInjectionBuff": {
+      "Name": {
+        "Origin": "Astral Injection",
+        "Translation": "幻星注射剂"
+      },
+      "Description": {
+        "Origin": "Extreme mana recovery",
+        "Translation": "魔力极速恢复"
+      }
+    },
+    "BaguetteBuff": {
+      "Name": {
+        "Origin": "Baguette",
+        "Translation": "法棍"
+      },
+      "Description": {
+        "Origin": "If only I knew... ~Cirrus",
+        "Translation": "如果只有我知道……～赛克斯"
+      }
+    },
+    "BloodfinBoost": {
+      "Name": {
+        "Origin": "Bloodfin Boost",
+        "Translation": "血鳍之助"
+      },
+      "Description": {
+        "Origin": "Don't let the blood get to your head",
+        "Translation": "不要让血液冲昏头脑"
+      }
+    },
+    "BoundingBuff": {
+      "Name": {
+        "Origin": "Bounding",
+        "Translation": "弹跳助力"
+      },
+      "Description": {
+        "Origin": "Increased jump height, jump speed, and fall damage resistance",
+        "Translation": "增加跳跃高度、速度和摔落伤害减免。"
+      }
+    },
+    "Cadence": {
+      "Name": {
+        "Origin": "Cadance",
+        "Translation": "韵律"
+      },
+      "Description": {
+        "Origin": "Your heart is pure",
+        "Translation": "你心灵纯净"
+      }
+    },
+    "CalciumBuff": {
+      "Name": {
+        "Origin": "Calcium",
+        "Translation": "钙质补充"
+      },
+      "Description": {
+        "Origin": "You are immune to fall damage",
+        "Translation": "你免疫摔落伤害"
+      }
+    },
+    "CeaselessHunger": {
+      "Name": {
+        "Origin": "Ceaseless Hunger",
+        "Translation": "无尽空虚"
+      },
+      "Description": {
+        "Origin": "You are sucking up all the items",
+        "Translation": "你吸收着世界上所有的物品"
+      }
+    },
+    "DraconicSurgeBuff": {
+      "Name": {
+        "Origin": "Draconic Surge",
+        "Translation": "龙魂加持"
+      },
+      "Description": {
+        "Origin": "The power of a dragon courses through your veins",
+        "Translation": "神龙的力量顺着你的血流灌注全身"
+      }
+    },
+    "GravityNormalizerBuff": {
+      "Name": {
+        "Origin": "Gravity Normalizer",
+        "Translation": "重力复原"
+      },
+      "Description": {
+        "Origin": "Gravity is now normal in space, immunity to distorted",
+        "Translation": "在太空中恢复正常重力作用，免疫扭曲减益"
+      }
+    },
+    "HolyWrathBuff": {
+      "Name": {
+        "Origin": "Holy Wrath",
+        "Translation": "圣神之怒"
+      },
+      "Description": {
+        "Origin": "Increased damage, increased movement and flight speed, and all attacks inflict holy fire",
+        "Translation": "增加伤害、移动速度和飞行速度，所有攻击附带神圣之火减益"
+      }
+    },
+    "Invincible": {
+      "Name": {
+        "Origin": "Invincible",
+        "Translation": "无敌"
+      },
+      "Description": {
+        "Origin": "Immune to damage and most debuffs",
+        "Translation": "获得无敌效果，免疫大多数减益"
+      }
+    },
+    "Omniscience": {
+      "Name": {
+        "Origin": "Omniscience",
+        "Translation": "全知"
+      },
+      "Description": {
+        "Origin": "You can see everything",
+        "Translation": "你能看透世间万物"
+      }
+    },
+    "PenumbraBuff": {
+      "Name": {
+        "Origin": "Penumbra",
+        "Translation": "半影"
+      },
+      "Description": {
+        "Origin": "Stealth regenerates at 10% speed while moving\nThe boost increases to 20% at night and 30% during an eclipse",
+        "Translation": "盗贼潜行值在移动时以10%速度恢复\n在晚上恢复速度变为20%，日食时恢复速度变为30%"
+      }
+    },
+    "PhotosynthesisBuff": {
+      "Name": {
+        "Origin": "Photosynthesis",
+        "Translation": "光合作用"
+      },
+      "Description": {
+        "Origin": "Life regen boosted, more during daytime, and hearts heal more HP",
+        "Translation": "生命恢复速度增加，在白天恢复更快，红心能回复更多生命值"
+      }
+    },
+    "ProfanedRageBuff": {
+      "Name": {
+        "Origin": "Profaned Rage",
+        "Translation": "渎神之怒"
+      },
+      "Description": {
+        "Origin": "Increased crit chance, increased movement and flight speed, and you gain more rage when damaged",
+        "Translation": "增加暴击率、移动速度和飞行速度，你受到攻击时更加更多怒气值"
+      }
+    },
+    "Revivify": {
+      "Name": {
+        "Origin": "Revivify",
+        "Translation": "重振精神"
+      },
+      "Description": {
+        "Origin": "You are healed by a fraction of the damage you take",
+        "Translation": "你受伤时，会按比例回复所受伤害一部分的生命值"
+      }
+    },
+    "Soaring": {
+      "Name": {
+        "Origin": "Soaring",
+        "Translation": "翱翔"
+      },
+      "Description": {
+        "Origin": "Increased wing flight time and speed\nTrue melee hits restore wing flight time",
+        "Translation": "增加翅膀飞行时间和飞行速度\n真近战武器击中怪物时恢复一定的翅膀飞行时间"
+      }
+    },
+    "TeslaBuff": {
+      "Name": {
+        "Origin": "Tesla's Electricity",
+        "Translation": "特斯拉电球"
+      },
+      "Description": {
+        "Origin": "Summons an aura of electricity",
+        "Translation": "召唤一个特斯拉电球"
+      }
+    },
+    "TitanScale": {
+      "Name": {
+        "Origin": "Titan Scale",
+        "Translation": "泰坦之鳞"
+      },
+      "Description": {
+        "Origin": "You feel tanky",
+        "Translation": "你感觉可以坦住成年幻海妖龙"
+      }
+    },
+    "TriumphBuff": {
+      "Name": {
+        "Origin": "Triumph",
+        "Translation": "胜利之战"
+      },
+      "Description": {
+        "Origin": "Enemy contact damage is reduced, the lower their health the greater the reduction",
+        "Translation": "怪物接触伤害降低，生命值越低降低幅度越大"
+      }
+    },
+    "YharimPower": {
+      "Name": {
+        "Origin": "Yharim's Power",
+        "Translation": "亚利姆之力"
+      },
+      "Description": {
+        "Origin": "You feel like you can break the world in two...with your bare hands!",
+        "Translation": "你感觉可以把世界撕成了两半……空手足矣！"
+      }
+    },
+    "Zen": {
+      "Name": {
+        "Origin": "Zen",
+        "Translation": "禅定"
+      },
+      "Description": {
+        "Origin": "Spawn rates are reduced",
+        "Translation": "刷怪率大幅降低"
+      }
+    },
+    "Zerg": {
+      "Name": {
+        "Origin": "Zerg",
+        "Translation": "虫潮"
+      },
+      "Description": {
+        "Origin": "Spawn rates are boosted",
+        "Translation": "刷怪率大幅提升"
+      }
+    },
+    "AbyssalDivingSuitBuff": {
+      "Name": {
+        "Origin": "Abyssal Diving Suit",
+        "Translation": "深渊潜游服"
+      },
+      "Description": {
+        "Origin": "You are made of metal",
+        "Translation": "你是铁打的"
+      }
+    },
+    "AbyssalDivingSuitPlates": {
+      "Name": {
+        "Origin": "Abyssal Diving Suit Plates",
+        "Translation": "深渊潜游服金属外壳"
+      },
+      "Description": {
+        "Origin": "The plates will absorb 15% damage",
+        "Translation": "外壳金属会吸收15%的伤害"
+      }
+    },
+    "AbyssalMadness": {
+      "Name": {
+        "Origin": "Abyssal Madness",
+        "Translation": "深渊狂乱"
+      },
+      "Description": {
+        "Origin": "Increased damage, critical strike chance, and tentacle aggression/range",
+        "Translation": "增加伤害、暴击率和深渊触手的攻击距离和攻击性"
+      }
+    },
+    "AdrenalineMode": {
+      "Name": {
+        "Origin": "Adrenaline Mode",
+        "Translation": "肾上腺素"
+      },
+      "Description": {
+        "Origin": "150% damage boost.",
+        "Translation": "增加150%伤害"
+      }
+    },
+    "Afflicted": {
+      "Name": {
+        "Origin": "Afflicted",
+        "Translation": "灾劫之尖啸"
+      },
+      "Description": {
+        "Origin": "Empowered by otherworldly spirits",
+        "Translation": "被异界之魂祝福"
+      }
+    },
+    "AmidiasBlessing": {
+      "Name": {
+        "Origin": "Amidias' Blessing",
+        "Translation": "海神祝福"
+      },
+      "Description": {
+        "Origin": "You are blessed by Amidias\nLets you breathe underwater, even in the Abyss!\nJust don't get hit...",
+        "Translation": "你被海神祝福了\n让你即使在深渊也拥有水下呼吸的能力！\n小心别受伤…"
+      }
+    },
+    "BloodflareBloodFrenzy": {
+      "Name": {
+        "Origin": "Blood Frenzy",
+        "Translation": "鲜血狂怒"
+      },
+      "Description": {
+        "Origin": "Contact damage is reduced and melee stats are greatly increased",
+        "Translation": "怪物接触伤害降低，近战属性大幅提高"
+      }
+    },
+    "BossZen": {
+      "Name": {
+        "Origin": "Boss Zen",
+        "Translation": "Boss禅定"
+      },
+      "Description": {
+        "Origin": "The active boss is reducing spawn rates...a lot",
+        "Translation": "你面前的Boss大大降低了其他怪物的刷新率"
+      }
+    },
+    "ChiBuff": {
+      "Name": {
+        "Origin": "Chi",
+        "Translation": "气"
+      },
+      "Description": {
+        "Origin": "Your next attack is boosted and you are more resilient",
+        "Translation": "你的下一次攻击伤害提高，防御属性增加"
+      }
+    },
+    "CosmicFreeze": {
+      "Name": {
+        "Origin": "Cosmic Freeze",
+        "Translation": "宙宇冰封"
+      },
+      "Description": {
+        "Origin": "You feel as cold as the empty expanse of outer space",
+        "Translation": "寒气逼人，犹如身于宙域"
+      }
+    },
+    "ElysianGuard": {
+      "Name": {
+        "Origin": "Elysian Guard",
+        "Translation": "极乐守护"
+      },
+      "Description": {
+        "Origin": "Movement speed reduced, other stats buffed",
+        "Translation": "移动速度降低，增加伤害、暴击率和防御力"
+      }
+    },
+    "Encased": {
+      "Name": {
+        "Origin": "Encased",
+        "Translation": "冰固免死"
+      },
+      "Description": {
+        "Origin": "30 defense and +30% damage reduction, but...",
+        "Translation": "增加30点防御力和30%伤害减免，但是…"
+      }
+    },
+    "GraxDefense": {
+      "Name": {
+        "Origin": "Grax Boost",
+        "Translation": "格拉克斯之助"
+      },
+      "Description": {
+        "Origin": "Your defenses and muscles are strong",
+        "Translation": "防御力增加，你的肌肉更加强壮"
+      }
+    },
+    "HeartAttack": {
+      "Name": {
+        "Origin": "Absolute Rage",
+        "Translation": "绝对愤怒"
+      },
+      "Description": {
+        "Origin": "Your anger has made you more durable. Boosts max life by 5%.",
+        "Translation": "你的怒火使你身体更加强壮。增加5%最大生命值"
+      }
+    },
+    "IceShieldBuff": {
+      "Name": {
+        "Origin": "Ice Shield",
+        "Translation": "冰盾"
+      },
+      "Description": {
+        "Origin": "Absorbs 15% damage from the next hit you take, then shatters",
+        "Translation": "吸收下一次受伤时15%的伤害，然后冰盾碎裂"
+      }
+    },
+    "Molten": {
+      "Name": {
+        "Origin": "Molten",
+        "Translation": "熔火之心"
+      },
+      "Description": {
+        "Origin": "Resistant to cold effects",
+        "Translation": "对寒冷效果具有抗性"
+      }
+    },
+    "Mushy": {
+      "Name": {
+        "Origin": "Mushy",
+        "Translation": "与菇共生"
+      },
+      "Description": {
+        "Origin": "Increased defense and life regen",
+        "Translation": "增加防御力和生命恢复速度"
+      }
+    },
+    "PolarisBuff": {
+      "Name": {
+        "Origin": "Polaris Boost",
+        "Translation": "极星之护"
+      },
+      "Description": {
+        "Origin": "The Northern Star empowers your weapon",
+        "Translation": "北极星与你手中的武器产生共鸣"
+      }
+    },
+    "RageMode": {
+      "Name": {
+        "Origin": "Rage Mode",
+        "Translation": "激怒"
+      },
+      "Description": {
+        "Origin": "50% damage boost. Can be boosted by other items up to 110%.",
+        "Translation": "增加50%伤害。能使用其他物品提升至110%"
+      }
+    },
+    "ReaverRage": {
+      "Name": {
+        "Origin": "Reaver Rage",
+        "Translation": "掠夺者之怒"
+      },
+      "Description": {
+        "Origin": "You are angry",
+        "Translation": "爷怒了"
+      }
+    },
+    "ScarfMeleeBoost": {
+      "Name": {
+        "Origin": "Scarf Boost",
+        "Translation": "围巾之助"
+      },
+      "Description": {
+        "Origin": "10% increased damage, 5% increased crit chance, and 10% increased melee speed",
+        "Translation": "增加10%伤害、5%暴击率和10%近战速度"
+      }
+    },
+    "ShellBoost": {
+      "Name": {
+        "Origin": "Shell Speed Boost",
+        "Translation": "甲壳提速"
+      },
+      "Description": {
+        "Origin": "Speed is boosted",
+        "Translation": "移动速度提升"
+      }
+    },
+    "SilvaRevival": {
+      "Name": {
+        "Origin": "Silva Invulnerability",
+        "Translation": "始源林海无敌"
+      },
+      "Description": {
+        "Origin": "You are invulnerable",
+        "Translation": "你处于无敌状态"
+      }
+    },
+    "SirenBobs": {
+      "Name": {
+        "Origin": "Siren",
+        "Translation": "塞壬"
+      },
+      "Description": {
+        "Origin": "You are a siren now",
+        "Translation": "女装有趣吗？"
+      }
+    },
+    "SirenBobsAlt": {
+      "Name": {
+        "Origin": "Siren",
+        "Translation": "塞壬"
+      },
+      "Description": {
+        "Origin": "You are a siren now",
+        "Translation": "女装有趣吗？"
+      }
+    },
+    "SirenWaterSpeed": {
+      "Name": {
+        "Origin": "Siren Speed",
+        "Translation": "塞壬之速"
+      },
+      "Description": {
+        "Origin": "15% increased max speed and acceleration",
+        "Translation": "增加15% 移动速度和加速度"
+      }
+    },
+    "SpiritGeneratorAtkBuff": {
+      "Name": {
+        "Origin": "Spirit Power",
+        "Translation": "灵魂力量"
+      },
+      "Description": {
+        "Origin": "Minion damage boosted by 10%",
+        "Translation": "召唤物伤害提升10%"
+      }
+    },
+    "SpiritGeneratorDefBuff": {
+      "Name": {
+        "Origin": "Spirit Defense",
+        "Translation": "灵魂防御"
+      },
+      "Description": {
+        "Origin": "Defense boosted by 5 and damage reduction boosted by 5%",
+        "Translation": "增加5点防御力和5%伤害减免"
+      }
+    },
+    "SpiritGeneratorRegenBuff": {
+      "Name": {
+        "Origin": "Spirit Regen",
+        "Translation": "灵魂恢复"
+      },
+      "Description": {
+        "Origin": "Regenerating life",
+        "Translation": "恢复生命"
+      }
+    },
+    "TarragonCloak": {
+      "Name": {
+        "Origin": "Tarragon Cloak",
+        "Translation": "龙蒿披风"
+      },
+      "Description": {
+        "Origin": "Contact damage is reduced",
+        "Translation": "怪物接触伤害降低"
+      }
+    },
+    "TarragonImmunity": {
+      "Name": {
+        "Origin": "Tarragon Immunity",
+        "Translation": "龙蒿无敌"
+      },
+      "Description": {
+        "Origin": "You are immune",
+        "Translation": "你现在无敌了"
+      }
+    },
+    "TarraLifeRegen": {
+      "Name": {
+        "Origin": "Tarra Life",
+        "Translation": "生命涌流"
+      },
+      "Description": {
+        "Origin": "Rapid healing",
+        "Translation": "极速生命恢复"
+      }
+    },
+    "TyrantsFury": {
+      "Name": {
+        "Origin": "Tyrant's Fury",
+        "Translation": "暴君之怒"
+      },
+      "Description": {
+        "Origin": "30% increased melee damage and 10% increased melee crit chance",
+        "Translation": "增加30%近战伤害和10%近战暴击率"
+      }
+    },
+    "XerocRage": {
+      "Name": {
+        "Origin": "Xeroc Rage",
+        "Translation": "克希洛克之暴怒"
+      },
+      "Description": {
+        "Origin": "Rage of the cosmos",
+        "Translation": "宇宙的怒火"
+      }
+    },
+    "XerocWrath": {
+      "Name": {
+        "Origin": "Xeroc Wrath",
+        "Translation": "克希洛克之怒气"
+      },
+      "Description": {
+        "Origin": "Wrath of the cosmos",
+        "Translation": "宇宙的怒气"
+      }
+    },
+    "ArmorCrunch": {
+      "Name": {
+        "Origin": "Armor Crunch",
+        "Translation": "碎甲"
+      },
+      "Description": {
+        "Origin": "Your armor is shredded",
+        "Translation": "你的护甲被撕裂了"
+      }
+    },
+    "BurntOut": {
+      "Name": {
+        "Origin": "Burnt Out",
+        "Translation": "灼伤"
+      },
+      "Description": {
+        "Origin": "You've been burnt out and your guardians are less effective",
+        "Translation": "你受伤了，守卫们效果降低"
+      }
+    },
+    "Clamity": {
+      "Name": {
+        "Origin": "Clamity",
+        "Translation": "灾蛤之力"
+      },
+      "Description": {
+        "Origin": "The clams have been angered!",
+        "Translation": "远古巨蛤怒了！"
+      }
+    },
+    "Enraged": {
+      "Name": {
+        "Origin": "Enraged",
+        "Translation": "激怒"
+      },
+      "Description": {
+        "Origin": "All damage taken is increased by 25%",
+        "Translation": "所有受到的伤害增加25%"
+      }
+    },
+    "Eutrophication": {
+      "Name": {
+        "Origin": "Eutrophication",
+        "Translation": "富营养化"
+      },
+      "Description": {
+        "Origin": "Excessive nutrients restrict your movement",
+        "Translation": "过多的营养物质拖慢了你的步伐"
+      }
+    },
+    "ExoFreeze": {
+      "Name": {
+        "Origin": "Exo Freeze",
+        "Translation": "星宇冰寒"
+      },
+      "Description": {
+        "Origin": "Cannot move",
+        "Translation": "无法移动"
+      }
+    },
+    "ExtremeGrav": {
+      "Name": {
+        "Origin": "Extreme Gravity",
+        "Translation": "极限重力"
+      },
+      "Description": {
+        "Origin": "Your wing time is reduced by 50%, infinite flight is disabled",
+        "Translation": "翅膀飞行时间减少50%，无限飞行失效"
+      }
+    },
+    "ExtremeGravity": {
+      "Name": {
+        "Origin": "Icarus' Folly",
+        "Translation": "伊卡洛斯之愚"
+      },
+      "Description": {
+        "Origin": "Your wing time is reduced by 75%, infinite flight is disabled",
+        "Translation": "翅膀飞行时间减少75%，无限飞行失效"
+      }
+    },
+    "FishAlert": {
+      "Name": {
+        "Origin": "Fish Alert",
+        "Translation": "鱼饵标注"
+      },
+      "Description": {
+        "Origin": "The abyssal creatures have spotted you!",
+        "Translation": "深渊生物发现你了！"
+      }
+    },
+    "FrozenLungs": {
+      "Name": {
+        "Origin": "Frozen Lungs",
+        "Translation": "肺部冻伤"
+      },
+      "Description": {
+        "Origin": "The icy waters restrict your breathing",
+        "Translation": "冰冷的水使你无法呼吸"
+      }
+    },
+    "GlacialState": {
+      "Name": {
+        "Origin": "Glacial State",
+        "Translation": "冰河时代"
+      },
+      "Description": {
+        "Origin": "Cannot move and defense is shattered",
+        "Translation": "无法移动，防御破碎"
+      }
+    },
+    "Horror": {
+      "Name": {
+        "Origin": "Horror",
+        "Translation": "恐惧"
+      },
+      "Description": {
+        "Origin": "The horror...",
+        "Translation": "恐惧之心…"
+      }
+    },
+    "Irradiated": {
+      "Name": {
+        "Origin": "Irradiated",
+        "Translation": "辐射"
+      },
+      "Description": {
+        "Origin": "Your skin is burning off",
+        "Translation": "你的皮肤正被侵蚀"
+      }
+    },
+    "MarkedforDeath": {
+      "Name": {
+        "Origin": "Marked",
+        "Translation": "死亡标记"
+      },
+      "Description": {
+        "Origin": "Damage reduction reduced",
+        "Translation": "伤害减免降低"
+      }
+    },
+    "PearlAura": {
+      "Name": {
+        "Origin": "Pearl Aura",
+        "Translation": "珍珠光环"
+      },
+      "Description": {
+        "Origin": "Slowed down",
+        "Translation": "减速"
+      }
+    },
+    "SilvaStun": {
+      "Name": {
+        "Origin": "Silva Stun",
+        "Translation": "始源林海晕眩"
+      },
+      "Description": {
+        "Origin": "Can't move",
+        "Translation": "无法移动"
+      }
+    },
+    "TemporalSadness": {
+      "Name": {
+        "Origin": "Temporal Sadness",
+        "Translation": "莫名的悲伤"
+      },
+      "Description": {
+        "Origin": "You are crying",
+        "Translation": "蓝瘦香菇"
+      }
+    },
+    "TeslaFreeze": {
+      "Name": {
+        "Origin": "Galvanic Corrosion",
+        "Translation": "电偶腐蚀"
+      },
+      "Description": {
+        "Origin": "Your limbs have begun to corrode",
+        "Translation": "你的肢体开始发生腐蚀"
+      }
+    },
+    "TimeSlow": {
+      "Name": {
+        "Origin": "Time Distortion",
+        "Translation": "时间扭曲"
+      },
+      "Description": {
+        "Origin": "Time is slowed",
+        "Translation": "时间流逝减缓"
+      }
+    },
+    "WarCleave": {
+      "Name": {
+        "Origin": "War Cleave",
+        "Translation": "战斗裂甲"
+      },
+      "Description": {
+        "Origin": "Defense and protection reduced",
+        "Translation": "防御力和防御属性降低"
+      }
+    },
+    "Warped": {
+      "Name": {
+        "Origin": "Warped",
+        "Translation": "空间翘曲"
+      },
+      "Description": {
+        "Origin": "Movement is being warped",
+        "Translation": "移动被空间翘曲影响"
+      }
+    },
+    "WeakPetrification": {
+      "Name": {
+        "Origin": "Weak Petrification",
+        "Translation": "略微僵化"
+      },
+      "Description": {
+        "Origin": "Your vertical movement is weakened",
+        "Translation": "垂直移动能力弱化"
+      }
+    },
+    "WhisperingDeath": {
+      "Name": {
+        "Origin": "Whispering Death",
+        "Translation": "死亡低语"
+      },
+      "Description": {
+        "Origin": "Death approaches; defense, attack power, and life regen reduced",
+        "Translation": "死亡正在逼近\n防御力、攻击力和生命恢复速度降低"
+      }
+    },
+    "AerospecSummonSetBuff": {
+      "Name": {
+        "Origin": "Valkyrie",
+        "Translation": "天武神"
+      },
+      "Description": {
+        "Origin": "The valkyrie will protect you",
+        "Translation": "天武神会保护你"
+      }
+    },
+    "ApexSharkBuff": {
+      "Name": {
+        "Origin": "Ancient Mineral Shark",
+        "Translation": "远古岩鲨"
+      },
+      "Description": {
+        "Origin": "Ancient yet so dangerous",
+        "Translation": "来自远古，危险无比"
+      }
+    },
+    "AquaticStar": {
+      "Name": {
+        "Origin": "Aquatic Star",
+        "Translation": "深海之星"
+      },
+      "Description": {
+        "Origin": "The aquatic star will protect you",
+        "Translation": "深海之星会保护你"
+      }
+    },
+    "AstrageldonBuff": {
+      "Name": {
+        "Origin": "Astral Jelly",
+        "Translation": "末世星凝胶"
+      },
+      "Description": {
+        "Origin": "The mini astrageldon slime will protect you",
+        "Translation": "迷你末世星史莱姆会保护你"
+      }
+    },
+    "AstralProbeBuff": {
+      "Name": {
+        "Origin": "Astral Probe",
+        "Translation": "幻星探测器"
+      },
+      "Description": {
+        "Origin": "The astral probe will protect you",
+        "Translation": "幻星探测器会保护你"
+      }
+    },
+    "AtaxiaSummonSetBuff": {
+      "Name": {
+        "Origin": "Hydrothermic Vent",
+        "Translation": "沸腾渊泉"
+      },
+      "Description": {
+        "Origin": "The hydrothermic vent will protect you",
+        "Translation": "沸腾渊泉会保护你"
+      }
+    },
+    "BlackHawkBuff": {
+      "Name": {
+        "Origin": "Black Hawk",
+        "Translation": "黑鹰战斗机"
+      },
+      "Description": {
+        "Origin": "The fighter jet will protect you",
+        "Translation": "战斗机会保护你"
+      }
+    },
+    "BloodClot": {
+      "Name": {
+        "Origin": "Blood Clot",
+        "Translation": "血块"
+      },
+      "Description": {
+        "Origin": "The blood clot will protect you",
+        "Translation": "血块会保护你"
+      }
+    },
+    "BrimstoneWaifu": {
+      "Name": {
+        "Origin": "Brimstone Elemental",
+        "Translation": "硫磺火元素"
+      },
+      "Description": {
+        "Origin": "The brimstone elemental will protect you",
+        "Translation": "硫磺火元素会保护你"
+      }
+    },
+    "BrittleStar": {
+      "Name": {
+        "Origin": "Brittle Star",
+        "Translation": "脆弱之星"
+      },
+      "Description": {
+        "Origin": "The brittle star will protect you",
+        "Translation": "脆弱海星会保护你"
+      }
+    },
+    "Calamari": {
+      "Name": {
+        "Origin": "Calamari",
+        "Translation": "深渊乌贼"
+      },
+      "Description": {
+        "Origin": "The squid will protect you",
+        "Translation": "深渊乌贼会保护你"
+      }
+    },
+    "CalamitasEyes": {
+      "Name": {
+        "Origin": "Blighted Eyes",
+        "Translation": "枯萎之眼"
+      },
+      "Description": {
+        "Origin": "Calamitas and her brothers will protect you",
+        "Translation": "灾厄之影和她的兄弟们会保护你"
+      }
+    },
+    "CloudyWaifu": {
+      "Name": {
+        "Origin": "Cloud Elemental",
+        "Translation": "雨云元素"
+      },
+      "Description": {
+        "Origin": "The cloud elemental will protect you",
+        "Translation": "雨云元素会保护你"
+      }
+    },
+    "Corroslime": {
+      "Name": {
+        "Origin": "Corroslime",
+        "Translation": "腐化史莱姆"
+      },
+      "Description": {
+        "Origin": "The corroslime will protect you",
+        "Translation": "腐化史莱姆会保护你"
+      }
+    },
+    "CosmicEnergy": {
+      "Name": {
+        "Origin": "Cosmic Energy",
+        "Translation": "归虚之灵"
+      },
+      "Description": {
+        "Origin": "The cosmic energy will protect you",
+        "Translation": "归虚之灵会保护你"
+      }
+    },
+    "CosmilampBuff": {
+      "Name": {
+        "Origin": "Cosmilamp",
+        "Translation": "无尽之灯"
+      },
+      "Description": {
+        "Origin": "The cosmilamp will protect you",
+        "Translation": "宇宙之光照耀着你"
+      }
+    },
+    "Crimslime": {
+      "Name": {
+        "Origin": "Crimslime",
+        "Translation": "血腥史莱姆"
+      },
+      "Description": {
+        "Origin": "The crimslime will protect you",
+        "Translation": "血腥史莱姆会保护你"
+      }
+    },
+    "DaedalusSummonSetBuff": {
+      "Name": {
+        "Origin": "Daedalus Crystal",
+        "Translation": "代达罗斯水晶"
+      },
+      "Description": {
+        "Origin": "The daedalus crystal will protect you",
+        "Translation": "代达罗斯水晶会保护你"
+      }
+    },
+    "DankCreeperBuff": {
+      "Name": {
+        "Origin": "Dank Creeper",
+        "Translation": "沼泽之眼"
+      },
+      "Description": {
+        "Origin": "The dank creeper will protect you",
+        "Translation": "沼泽之眼会保护你"
+      }
+    },
+    "DemonshadeSetDevilBuff": {
+      "Name": {
+        "Origin": "Red Devil",
+        "Translation": "赤红恶魔"
+      },
+      "Description": {
+        "Origin": "The red devil will protect you",
+        "Translation": "赤红恶魔与你同在"
+      }
+    },
+    "ElementalAxeBuff": {
+      "Name": {
+        "Origin": "Elemental Axe",
+        "Translation": "元素之斧"
+      },
+      "Description": {
+        "Origin": "The elemental axe will protect you",
+        "Translation": "元素之斧会保护你"
+      }
+    },
+    "EndoCooperBuff": {
+      "Name": {
+        "Origin": "Endo Cooper",
+        "Translation": "源生寒晶"
+      },
+      "Description": {
+        "Origin": "The ascened Cooper will protect you",
+        "Translation": "寒古宙以来冰封的力量晶体为你而战"
+      }
+    },
+    "FungalClumpBuff": {
+      "Name": {
+        "Origin": "Fungal Clump",
+        "Translation": "真菌块"
+      },
+      "Description": {
+        "Origin": "The fungal clump will protect you",
+        "Translation": "真菌块会保护你"
+      }
+    },
+    "GladiatorSwords": {
+      "Name": {
+        "Origin": "Gladiator Swords",
+        "Translation": "角斗士短剑"
+      },
+      "Description": {
+        "Origin": "The gladiator swords will protect you",
+        "Translation": "角斗士短剑在你身旁飞舞"
+      }
+    },
+    "HermitCrab": {
+      "Name": {
+        "Origin": "Hermit Crab",
+        "Translation": "寄居蟹"
+      },
+      "Description": {
+        "Origin": "The hermit crab will protect you",
+        "Translation": "寄居蟹会保护你"
+      }
+    },
+    "Herring": {
+      "Name": {
+        "Origin": "Herring",
+        "Translation": "鲱鱼"
+      },
+      "Description": {
+        "Origin": "The herring will protect you",
+        "Translation": "鲱鱼群会保护你"
+      }
+    },
+    "HotE": {
+      "Name": {
+        "Origin": "Heart of the Elements",
+        "Translation": "元灵之心"
+      },
+      "Description": {
+        "Origin": "All elementals will protect you",
+        "Translation": "所有元素之灵给予你祝福，为你而战"
+      }
+    },
+    "IceClasper": {
+      "Name": {
+        "Origin": "Ice Clasper",
+        "Translation": "噬魂冰虫"
+      },
+      "Description": {
+        "Origin": "The ice clasper will protect you",
+        "Translation": "噬魂冰虫会保护你"
+      }
+    },
+    "Mechworm": {
+      "Name": {
+        "Origin": "Mechworm",
+        "Translation": "虚空吞噬者"
+      },
+      "Description": {
+        "Origin": "The mechworm will protect you",
+        "Translation": "虚空吞噬者在你身旁飞翔"
+      }
+    },
+    "Phantom": {
+      "Name": {
+        "Origin": "Phantom",
+        "Translation": "幽花之灵"
+      },
+      "Description": {
+        "Origin": "The phantom will protect you",
+        "Translation": "噬魂幽花的灵魂碎片主动帮助你"
+      }
+    },
+    "PlantationBuff": {
+      "Name": {
+        "Origin": "Plantation",
+        "Translation": "世纪之花"
+      },
+      "Description": {
+        "Origin": "The miniature plantera will protect you",
+        "Translation": "迷你世纪之花会保护你\n是你吗，世纪小花？"
+      }
+    },
+    "ProfanedBabs": {
+      "Name": {
+        "Origin": "The Profaned Soul",
+        "Translation": "亵渎之魂"
+      },
+      "Description": {
+        "Origin": "The healer will heal your wounds!",
+        "Translation": "治疗守卫会治疗你的伤势！"
+      }
+    },
+    "ReaverSummonSetBuff": {
+      "Name": {
+        "Origin": "Reaver Orb",
+        "Translation": "掠夺者毒球"
+      },
+      "Description": {
+        "Origin": "The reaver orb will protect you",
+        "Translation": "掠夺者毒球会保护你"
+      }
+    },
+    "ResurrectionButterflyBuff": {
+      "Name": {
+        "Origin": "Resurrection Butterfly",
+        "Translation": "反魂蝶"
+      },
+      "Description": {
+        "Origin": "Sleep beneath the Cherry Blossoms, Red-White Butterfly",
+        "Translation": "回归于花下好了，春之亡灵！\n沉眠于花下好了，红白之蝶！"
+      }
+    },
+    "Sandnado": {
+      "Name": {
+        "Origin": "Sandnado",
+        "Translation": "沙鲨龙卷"
+      },
+      "Description": {
+        "Origin": "The sandnado will protect you",
+        "Translation": "沙鲨龙卷会保护你"
+      }
+    },
+    "SandyHealingWaifu": {
+      "Name": {
+        "Origin": "Rare Sand Elemental",
+        "Translation": "稀有沙元素"
+      },
+      "Description": {
+        "Origin": "The sand elemental will heal you",
+        "Translation": "沙元素会治疗你"
+      }
+    },
+    "SandyWaifu": {
+      "Name": {
+        "Origin": "Sand Elemental",
+        "Translation": "沙元素"
+      },
+      "Description": {
+        "Origin": "The sand elemental will protect you",
+        "Translation": "沙元素会保护你"
+      }
+    },
+    "ShellfishBuff": {
+      "Name": {
+        "Origin": "Shellfish",
+        "Translation": "沉沦之贝"
+      },
+      "Description": {
+        "Origin": "The shellfish will protect you",
+        "Translation": "沉沦之贝会保护你"
+      }
+    },
+    "SilvaSummonSetBuff": {
+      "Name": {
+        "Origin": "Silva Crystal",
+        "Translation": "始源林海水晶"
+      },
+      "Description": {
+        "Origin": "The crystal will protect you",
+        "Translation": "始源林海水晶在你头顶闪耀"
+      }
+    },
+    "SiriusBuff": {
+      "Name": {
+        "Origin": "Sirius",
+        "Translation": "天狼星"
+      },
+      "Description": {
+        "Origin": "A bit too bright, but it helps you",
+        "Translation": "有点亮，毕竟是颗蓝矮星"
+      }
+    },
+    "SolarSpirit": {
+      "Name": {
+        "Origin": "Solar Spirit",
+        "Translation": "太阳之灵"
+      },
+      "Description": {
+        "Origin": "The solar spirit will protect you",
+        "Translation": "太阳之灵会保护你"
+      }
+    },
+    "SolarSpiritGod": {
+      "Name": {
+        "Origin": "Solar God Spirit",
+        "Translation": "太阳神之灵"
+      },
+      "Description": {
+        "Origin": "The solar god spirit will protect you",
+        "Translation": "太阳神之灵会保护你"
+      }
+    },
+    "SquirrelSquireBuff": {
+      "Name": {
+        "Origin": "Squirrel Squire",
+        "Translation": "松鼠侍从"
+      },
+      "Description": {
+        "Origin": "The squirrel squire will protect you",
+        "Translation": "松鼠侍从会保护你"
+      }
+    },
+    "StatigelSummonSetBuff": {
+      "Name": {
+        "Origin": "Baby Slime God",
+        "Translation": "史莱姆神宝宝"
+      },
+      "Description": {
+        "Origin": "The slime god will protect you",
+        "Translation": "史莱姆之神会保护你"
+      }
+    },
+    "VictideSummonSetBuff": {
+      "Name": {
+        "Origin": "Urchin",
+        "Translation": "胜潮海胆"
+      },
+      "Description": {
+        "Origin": "The urchin will protect you",
+        "Translation": "海胆会保护你"
+      }
+    },
+    "WaterWaifu": {
+      "Name": {
+        "Origin": "Siren",
+        "Translation": "海妖塞壬"
+      },
+      "Description": {
+        "Origin": "The siren will protect you",
+        "Translation": "海妖塞壬会保护你"
+      }
+    },
+    "WulfrumDroidBuff": {
+      "Name": {
+        "Origin": "Wulfrum Droid",
+        "Translation": "钨钢无人机"
+      },
+      "Description": {
+        "Origin": "The wulfrum droid will protect you",
+        "Translation": "钨钢无人机会保护你"
+      }
+    },
+    "YharonKindleBuff": {
+      "Name": {
+        "Origin": "Son of Yharon",
+        "Translation": "丛林龙之子"
+      },
+      "Description": {
+        "Origin": "The Son of Yharon will protect you",
+        "Translation": "年幼的小龙陪在你身旁\n大肥鸡？"
+      }
+    },
+    "BrimflameFrenzyCooldown": {
+      "Name": {
+        "Origin": "Brimflame Frenzy Cooldown",
+        "Translation": "硫火狂怒冷却"
+      },
+      "Description": {
+        "Origin": "Your use of brimstone magic has left you exhausted",
+        "Translation": "硫火魔法使你筋疲力尽"
+      }
+    },
+    "PlagueBlackoutCooldown": {
+      "Name": {
+        "Origin": "Plague Blackout Cooldown",
+        "Translation": "瘟疫爆发冷却"
+      },
+      "Description": {
+        "Origin": "Your plague blackout ability is recharging",
+        "Translation": "你的瘟疫爆发能力正在缓冲"
+      }
+    },
+    "FlakPetBuff": {
+      "Name": {
+        "Origin": "Flak Hermit",
+        "Translation": "酸丘寄居蟹"
+      },
+      "Description": {
+        "Origin": "Little acid buggy",
+        "Translation": "淘气小酸虫"
+      }
+    },
+    "SparksBuff": {
+      "Name": {
+        "Origin": "Sparks",
+        "Translation": "溅花闪蜓"
+      },
+      "Description": {
+        "Origin": "Eats butterflies",
+        "Translation": "这东西吃蝴蝶"
+      }
+    },
+    "BrimflameFrenzyBuff": {
+      "Name": {
+        "Origin": "Brimflame Frenzy",
+        "Translation": "硫火狂怒"
+      },
+      "Description": {
+        "Origin": "Dark magic empowers your attacks at the cost of your life",
+        "Translation": "黑魔法赋予你强大的、以生命为代价的攻击"
+      }
+    },
+    "HallowedRuneAtkBuff": {
+      "Name": {
+        "Origin": "Hallowed Power",
+        "Translation": "神圣之力"
+      },
+      "Description": {
+        "Origin": "Minion damage boosted by 15%",
+        "Translation": "增加15%仆从伤害"
+      }
+    },
+    "HallowedRuneDefBuff": {
+      "Name": {
+        "Origin": "Hallowed Defense",
+        "Translation": "神圣之佑"
+      },
+      "Description": {
+        "Origin": "Defense boosted by 7 and damage reduction boosted by 7%",
+        "Translation": "增加7防御和7%防御减免"
+      }
+    },
+    "HallowedRuneRegenBuff": {
+      "Name": {
+        "Origin": "Hallowed Regen",
+        "Translation": "神圣之辉"
+      },
+      "Description": {
+        "Origin": "Regenerating life",
+        "Translation": "恢复生命"
+      }
+    },
+    "ProfanedCrystalBuff": {
+      "Name": {
+        "Origin": "Devotion",
+        "Translation": "忠诚"
+      },
+      "Description": {
+        "Origin": "The profaned soul within has been defiled by the powerful magic of a supreme witch",
+        "Translation": "亵渎之魂被一位强大女巫的魔法所玷污"
+      }
+    },
+    "DeathModeCold": {
+      "Name": {
+        "Origin": "Freezing Weather",
+        "Translation": "极寒天气"
+      },
+      "Description": {
+        "Origin": "The weather slows your movement as you freeze to death. You need to look for equipment to protect you from the cold.",
+        "Translation": "寒冷的会逐渐减缓你的速度直到你冻死.你需要某些东西来抵御严寒."
+      }
+    },
+    "DeathModeHot": {
+      "Name": {
+        "Origin": "Heat Exhaustion",
+        "Translation": "中暑"
+      },
+      "Description": {
+        "Origin": "The overwhelming heat weakens your bodily functions. You need to look for equipment to protect you from the heat.",
+        "Translation": "势不可挡的高温会削弱你的身体机能.你需要某些东西来让你免受高温."
+      }
+    },
+    "BelladonnaSpiritBuff": {
+      "Name": {
+        "Origin": "Belladonna Spirit",
+        "Translation": "莨菪之灵"
+      },
+      "Description": {
+        "Origin": "A cute forest spirit is following you",
+        "Translation": "可爱的森林精灵正跟着你"
+      }
+    },
+    "BloodDragonsBuff": {
+      "Name": {
+        "Origin": "Skeletal Dragons",
+        "Translation": "血炎骨龙"
+      },
+      "Description": {
+        "Origin": "Big happy family",
+        "Translation": "幸福大家庭"
+      }
+    },
+    "CinderBlossomBuff": {
+      "Name": {
+        "Origin": "Cinder Blossom",
+        "Translation": "烬之英"
+      },
+      "Description": {
+        "Origin": "A hot, searing flower is floating uncomfortably close to you",
+        "Translation": "一朵灼热的花儿在你头顶浮动"
+      }
+    },
+    "ColdDivinityBuff": {
+      "Name": {
+        "Origin": "Cold Divinity",
+        "Translation": "冰寒神性"
+      },
+      "Description": {
+        "Origin": "The magic of the ancient ice castle will aid you",
+        "Translation": "古老冰霜城堡的魔法会帮助你"
+      }
+    },
+    "CorvidHarbringerBuff": {
+      "Name": {
+        "Origin": "Raven",
+        "Translation": "渡鸦"
+      },
+      "Description": {
+        "Origin": "The powerful raven will protect you",
+        "Translation": "强大的渡鸦会保护你"
+      }
+    },
+    "CosmicViperEngineBuff": {
+      "Name": {
+        "Origin": "Cosmic Viper",
+        "Translation": "宙极蝰蛇"
+      },
+      "Description": {
+        "Origin": "The cosmic gunship will protect you",
+        "Translation": "宇宙炮艇会保护你"
+      }
+    },
+    "DazzlingStabberBuff": {
+      "Name": {
+        "Origin": "Dazzling Stabber",
+        "Translation": "耀目穿刺者"
+      },
+      "Description": {
+        "Origin": "En garde",
+        "Translation": "时刻戒护"
+      }
+    },
+    "DormantBrimseekerBuff": {
+      "Name": {
+        "Origin": "Brimseeker",
+        "Translation": "硫火搜寻者"
+      },
+      "Description": {
+        "Origin": "Does it want something from you?",
+        "Translation": "它是不是想从你身上索取些什么?"
+      }
+    },
+    "EndoHydraBuff": {
+      "Name": {
+        "Origin": "Endo Hydra",
+        "Translation": " 冰洋九头龙"
+      },
+      "Description": {
+        "Origin": "The endo hydra will protect you... for some reason",
+        "Translation": "冰洋九头蛇将保护你... 因为某些原因"
+      }
+    },
+    "FrostBlossomBuff": {
+      "Name": {
+        "Origin": "Frost Blossom",
+        "Translation": "霜之华"
+      },
+      "Description": {
+        "Origin": "A cold, prickly flower is floating uncomfortably close to you",
+        "Translation": "一朵冰冷的花在你头顶浮动"
+      }
+    },
+    "FuelCellBundleBuff": {
+      "Name": {
+        "Origin": "Mini Plaguebringer",
+        "Translation": "迷你瘟疫使者"
+      },
+      "Description": {
+        "Origin": "A small plague bee is following you",
+        "Translation": "一只小瘟疫蜂跟着你"
+      }
+    },
+    "HauntedDishesBuff": {
+      "Name": {
+        "Origin": "Haunted Dishes",
+        "Translation": "缠怨鬼碟"
+      },
+      "Description": {
+        "Origin": "The haunted dishes will protect you",
+        "Translation": "缠怨鬼碟会保护你"
+      }
+    },
+    "IgneousExaltationBuff": {
+      "Name": {
+        "Origin": "Igneous Blade",
+        "Translation": "淬焰古刀"
+      },
+      "Description": {
+        "Origin": "A blade is orbiting you",
+        "Translation": "淬焰古刀围绕着你旋转"
+      }
+    },
+    "MagicHatBuff": {
+      "Name": {
+        "Origin": "Magic Hat",
+        "Translation": "魔法礼帽"
+      },
+      "Description": {
+        "Origin": "The hat carries your soul, bound by a contract",
+        "Translation": "我会一直留着你的灵魂当人质，但你找到的东西都得留下！"
+      }
+    },
+    "MidnightSunBuff": {
+      "Name": {
+        "Origin": "Midnight Sun UFO",
+        "Translation": "极昼飞行物"
+      },
+      "Description": {
+        "Origin": "A strange UFO is observing you, and it's making you very uncomfortable",
+        "Translation": "一个奇怪的UFO在观察你，这令你很不舒服"
+      }
+    },
+    "MutatedTruffleBuff": {
+      "Name": {
+        "Origin": "Mini Old Duke",
+        "Translation": "迷你硫海遗爵"
+      },
+      "Description": {
+        "Origin": "The young duke will protect you",
+        "Translation": "年轻的硫海公爵保护你"
+      }
+    },
+    "PlaguePrincessBuff": {
+      "Name": {
+        "Origin": "Virili",
+        "Translation": "瘟疫雌蜂"
+      },
+      "Description": {
+        "Origin": "It’s a shame you can’t hug her",
+        "Translation": "很遗憾你不能拥抱她"
+      }
+    },
+    "RadiantResolutionBuff": {
+      "Name": {
+        "Origin": "Saros Possession",
+        "Translation": "星律掌控"
+      },
+      "Description": {
+        "Origin": "A radiant aura protects you",
+        "Translation": "一个耀眼的光环保护你"
+      }
+    },
+    "ScabRipperBuff": {
+      "Name": {
+        "Origin": "Baby Blood Crawler",
+        "Translation": "血爬虫宝宝"
+      },
+      "Description": {
+        "Origin": "The baby blood crawler will protect you",
+        "Translation": "血爬虫宝宝将保护你"
+      }
+    },
+    "StaffOfNecrosteocytesBuff": {
+      "Name": {
+        "Origin": "Small Skeleton",
+        "Translation": "小骷髅"
+      },
+      "Description": {
+        "Origin": "A skeleton is observing you",
+        "Translation": "骷髅在注视着你"
+      }
+    },
+    "StormjawBuff": {
+      "Name": {
+        "Origin": "Baby Stormlion",
+        "Translation": "风暴蚁狮宝宝"
+      },
+      "Description": {
+        "Origin": "The baby stormlion will protect you",
+        "Translation": "风暴蚁狮宝宝将保护你"
+      }
+    },
+    "TacticalPlagueEngineBuff": {
+      "Name": {
+        "Origin": "Tactical Plague Engine",
+        "Translation": "战术瘟疫引擎"
+      },
+      "Description": {
+        "Origin": "A giant plague jet is following you",
+        "Translation": "一架瘟疫喷气战机跟着你"
+      }
+    },
+    "VileFeederBuff": {
+      "Name": {
+        "Origin": "Vile Feeder",
+        "Translation": "腐化吞噬者"
+      },
+      "Description": {
+        "Origin": "The baby eater of souls will protect you",
+        "Translation": "灵魂吞噬者宝宝将保护你"
+      }
+    },
+    "PlaguebringerBabBuff": {
+      "Name": {
+        "Origin": "Plaguebringer Bab",
+        "Translation": "瘟疫使者宝宝"
+      },
+      "Description": {
+        "Origin": "The baby plaguebringer sees you as the queen",
+        "Translation": "瘟疫使者宝宝将你视为它们的女王"
+      }
+    },
+    "EffigyOfDecayBuff": {
+      "Name": {
+        "Origin": "Effigy of Decay",
+        "Translation": "腐朽塑像"
+      },
+      "Description": {
+        "Origin": "The sulphuric waters empower you",
+        "Translation": "硫海之水给予你力量"
+      }
+    },
+    "SulphurskinBuff": {
+      "Name": {
+        "Origin": "Sulphurskin",
+        "Translation": "硫磺皮肤"
+      },
+      "Description": {
+        "Origin": "The sulphuric waters have a lesser effect on you",
+        "Translation": "减少硫海之水对你的影响"
+      }
+    },
+    "AbsoluteRage": {
+      "Name": {
+        "Origin": "Absolute Rage",
+        "Translation": "绝对愤怒"
+      },
+      "Description": {
+        "Origin": "Anger hardens the heart. Boosts max life by 5%.",
+        "Translation": "愤怒使你的心脏变得强硬。 增加5%最大生命值。"
+      }
+    },
+    "GammaHeadBuff": {
+      "Name": {
+        "Origin": "Gamma Hydra",
+        "Translation": "伽马共生体"
+      },
+      "Description": {
+        "Origin": "...",
+        "Translation": "..."
+      }
+    },
+    "RustyDroneBuff": {
+      "Name": {
+        "Origin": "Rusty Drone",
+        "Translation": "锈蚀无人机"
+      },
+      "Description": {
+        "Origin": "A pitifully fragile drone is observing you",
+        "Translation": "可怜且脆弱的无人机在注视着你"
+      }
+    },
+    "ResilienceCooldown": {
+      "Name": {
+        "Origin": "Resilience Cooldown",
+        "Translation": "塑魂冷却"
+      },
+      "Description": {
+        "Origin": "You cannot re-summon a relic of resilience",
+        "Translation": "你无法再次召唤灵之形"
+      }
+    },
+    "EnergyShellCooldown": {
+      "Name": {
+        "Origin": "Energy Shell Cooldown",
+        "Translation": "能量庇护冷却"
+      },
+      "Description": {
+        "Origin": "Your energy shell is recharging",
+        "Translation": "能量庇护正在充能"
+      }
+    },
+    "LadBuff": {
+      "Name": {
+        "Origin": "The Father",
+        "Translation": "老爹"
+      },
+      "Description": {
+        "Origin": "A father of many floats around you",
+        "Translation": "万子千孙之父浮于身畔"
+      }
+    },
+    "ProfanedWeakness": {
+      "Name": {
+        "Origin": "Profaned Weakness",
+        "Translation": "亵渎之疲弱"
+      },
+      "Description": {
+        "Origin": "You do less damage",
+        "Translation": "你造成的伤害减少"
+      }
+    },
+    "TundraFlameBlossomsBuff": {
+      "Name": {
+        "Origin": "Tundra Flame Blossom",
+        "Translation": "永冻之焱华"
+      },
+      "Description": {
+        "Origin": "A perfect unison of balance and beauty",
+        "Translation": "均衡与美丽的完美和谐"
+      }
+    }
+  }
+}
